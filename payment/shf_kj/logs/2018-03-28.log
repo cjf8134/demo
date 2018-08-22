@@ -1,0 +1,63 @@
+执行日期：2018-03-28-14:46:47
+leanwork签名认证:成功
+
+执行日期：2018-03-28-14:46:47
+表单提交地址：http://api.tdqxb.com/Paybank.aspx?banktype=wypay&partner=17262&paymoney=10&ordernumber=180322000449TW001375000001140591&callbackurl=http://localhost/leanworkpay/km/notify.php&hrefbackurl=http://localhost/pay/success&sign=a98c0ad0156e2062c2144c1168170f1e
+
+执行日期：2018-03-28-14:46:47
+表单提交
+
+执行日期：2018-03-28-14:46:47
+array (
+  'partner' => '17262',
+  'ordernumber' => '180322000449TW001375000001140591',
+  'banktype' => 'wypay',
+  'attach' => 'md5',
+  'paymoney' => '10',
+  'callbackurl' => 'http://localhost/leanworkpay/km/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'sign' => 'a98c0ad0156e2062c2144c1168170f1e',
+)
+
+执行日期：2018-03-28-14:48:03
+leanwork签名认证:成功
+
+执行日期：2018-03-28-14:48:03
+表单提交地址：http://api.tdqxb.com/Paybank.aspx?banktype=wypay&partner=17262&paymoney=10&ordernumber=180322000449TW001375000001140791&callbackurl=http://localhost/leanworkpay/km/notify.php&hrefbackurl=http://localhost/pay/success&sign=bce532c0f94c5bd71376b9b5a3758e86
+
+执行日期：2018-03-28-14:48:03
+表单提交
+
+执行日期：2018-03-28-14:48:03
+array (
+  'partner' => '17262',
+  'ordernumber' => '180322000449TW001375000001140791',
+  'banktype' => 'wypay',
+  'attach' => 'md5',
+  'paymoney' => '10',
+  'callbackurl' => 'http://localhost/leanworkpay/km/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'sign' => 'bce532c0f94c5bd71376b9b5a3758e86',
+)
+
+执行日期：2018-03-28-14:48:21
+leanwork签名认证:成功
+
+执行日期：2018-03-28-14:48:21
+表单提交地址：http://api.tdqxb.com/Paybank.aspx?banktype=wypay&partner=17262&paymoney=0.01&ordernumber=180322000449TW001375000001140525&callbackurl=http://localhost/leanworkpay/km/notify.php&hrefbackurl=http://localhost/pay/success&sign=76ec8731086490f4831b29e086d9d0ba
+
+执行日期：2018-03-28-14:48:21
+表单提交
+
+执行日期：2018-03-28-14:48:21
+array (
+  'partner' => '17262',
+  'ordernumber' => '180322000449TW001375000001140525',
+  'banktype' => 'wypay',
+  'attach' => 'md5',
+  'paymoney' => '0.01',
+  'callbackurl' => 'http://localhost/leanworkpay/km/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'sign' => '76ec8731086490f4831b29e086d9d0ba',
+)
+

@@ -1,0 +1,24 @@
+﻿@model demo1.Models.PaySubmit
+
+<html>
+<body>
+    <form id="submitForm" method="post" name="submitFomm" action="@Model.url ">
+       @{
+           foreach (var item in @Model.dic)
+           {
+                <input name="@item.Key" value="@item.Value" />
+
+           }
+
+    }
+                <input type="submit" value="支付" id="submit">
+    </form>
+</body>
+
+<script type="text/javascript">
+window.onload = function(){
+	var submitInput= document.getElementById("submit");
+	submitInput.click();
+}
+</script>
+</html>

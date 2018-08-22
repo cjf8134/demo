@@ -1,0 +1,489 @@
+执行日期：2018-06-29-00:00:39
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:01:42
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:01:42
+表单提交
+
+执行日期：2018-06-29-00:01:42
+array (
+  'orderNo' => '2018062900014280781',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140504',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:02:07
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:02:07
+表单提交
+
+执行日期：2018-06-29-00:02:07
+array (
+  'orderNo' => '2018062900020749562',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:02:57
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:02:57
+表单提交
+
+执行日期：2018-06-29-00:02:57
+array (
+  'orderNo' => '2018062900025719296',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:04:37
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:04:37
+表单提交
+
+执行日期：2018-06-29-00:04:37
+array (
+  'orderNo' => '2018062900043790791',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:38:53
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:38:53
+表单提交
+
+执行日期：2018-06-29-00:38:53
+array (
+  'orderNo' => '2018062900385358328',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:39:13
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:39:13
+表单提交
+
+执行日期：2018-06-29-00:39:13
+array (
+  'orderNo' => '2018062900391361248',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:39:25
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:39:25
+表单提交
+
+执行日期：2018-06-29-00:39:25
+array (
+  'orderNo' => '2018062900392527865',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:40:06
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:40:06
+表单提交
+
+执行日期：2018-06-29-00:40:06
+array (
+  'orderNo' => '2018062900400626764',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140866',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'userId' => 'M100002245',
+  'goodsType' => 0,
+  'isBind' => 1,
+)
+
+执行日期：2018-06-29-00:47:19
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:47:19
+表单提交
+
+执行日期：2018-06-29-00:47:19
+array (
+  'orderNo' => '2018062900471943644',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140417',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:49:30
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:53:02
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:58:31
+leanwork签名认证:成功
+
+执行日期：2018-06-29-00:58:31
+表单提交
+
+执行日期：2018-06-29-00:58:31
+array (
+  'orderNo' => '2018062900583192625',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140417',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-00:58:51
+leanwork签名认证:成功
+
+执行日期：2018-06-29-01:03:58
+leanwork签名认证:成功
+
+执行日期：2018-06-29-01:03:58
+表单提交
+
+执行日期：2018-06-29-01:03:58
+array (
+  'orderNo' => '2018062901035812698',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140345',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-01:05:51
+leanwork签名认证:成功
+
+执行日期：2018-06-29-01:05:51
+表单提交
+
+执行日期：2018-06-29-01:05:51
+array (
+  'orderNo' => '2018062901055137414',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140345',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-09:16:38
+leanwork签名认证:成功
+
+执行日期：2018-06-29-09:16:38
+表单提交
+
+执行日期：2018-06-29-09:16:38
+array (
+  'orderNo' => '2018062909163886530',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140464',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-09:31:11
+leanwork签名认证:成功
+
+执行日期：2018-06-29-09:31:11
+表单提交
+
+执行日期：2018-06-29-09:31:11
+array (
+  'orderNo' => '2018062909311191755',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140244',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-09:33:16
+leanwork签名认证:成功
+
+执行日期：2018-06-29-09:33:16
+表单提交
+
+执行日期：2018-06-29-09:33:16
+array (
+  'orderNo' => '2018062909331652495',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140148',
+  'cardType' => 'X',
+  'goodsName' => '0.01',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-09:58:14
+leanwork签名认证:成功
+
+执行日期：2018-06-29-09:58:14
+表单提交
+
+执行日期：2018-06-29-09:58:14
+array (
+  'orderNo' => '2018062909581424707',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/youyipay/notify.php',
+  'remark' => '180322000449TW001375000001140716',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-11:37:49
+leanwork签名认证:成功
+
+执行日期：2018-06-29-11:37:49
+表单提交
+
+执行日期：2018-06-29-11:37:49
+array (
+  'orderNo' => '2018062911374928105',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140360',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:38:51
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:38:51
+表单提交
+
+执行日期：2018-06-29-12:38:51
+array (
+  'orderNo' => '2018062912385150785',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140115',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:41:19
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:41:19
+表单提交
+
+执行日期：2018-06-29-12:41:19
+array (
+  'orderNo' => '2018062912411965560',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140115',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:41:37
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:41:37
+表单提交
+
+执行日期：2018-06-29-12:41:37
+array (
+  'orderNo' => '2018062912413741795',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140454',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:47:05
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:47:05
+表单提交
+
+执行日期：2018-06-29-12:47:05
+array (
+  'orderNo' => '2018062912470563938',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140454',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:47:40
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:47:41
+表单提交
+
+执行日期：2018-06-29-12:47:41
+array (
+  'orderNo' => '2018062912474060277',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140454',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-12:49:27
+leanwork签名认证:成功
+
+执行日期：2018-06-29-12:49:27
+表单提交
+
+执行日期：2018-06-29-12:49:27
+array (
+  'orderNo' => '2018062912492720586',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140850',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-13:00:11
+leanwork签名认证:成功
+
+执行日期：2018-06-29-13:00:11
+表单提交
+
+执行日期：2018-06-29-13:00:11
+array (
+  'orderNo' => '2018062913001191047',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140609',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-29-13:00:45
+leanwork签名认证:成功
+
+执行日期：2018-06-29-13:00:45
+表单提交
+
+执行日期：2018-06-29-13:00:45
+array (
+  'orderNo' => '2018062913004553550',
+  'orderAmt' => '0.01',
+  'bankId' => '888C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/payment/yoyipay/notify.php',
+  'remark' => '180322000449TW001375000001140705',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+

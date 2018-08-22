@@ -1,0 +1,222 @@
+执行日期：2018-04-18-10:22:17
+leanwork签名认证:成功
+
+执行日期：2018-04-18-10:22:17
+表单提交
+
+执行日期：2018-04-18-10:22:17
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418102217',
+  'gid' => '99',
+  'orderidinf' => '180322000449TW001375000001140518',
+  'totalPrice' => '10',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => '1a440eac06e81ac59c967b68fc35fd43',
+)
+
+执行日期：2018-04-18-10:41:53
+leanwork签名认证:成功
+
+执行日期：2018-04-18-10:41:53
+表单提交
+
+执行日期：2018-04-18-10:41:53
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418104153',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140699',
+  'totalPrice' => '10',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => '9c3d4c235c54e0ad98921cd870296310',
+)
+
+执行日期：2018-04-18-10:44:10
+leanwork签名认证:成功
+
+执行日期：2018-04-18-10:45:12
+leanwork签名认证:成功
+
+执行日期：2018-04-18-10:45:12
+表单提交
+
+执行日期：2018-04-18-10:45:12
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418104512872',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140747',
+  'totalPrice' => '10',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'dafadcd53b9ea2ddb5200a1e346ac19c',
+)
+
+执行日期：2018-04-18-11:16:28
+leanwork签名认证:成功
+
+执行日期：2018-04-18-11:16:28
+表单提交
+
+执行日期：2018-04-18-11:16:28
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418111628300',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140973',
+  'totalPrice' => '10.00',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'dd6c275e655a35bed6749bdcbea9fb8f',
+)
+
+执行日期：2018-04-18-11:16:50
+leanwork签名认证:成功
+
+执行日期：2018-04-18-11:16:50
+表单提交
+
+执行日期：2018-04-18-11:16:50
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418111650758',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140835',
+  'totalPrice' => '10.00',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'b08f14a5180ff06d829b984dd7a6cb25',
+)
+
+执行日期：2018-04-18-11:18:50
+leanwork签名认证:成功
+
+执行日期：2018-04-18-11:18:50
+表单提交
+
+执行日期：2018-04-18-11:18:50
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180418111850302',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140139',
+  'totalPrice' => '10.00',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/leanworkpay/alway/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'da6c40e98617b3c574c04aa4e0acf9b6',
+)
+
+执行日期：2018-04-18-11:18:50
+表单返回信息
+
+执行日期：2018-04-18-11:18:50
+{"sign":"68584ebe14dc9beadc7f351cc15b4afa","cashway":"http://gateway.alwaypay.com/cashier/channel/wgNoIcon?gateway_id=3301&encryptData=%7B%22serialNo%22%3A%22BC7CC771BF594FC29375F227A6FCC3A7%22%2C%22version%22%3A%221.0%22%2C%22timestamp%22%3A%2220180418111851383%22%2C%22data%22%3A%22BkTpOhBcDagHPPeeyQgZlL0AKqCja33q%2FzqaMa3JzFctVWRnegrCtldW5NdoLMv%2BzgI0TiuOKdJDkITWF9eONgQ11GMq%2F%2BHhSI%2B1sZ%2FFGWwrM4neADwq9Z%2BfTSb1960jxLpmUty2Ebh4az7wd29Dp1IzseA3wFdGm%2BrmwutouIUGGea4V0psi%2FejkWU%2BN7wBSBfkYuxDCZ5Vo9OdF11PsvHpxQBDX4WJSUu0VDjBca3wSLH5yxKADZlLSCwugZ7Tk3kqF1kEbhQ0sAvrhHlXrP5ZAgeLov1M%2BR6EOyRcUo3gDdo0pxaM%2FEaNpmuqxilZPc8LFnhhKeHJGIQSak%2FEK8fkdzPLdzvzNwa8M4RI5xXInSH1znhnU8DhbfGLP22I4ijChjZCLN2IVUYzJmpVuA%3D%3D%22%2C%22signature%22%3A%22SJHwANllH5QFvw9LSPEC4s53Q2iXmn0ZrO%2BamBD7Wq7jovey5eYUv8VZy6l4VlO0uNrH%2F6jf8ilvBQJReBbjuEVbAZYlVXpY9hUvKOk5UmD2ZRxoDjaL4kC5p7b5lYZreAWCYHAcqhNthoHuv%2B9X3Pwyep5rN9HsYkyoEXW9%2FIMgceg3DjXqXqVC%2B8msqpXdq3ytJfJbpyW%2FtZqaOAEEF1WldZ3W1njpk2CTrQy4fFia%2BGRLGW6TsxUhX3hT6zAxBEkPadhmm0vKhMq25ylW6FLTpa2fz3cp6PYGi6sAFmAoweeRXJoPZav9v66ojETVW1r%2BjnRKZm63KAbMvQvbmg%3D%3D%22%7D","orderidinf":"180322000449TW001375000001140139","code":"0x0000","success":true,"msg":"调用成功","orderId":"R2018041811185135844"}
+
+执行日期：2018-04-18-12:43:07
+支付通知验证-参数:
+NULL
+
+执行日期：2018-04-18-12:44:51
+支付通知验证-参数:
+array (
+  'sign' => '084d8103e179beb9772b25866dd12689',
+  'rate' => 0.0080000000000000002,
+  'orderidinf' => '180322000449TW001375000001140105',
+  'tradeFee' => '0.00',
+  'appid' => 'AWP112897',
+  'paysucctime' => '2018-04-18 04:31:09',
+  'tradeAmount' => '0.01',
+  'msg' => 'ok',
+  'success' => true,
+  'orderId' => 'R2018041812294201204',
+  'totalPrice' => 0.01,
+)
+
+执行日期：2018-04-18-12:44:51
+支付通知验证-结果:
+ok
+
+执行日期：2018-04-18-12:44:51
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-04-18-12:44:51
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140105',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'R2018041812294201204',
+  'status' => 'success',
+  'sign' => 'bcc318dd0bbbd62daf2778405590025e',
+)
+
+执行日期：2018-04-18-12:44:51
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+'
+
+执行日期：2018-04-18-12:44:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140105',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'R2018041812294201204',
+  'status' => 'success',
+  'sign' => 'bcc318dd0bbbd62daf2778405590025e',
+)
+
+执行日期：2018-04-18-12:44:54
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+'
+
+执行日期：2018-04-18-12:46:50
+支付通知验证-参数:
+
+
+执行日期：2018-04-18-12:46:51
+支付通知验证-参数:
+
+

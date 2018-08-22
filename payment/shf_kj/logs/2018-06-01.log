@@ -1,0 +1,94 @@
+执行日期：2018-06-01-17:22:01
+表单提交
+
+执行日期：2018-06-01-17:22:01
+array (
+  'orderNumber' => '180322000449TW001375000001140956',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '362201198509194811',
+  'userName' => '陈自伟',
+  'mobile' => '17610831319',
+  'cardNo' => '6217001930029684330',
+  'cardType' => 'SAVINGS',
+  'amount' => '200',
+  'currency' => 'CNY',
+  'orderCreateIp' => '202.173.255.132',
+  'commodityDesc' => '666',
+  'commodityName' => '888',
+  'commodityRemark' => '888',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-06-01-17:22:05
+表单提交
+
+执行日期：2018-06-01-17:22:05
+array (
+  'orderNumber' => '180322000449TW001375000001140956',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '362201198509194811',
+  'userName' => '陈自伟',
+  'mobile' => '17610831319',
+  'cardNo' => '6217001930029684330',
+  'cardType' => 'SAVINGS',
+  'amount' => '200',
+  'currency' => 'CNY',
+  'orderCreateIp' => '202.173.255.132',
+  'commodityDesc' => '666',
+  'commodityName' => '888',
+  'commodityRemark' => '888',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-06-01-17:22:07
+表单提交
+
+执行日期：2018-06-01-17:22:07
+array (
+  'orderNumber' => '180322000449TW001375000001140956',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '362201198509194811',
+  'userName' => '陈自伟',
+  'mobile' => '17610831319',
+  'cardNo' => '6217001930029684330',
+  'cardType' => 'SAVINGS',
+  'amount' => '200',
+  'currency' => 'CNY',
+  'orderCreateIp' => '202.173.255.132',
+  'commodityDesc' => '666',
+  'commodityName' => '888',
+  'commodityRemark' => '888',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+  'smsCode' => '',
+)
+
+执行日期：2018-06-01-17:22:37
+表单提交
+
+执行日期：2018-06-01-17:22:37
+array (
+  'orderNumber' => '180322000449TW001375000001140956',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '362201198509194811',
+  'userName' => '陈自伟',
+  'mobile' => '17610831319',
+  'cardNo' => '6217001930029684330',
+  'cardType' => 'SAVINGS',
+  'amount' => '200',
+  'currency' => 'CNY',
+  'orderCreateIp' => '202.173.255.132',
+  'commodityDesc' => '666',
+  'commodityName' => '888',
+  'commodityRemark' => '888',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+  'smsCode' => '',
+)
+

@@ -1,0 +1,33 @@
+执行日期：2018-06-30-00:08:31
+leanwork传进来的参数
+
+执行日期：2018-06-30-00:08:31
+array (
+  'orderNo' => '180322000449TW001375000001140213',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://www.demo.cn/payment/yoyipay2/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-30-00:08:54
+表单提交
+
+执行日期：2018-06-30-00:08:54
+array (
+  'orderNo' => '2018063000085446301',
+  'orderAmt' => '0.01',
+  'bankId' => '102C',
+  'returnURL' => 'http://localhost/pay/success',
+  'notifyURL' => 'http://www.demo.cn/payment/yoyipay2/notify.php',
+  'remark' => '180322000449TW001375000001140213',
+  'cardType' => 'X',
+  'goodsName' => 'baiduyixia',
+  'goodsType' => 0,
+)
+
+执行日期：2018-06-30-00:08:54
+签名
+
+执行日期：2018-06-30-00:08:54
+'TXMSqzi72egxp3l5BiAstAOSZk9KNPNnYYaqKfaC0Yu/BTwOb0fLzXXbV752OIYvhMGz/PbXNJsSgedeQ6zCkTUkqLv+d1LwMadegBltN1Jr+WFIlmzbIUx6VCmsj0YTU7bd6dG83kJTvCJr4w4TezpTrup3iRzNyg7xksj2G3YNSw8bpGor1ZW3KzhV3WCTiA4y2zvVKFUeKcd816UB3W8jihzzRqoe2FWu0Qo2BkHijG8S7G6yee8b4k2xDZ5oMyOG9cF/SB325gN6TxU2zSIROvx7znBNx9BNP6+VCfgyN4PKO1nDDvJ2CCPg47S5OrTWQ1DJ8+d9vHxiaMNpqA=='
+

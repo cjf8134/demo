@@ -1,0 +1,273 @@
+执行日期：2018-07-19-20:57:53
+leanwork签名认证:成功
+
+执行日期：2018-07-19-20:57:53
+表单提交
+
+执行日期：2018-07-19-20:57:53
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192057538703',
+  'fxdesc' => 'test',
+  'fxfee' => '0.01',
+  'fxattch' => '180322000449TW001375000001140901',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'bank',
+  'fxip' => '183.95.51.151',
+  'fxsign' => 'a29ae1afa4ab0e7eb619436a18df3fb4',
+)
+
+执行日期：2018-07-19-20:57:53
+表单提交返回数据
+
+执行日期：2018-07-19-20:57:53
+array (
+  'status' => 0,
+  'error' => '没有接口权限，请申请开通后尝试。',
+)
+
+执行日期：2018-07-19-20:58:31
+leanwork签名认证:成功
+
+执行日期：2018-07-19-20:58:31
+表单提交
+
+执行日期：2018-07-19-20:58:31
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192058318948',
+  'fxdesc' => 'test',
+  'fxfee' => '0.01',
+  'fxattch' => '180322000449TW001375000001140702',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'ylkj',
+  'fxip' => '183.95.51.151',
+  'fxsign' => '7a0f0ea8c6fb353a42a2df85ccdc5d52',
+)
+
+执行日期：2018-07-19-20:58:31
+表单提交返回数据
+
+执行日期：2018-07-19-20:58:31
+array (
+  'status' => 0,
+  'error' => '没有接口权限，请申请开通后尝试。',
+)
+
+执行日期：2018-07-19-21:02:13
+leanwork签名认证:成功
+
+执行日期：2018-07-19-21:02:13
+表单提交
+
+执行日期：2018-07-19-21:02:13
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192102131822',
+  'fxdesc' => 'test',
+  'fxfee' => '0.01',
+  'fxattch' => '180322000449TW001375000001140816',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'ylkj',
+  'fxip' => '183.95.51.151',
+  'fxsign' => '71e1ea26c853145d6c363cf68767f46c',
+)
+
+执行日期：2018-07-19-21:02:13
+表单提交返回数据
+
+执行日期：2018-07-19-21:02:13
+array (
+  'status' => 1,
+  'payurl' => 'http://pay.xiaocoo.top/sandpay.php?mid=16659906&type=1&out_trade_no=2018103201807192102131822&total_amount=0.01&title=test&body=test&notifyurl=http://pay.redmoble.com/Pay/notify/sandpay&fronturl=http://pay.redmoble.com/Pay/notify/sandpay&extend=180322000449TW001375000001140816',
+)
+
+执行日期：2018-07-19-21:04:49
+leanwork签名认证:成功
+
+执行日期：2018-07-19-21:04:49
+表单提交
+
+执行日期：2018-07-19-21:04:49
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192104494697',
+  'fxdesc' => 'test',
+  'fxfee' => '0.01',
+  'fxattch' => '180322000449TW001375000001140778',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'bank',
+  'fxip' => '183.95.51.151',
+  'fxsign' => 'ddeba861b6635c32c482707615fe68a8',
+)
+
+执行日期：2018-07-19-21:04:50
+表单提交返回数据
+
+执行日期：2018-07-19-21:04:50
+array (
+  'status' => 1,
+  'payurl' => 'http://pay.xiaocoo.top/sandpay.php?mid=16659906&type=2&out_trade_no=2018103201807192104494697&total_amount=0.01&title=test&body=test&notifyurl=http://pay.redmoble.com/Pay/notify/sandpay&fronturl=&extend=180322000449TW001375000001140778',
+)
+
+执行日期：2018-07-19-21:06:50
+leanwork签名认证:成功
+
+执行日期：2018-07-19-21:06:50
+表单提交
+
+执行日期：2018-07-19-21:06:50
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192106509545',
+  'fxdesc' => 'test',
+  'fxfee' => '0.01',
+  'fxattch' => '180322000449TW001375000001140448',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'bank',
+  'fxip' => '183.95.51.151',
+  'fxsign' => 'bb2bdbf34db1148e53b0e6601d99366e',
+)
+
+执行日期：2018-07-19-21:06:54
+表单提交返回数据
+
+执行日期：2018-07-19-21:06:54
+array (
+  'status' => 1,
+  'payurl' => 'http://pay.xiaocoo.top/sandpay.php?mid=16659906&type=2&out_trade_no=2018103201807192106509545&total_amount=0.01&title=test&body=test&notifyurl=http://pay.redmoble.com/Pay/notify/sandpay&fronturl=&extend=180322000449TW001375000001140448',
+)
+
+执行日期：2018-07-19-21:08:28
+leanwork签名认证:成功
+
+执行日期：2018-07-19-21:08:28
+表单提交
+
+执行日期：2018-07-19-21:08:28
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192108283375',
+  'fxdesc' => 'test',
+  'fxfee' => '1.00',
+  'fxattch' => '180322000449TW001375000001140339',
+  'fxnotifyurl' => 'http://zh.cynjs.com/zhifupay/guofupay/notify.php',
+  'fxbackurl' => 'http://localhost/pay/success',
+  'fxpay' => 'bank',
+  'fxip' => '183.95.51.151',
+  'fxsign' => 'eb0d62c132c9f3ee6ef8086d720f5f37',
+)
+
+执行日期：2018-07-19-21:08:29
+表单提交返回数据
+
+执行日期：2018-07-19-21:08:29
+array (
+  'status' => 1,
+  'payurl' => 'http://pay.xiaocoo.top/sandpay.php?mid=16659906&type=2&out_trade_no=2018103201807192108283375&total_amount=1.00&title=test&body=test&notifyurl=http://pay.redmoble.com/Pay/notify/sandpay&fronturl=&extend=180322000449TW001375000001140339',
+)
+
+执行日期：2018-07-19-21:09:47
+支付通知验证-参数:
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192108283375',
+  'fxorder' => '2018071921084608461559642142',
+  'fxdesc' => 'test',
+  'fxfee' => '1.00',
+  'fxattch' => '180322000449TW001375000001140339',
+  'fxstatus' => '1',
+  'fxtime' => '1532005787',
+  'fxsign' => '7423ae828b6e2f31eb2f586c7f0cfa53',
+)
+
+执行日期：2018-07-19-21:09:47
+支付通知验证-参数:
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192108283375',
+  'fxorder' => '2018071921084608461559642142',
+  'fxdesc' => 'test',
+  'fxfee' => '1.00',
+  'fxattch' => '180322000449TW001375000001140339',
+  'fxstatus' => '1',
+  'fxtime' => '1532005787',
+  'fxsign' => '7423ae828b6e2f31eb2f586c7f0cfa53',
+)
+
+执行日期：2018-07-19-21:09:47
+支付通知验证-生成的签名:
+7423ae828b6e2f31eb2f586c7f0cfa53
+
+执行日期：2018-07-19-21:09:47
+支付通知验证-参数:
+array (
+  'fxid' => '2018103',
+  'fxddh' => '201807192108283375',
+  'fxorder' => '2018071921084608461559642142',
+  'fxdesc' => 'test',
+  'fxfee' => '1.00',
+  'fxattch' => '180322000449TW001375000001140339',
+  'fxstatus' => '1',
+  'fxtime' => '1532005787',
+  'fxsign' => '7423ae828b6e2f31eb2f586c7f0cfa53',
+)
+
+执行日期：2018-07-19-21:09:47
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-19-21:09:47
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-19-21:09:47
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140339',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018071921084608461559642142',
+  'status' => 'success',
+  'sign' => '2e17c50802351b8582f832994775cfde',
+)
+
+执行日期：2018-07-19-21:09:47
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-19-21:09:49
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140339',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018071921084608461559642142',
+  'status' => 'success',
+  'sign' => '2e17c50802351b8582f832994775cfde',
+)
+
+执行日期：2018-07-19-21:09:49
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

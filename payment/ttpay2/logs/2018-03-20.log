@@ -1,0 +1,63 @@
+执行日期：2018-03-20-14:20:25
+leanwork签名认证:成功
+
+执行日期：2018-03-20-14:20:25
+表单提交
+
+执行日期：2018-03-20-14:20:25
+array (
+  'order_no' => '20180320142025522867',
+  'mer_id' => '6137',
+  'service_type' => 803,
+  'order_amount' => '1000',
+  'subject' => 'NO5ab0a8290f72b',
+  'sign_type' => 'md5',
+  'type' => 2,
+  'sign' => '131670aec64023d566333a3a99d11a73',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yzh/notify.php',
+  'order_time' => '2018-03-20 14:20:25',
+)
+
+执行日期：2018-03-20-14:35:04
+leanwork签名认证:成功
+
+执行日期：2018-03-20-14:35:04
+表单提交
+
+执行日期：2018-03-20-14:35:04
+array (
+  'order_no' => '20180320143504224613',
+  'mer_id' => '6137',
+  'service_type' => 803,
+  'order_amount' => '1000',
+  'subject' => 'NO5ab0ab986ecb3',
+  'sign_type' => 'md5',
+  'type' => 2,
+  'sign' => 'beb0adf4dc0a88edd0d47a8f40ed2307',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yzh/notify.php',
+  'order_time' => '2018-03-20 14:35:04',
+)
+
+执行日期：2018-03-20-14:35:49
+leanwork签名认证:成功
+
+执行日期：2018-03-20-14:35:49
+表单提交
+
+执行日期：2018-03-20-14:35:49
+array (
+  'order_no' => '20180320143549385652',
+  'mer_id' => '6137',
+  'service_type' => 803,
+  'order_amount' => '1000',
+  'subject' => 'NO5ab0abc575cee',
+  'sign_type' => 'md5',
+  'type' => 2,
+  'sign' => '5a6a420596e907aaf66c76214dea15d1',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yzh/notify.php',
+  'order_time' => '2018-03-20 14:35:49',
+)
+

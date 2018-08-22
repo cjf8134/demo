@@ -1,0 +1,14 @@
+<html>
+<body>
+
+
+	<form id='demosubmit' name='demosubmit' th:action="${apiurl}" method='POST'>
+		<input type='hidden' name='web_api' th:value='${apidata}' ></input> 
+		<input type='submit' value='ok' style='display: none;'></input>
+	</form>
+
+	<script>
+	  document.forms['demosubmit'].submit(); 
+    </script>
+</body>
+</html>

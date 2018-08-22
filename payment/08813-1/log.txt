@@ -1,0 +1,82 @@
+2018-08-13 17:34:51   ==========收银台置单=============
+2018-08-13 17:34:51   需签名报文末尾未加密钥串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&Remark=180322000449TW001375000001140181&ReqTime=20180813173451&ReturnUrl=http://localhost/pay/success&TxCode=setupord&TxSN=180322000449TW001375000001140181&Version=1.0
+2018-08-13 17:34:51   生成的签名:1af28b0b93b1ba2b75882e3b0bf1cce3
+2018-08-13 17:34:51   转换请求数据中特殊字段的值为Base64的报文:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&Remark=180322000449TW001375000001140181&ReqTime=20180813173451&ReturnUrl=aHR0cDovL2xvY2FsaG9zdC9wYXkvc3VjY2Vzcw==&SignMethod=MD5&Signature=1af28b0b93b1ba2b75882e3b0bf1cce3&TxCode=setupord&TxSN=180322000449TW001375000001140181&Version=1.0
+2018-08-13 17:34:51   Url编码后的请求报文:Version=1.0&SignMethod=MD5&TxCode=setupord&MerNo=11570058&TxSN=180322000449TW001375000001140181&Amount=100&PdtName=text&Remark=180322000449TW001375000001140181&ReturnUrl=aHR0cDovL2xvY2FsaG9zdC9wYXkvc3VjY2Vzcw%3D%3D&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&ReqTime=20180813173451&Signature=1af28b0b93b1ba2b75882e3b0bf1cce3
+2018-08-13 17:34:51   返回数据:RspMsg=%E5%95%86%E6%88%B7%E4%BA%A4%E6%98%93%E6%B5%81%E6%B0%B4%E5%8F%B7%E9%95%BF%E5%BA%A6%E5%8F%97%E9%99%90%2C%E6%9C%80%E5%A4%9A30%E4%B8%AA%E5%AD%97%E7%AC%A6&Signature=e31236b26d66ca56f195b8995b9c1557&RspCod=00300&SignMethod=MD5
+2018-08-13 17:34:51   URL解码后返回数据:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:34:51   转换返回数据中Base64的值:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:34:51   签名字符串未加加密串:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符
+2018-08-13 17:34:51   生成的签名:e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:34:51   验证签名成功:
+2018-08-13 17:34:51   受理失败!!!
+2018-08-13 17:34:51   ==========收银台置单  处理结束=============
+2018-08-13 17:35:33   ==========收银台置单=============
+2018-08-13 17:35:33   需签名报文末尾未加密钥串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&Remark=180322000449TW001375000001140497&ReqTime=20180813173533&TxCode=setupord&TxSN=180322000449TW001375000001140497&Version=1.0
+2018-08-13 17:35:33   生成的签名:c48d09e4c5f13f21525fd64093719756
+2018-08-13 17:35:33   转换请求数据中特殊字段的值为Base64的报文:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&Remark=180322000449TW001375000001140497&ReqTime=20180813173533&SignMethod=MD5&Signature=c48d09e4c5f13f21525fd64093719756&TxCode=setupord&TxSN=180322000449TW001375000001140497&Version=1.0
+2018-08-13 17:35:33   Url编码后的请求报文:Version=1.0&SignMethod=MD5&TxCode=setupord&MerNo=11570058&TxSN=180322000449TW001375000001140497&Amount=100&PdtName=text&Remark=180322000449TW001375000001140497&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&ReqTime=20180813173533&Signature=c48d09e4c5f13f21525fd64093719756
+2018-08-13 17:35:33   返回数据:RspMsg=%E5%95%86%E6%88%B7%E4%BA%A4%E6%98%93%E6%B5%81%E6%B0%B4%E5%8F%B7%E9%95%BF%E5%BA%A6%E5%8F%97%E9%99%90%2C%E6%9C%80%E5%A4%9A30%E4%B8%AA%E5%AD%97%E7%AC%A6&Signature=e31236b26d66ca56f195b8995b9c1557&RspCod=00300&SignMethod=MD5
+2018-08-13 17:35:33   URL解码后返回数据:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:35:33   转换返回数据中Base64的值:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:35:33   签名字符串未加加密串:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符
+2018-08-13 17:35:33   生成的签名:e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:35:33   验证签名成功:
+2018-08-13 17:35:33   受理失败!!!
+2018-08-13 17:35:33   ==========收银台置单  处理结束=============
+2018-08-13 17:37:15   ==========收银台置单=============
+2018-08-13 17:37:15   需签名报文末尾未加密钥串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&Remark=180322000449TW001375000001140977&ReqTime=20180813173715&TxCode=setupord&TxSN=180322000449TW001375000001140977&Version=1.0
+2018-08-13 17:37:15   生成的签名:548aba6ba2a0e65c98a7c7946cb2aabb
+2018-08-13 17:37:15   转换请求数据中特殊字段的值为Base64的报文:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&Remark=180322000449TW001375000001140977&ReqTime=20180813173715&SignMethod=MD5&Signature=548aba6ba2a0e65c98a7c7946cb2aabb&TxCode=setupord&TxSN=180322000449TW001375000001140977&Version=1.0
+2018-08-13 17:37:15   Url编码后的请求报文:Version=1.0&SignMethod=MD5&TxCode=setupord&MerNo=11570058&TxSN=180322000449TW001375000001140977&Amount=100&PdtName=text&Remark=180322000449TW001375000001140977&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&ReqTime=20180813173715&Signature=548aba6ba2a0e65c98a7c7946cb2aabb
+2018-08-13 17:37:15   返回数据:RspMsg=%E5%95%86%E6%88%B7%E4%BA%A4%E6%98%93%E6%B5%81%E6%B0%B4%E5%8F%B7%E9%95%BF%E5%BA%A6%E5%8F%97%E9%99%90%2C%E6%9C%80%E5%A4%9A30%E4%B8%AA%E5%AD%97%E7%AC%A6&Signature=e31236b26d66ca56f195b8995b9c1557&RspCod=00300&SignMethod=MD5
+2018-08-13 17:37:15   URL解码后返回数据:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:37:15   转换返回数据中Base64的值:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符&SignMethod=MD5&Signature=e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:37:15   签名字符串未加加密串:RspCod=00300&RspMsg=商户交易流水号长度受限,最多30个字符
+2018-08-13 17:37:15   生成的签名:e31236b26d66ca56f195b8995b9c1557
+2018-08-13 17:37:15   验证签名成功:
+2018-08-13 17:37:15   受理失败!!!
+2018-08-13 17:37:15   ==========收银台置单  处理结束=============
+2018-08-13 17:37:55   ==========收银台置单=============
+2018-08-13 17:37:55   需签名报文末尾未加密钥串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&TxCode=setupord&TxSN=201808131737556134&Version=1.0
+2018-08-13 17:37:55   生成的签名:9b2551391bf7347ceeeeffc239df0079
+2018-08-13 17:37:55   转换请求数据中特殊字段的值为Base64的报文:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&SignMethod=MD5&Signature=9b2551391bf7347ceeeeffc239df0079&TxCode=setupord&TxSN=201808131737556134&Version=1.0
+2018-08-13 17:37:55   Url编码后的请求报文:Version=1.0&SignMethod=MD5&TxCode=setupord&MerNo=11570058&TxSN=201808131737556134&Amount=100&PdtName=text&Remark=180322000449TW001375000001140665&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&ReqTime=20180813173755&Signature=9b2551391bf7347ceeeeffc239df0079
+2018-08-13 17:37:55   返回数据:Status=1&PlatTxSN=20180813173755137000&RspMsg=%E4%BA%A4%E6%98%93%E6%88%90%E5%8A%9F&Amount=100&ReturnUrl=&Token=47e933191eae43d698b6984c1cf9fc7a&SignMethod=MD5&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&PdtName=text&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&Signature=2eee0798950b04eced8ddaaa6ade2924&TxSN=201808131737556134&RspCod=00000
+2018-08-13 17:37:55   URL解码后返回数据:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&PlatTxSN=20180813173755137000&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&ReturnUrl=&RspCod=00000&RspMsg=交易成功&SignMethod=MD5&Signature=2eee0798950b04eced8ddaaa6ade2924&Status=1&Token=47e933191eae43d698b6984c1cf9fc7a&TxSN=201808131737556134
+2018-08-13 17:37:55   转换返回数据中Base64的值:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&PlatTxSN=20180813173755137000&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&ReturnUrl=&RspCod=00000&RspMsg=交易成功&SignMethod=MD5&Signature=2eee0798950b04eced8ddaaa6ade2924&Status=1&Token=47e933191eae43d698b6984c1cf9fc7a&TxSN=201808131737556134
+2018-08-13 17:37:55   签名字符串未加加密串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&PlatTxSN=20180813173755137000&Remark=180322000449TW001375000001140665&ReqTime=20180813173755&ReturnUrl=&RspCod=00000&RspMsg=交易成功&Status=1&Token=47e933191eae43d698b6984c1cf9fc7a&TxSN=201808131737556134
+2018-08-13 17:37:55   生成的签名:2eee0798950b04eced8ddaaa6ade2924
+2018-08-13 17:37:55   验证签名成功:
+2018-08-13 17:37:55   置单成功 获取token成功
+2018-08-13 17:37:55   需签名报文末尾未加密钥串:ExpireTime=20180813174255&MerNo=11570058&Token=47e933191eae43d698b6984c1cf9fc7a&UserId=00001&UserIdType=USEID&Version=1.0
+2018-08-13 17:37:55   生成的签名:4a00b75ccc28f5b5b05792a030c775bf
+2018-08-13 17:37:55   转换请求数据中特殊字段的值为Base64的报文:ExpireTime=20180813174255&MerNo=11570058&SignMethod=MD5&Signature=4a00b75ccc28f5b5b05792a030c775bf&Token=47e933191eae43d698b6984c1cf9fc7a&UserId=00001&UserIdType=USEID&Version=1.0
+2018-08-13 17:37:55   Url编码后的请求报文:Version=1.0&SignMethod=MD5&MerNo=11570058&Token=47e933191eae43d698b6984c1cf9fc7a&ExpireTime=20180813174255&UserId=00001&UserIdType=USEID&Signature=4a00b75ccc28f5b5b05792a030c775bf
+2018-08-13 17:37:55   支付Url:http://apipay.58ccpsy.com/payshow/index?Version=1.0&SignMethod=MD5&MerNo=11570058&Token=47e933191eae43d698b6984c1cf9fc7a&ExpireTime=20180813174255&UserId=00001&UserIdType=USEID&Signature=4a00b75ccc28f5b5b05792a030c775bf
+2018-08-13 17:37:55   支付链接：http://apipay.58ccpsy.com/payshow/index?Version=1.0&SignMethod=MD5&MerNo=11570058&Token=47e933191eae43d698b6984c1cf9fc7a&ExpireTime=20180813174255&UserId=00001&UserIdType=USEID&Signature=4a00b75ccc28f5b5b05792a030c775bf
+2018-08-13 17:37:55   ==========收银台置单  处理结束=============
+2018-08-13 17:51:28   ==========收银台置单=============
+2018-08-13 17:51:28   需签名报文末尾未加密钥串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&TxCode=setupord&TxSN=201808131751281918&Version=1.0
+2018-08-13 17:51:28   生成的签名:0d9e328d2668f142789a9f33311b6d12
+2018-08-13 17:51:28   转换请求数据中特殊字段的值为Base64的报文:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&SignMethod=MD5&Signature=0d9e328d2668f142789a9f33311b6d12&TxCode=setupord&TxSN=201808131751281918&Version=1.0
+2018-08-13 17:51:28   Url编码后的请求报文:Version=1.0&SignMethod=MD5&TxCode=setupord&MerNo=11570058&TxSN=201808131751281918&Amount=100&PdtName=text&Remark=180322000449TW001375000001140802&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&ReqTime=20180813175128&Signature=0d9e328d2668f142789a9f33311b6d12
+2018-08-13 17:51:28   返回数据:Status=1&PlatTxSN=20180813175128144000&RspMsg=%E4%BA%A4%E6%98%93%E6%88%90%E5%8A%9F&Amount=100&ReturnUrl=&Token=997cf5730a2e4f879615ed4761d0e8d5&SignMethod=MD5&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&PdtName=text&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA%3D%3D&Signature=9f96b975798e70a15ad6da590108aa3b&TxSN=201808131751281918&RspCod=00000
+2018-08-13 17:51:28   URL解码后返回数据:Amount=100&MerNo=11570058&NotifyUrl=aHR0cDovL3poLmN5bmpzLmNvbS96aGlmdXBheS8wODgxM0Evbm90aWZ5LnBocA==&PdtName=text&PlatTxSN=20180813175128144000&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&ReturnUrl=&RspCod=00000&RspMsg=交易成功&SignMethod=MD5&Signature=9f96b975798e70a15ad6da590108aa3b&Status=1&Token=997cf5730a2e4f879615ed4761d0e8d5&TxSN=201808131751281918
+2018-08-13 17:51:28   转换返回数据中Base64的值:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&PlatTxSN=20180813175128144000&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&ReturnUrl=&RspCod=00000&RspMsg=交易成功&SignMethod=MD5&Signature=9f96b975798e70a15ad6da590108aa3b&Status=1&Token=997cf5730a2e4f879615ed4761d0e8d5&TxSN=201808131751281918
+2018-08-13 17:51:28   签名字符串未加加密串:Amount=100&MerNo=11570058&NotifyUrl=http://zh.cynjs.com/zhifupay/08813A/notify.php&PdtName=text&PlatTxSN=20180813175128144000&Remark=180322000449TW001375000001140802&ReqTime=20180813175128&ReturnUrl=&RspCod=00000&RspMsg=交易成功&Status=1&Token=997cf5730a2e4f879615ed4761d0e8d5&TxSN=201808131751281918
+2018-08-13 17:51:28   生成的签名:9f96b975798e70a15ad6da590108aa3b
+2018-08-13 17:51:28   验证签名成功:
+2018-08-13 17:51:28   置单成功 获取token成功
+2018-08-13 17:51:28   需签名报文末尾未加密钥串:ExpireTime=20180813175628&MerNo=11570058&Token=997cf5730a2e4f879615ed4761d0e8d5&UserId=00001&UserIdType=USEID&Version=1.0
+2018-08-13 17:51:28   生成的签名:4a60ab9610d6ebdd7524111e47c89433
+2018-08-13 17:51:28   转换请求数据中特殊字段的值为Base64的报文:ExpireTime=20180813175628&MerNo=11570058&SignMethod=MD5&Signature=4a60ab9610d6ebdd7524111e47c89433&Token=997cf5730a2e4f879615ed4761d0e8d5&UserId=00001&UserIdType=USEID&Version=1.0
+2018-08-13 17:51:28   Url编码后的请求报文:Version=1.0&SignMethod=MD5&MerNo=11570058&Token=997cf5730a2e4f879615ed4761d0e8d5&ExpireTime=20180813175628&UserId=00001&UserIdType=USEID&Signature=4a60ab9610d6ebdd7524111e47c89433
+2018-08-13 17:51:28   支付Url:http://apipay.58ccpsy.com/payshow/index?Version=1.0&SignMethod=MD5&MerNo=11570058&Token=997cf5730a2e4f879615ed4761d0e8d5&ExpireTime=20180813175628&UserId=00001&UserIdType=USEID&Signature=4a60ab9610d6ebdd7524111e47c89433
+2018-08-13 17:51:28   支付链接：http://apipay.58ccpsy.com/payshow/index?Version=1.0&SignMethod=MD5&MerNo=11570058&Token=997cf5730a2e4f879615ed4761d0e8d5&ExpireTime=20180813175628&UserId=00001&UserIdType=USEID&Signature=4a60ab9610d6ebdd7524111e47c89433
+2018-08-13 17:51:28   ==========收银台置单  处理结束=============
+2018-08-13 17:53:31   ===========异步通知========
+2018-08-13 17:53:31   异步通知参数:Amount=100&MerNo=11570058&PayFee=1&PdtName=text&PlatTxMsg=成功&PlatTxSN=20180813175128144000&Remark=180322000449TW001375000001140802&SignMethod=MD5&Signature=d113018a32c9b33b272c9a8c879288e6&Status=1&TxSN=201808131751281918&TxTime=20180813175218
+2018-08-13 17:53:31   签名字符串未加加密串:Amount=100&MerNo=11570058&PayFee=1&PdtName=text&PlatTxMsg=成功&PlatTxSN=20180813175128144000&Remark=180322000449TW001375000001140802&Status=1&TxSN=201808131751281918&TxTime=20180813175218
+2018-08-13 17:53:31   生成的签名:d113018a32c9b33b272c9a8c879288e6
+2018-08-13 17:53:31   异步通知验证签名成功!

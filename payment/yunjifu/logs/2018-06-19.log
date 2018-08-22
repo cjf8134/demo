@@ -1,0 +1,676 @@
+执行日期：2018-06-19-23:08:40
+leanwork签名认证:成功
+
+执行日期：2018-06-19-23:08:40
+表单提交
+
+执行日期：2018-06-19-23:08:40
+array (
+  'mchNo' => '10493',
+  'orderID' => '180322000449TW001375000001140769',
+  'money' => '0.01',
+  'body' => '支付款',
+  'payType' => 'wy',
+  'notifyUrl' => 'aHR0cDovL3UxNzJnODc0NTguNTFteXBjLmNuL2dpdGVlL3BheW1lbnQveXVuamlmdS9ub3RpZnkucGhw',
+  'callbackurl' => 'aHR0cDovL2xvY2FsaG9zdC9wYXkvc3VjY2Vzcw==',
+  'sign' => '349d206f19d8f88c188e4fb973e21b0e',
+)
+
+执行日期：2018-06-19-23:10:41
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:10:41
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:10:41
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:10:45
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:10:51
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:10:51
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:10:51
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:10:57
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:10:57
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:10:57
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:11:02
+支付通知验证-参数:
+Array
+
+执行日期：2018-06-19-23:11:02
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:11:02
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:13:44
+leanwork签名认证:成功
+
+执行日期：2018-06-19-23:13:44
+表单提交
+
+执行日期：2018-06-19-23:13:44
+array (
+  'mchNo' => '10493',
+  'orderID' => '180322000449TW001375000001140732',
+  'money' => '0.01',
+  'body' => '支付款',
+  'payType' => 'wy',
+  'notifyUrl' => 'aHR0cDovL3UxNzJnODc0NTguNTFteXBjLmNuL2dpdGVlL3BheW1lbnQveXVuamlmdS9ub3RpZnkucGhw',
+  'callbackurl' => 'aHR0cDovL2xvY2FsaG9zdC9wYXkvc3VjY2Vzcw==',
+  'sign' => '06a33ec8cc642dc79cbad98c05004ce1',
+)
+
+执行日期：2018-06-19-23:15:05
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:05
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:05
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:15:07
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A4%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:07
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:07
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:15:08
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A3%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:08
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:08
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A2%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A1%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:13
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:15:19
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A0%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:15:19
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:15:19
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:16:57
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:16:57
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:16:57
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:17:46
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:17:46
+支付通知验证-参数:
+NULL
+
+执行日期：2018-06-19-23:17:46
+支付通知验证-结果:
+fail
+
+执行日期：2018-06-19-23:18:30
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:19:44
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:21:33
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:21:54
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:23:57
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:24:24
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140732%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22479bbe2897385998b4581d8142a51d28%22%7D
+
+执行日期：2018-06-19-23:24:24
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140732',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 5,
+  'sign' => '479bbe2897385998b4581d8142a51d28',
+)
+
+执行日期：2018-06-19-23:24:24
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:26:54
+leanwork签名认证:成功
+
+执行日期：2018-06-19-23:26:54
+表单提交
+
+执行日期：2018-06-19-23:26:54
+array (
+  'mchNo' => '10493',
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'body' => '支付款',
+  'payType' => 'wy',
+  'notifyUrl' => 'aHR0cDovL3UxNzJnODc0NTguNTFteXBjLmNuL2dpdGVlL3BheW1lbnQveXVuamlmdS9ub3RpZnkucGhw',
+  'callbackurl' => 'aHR0cDovL2xvY2FsaG9zdC9wYXkvc3VjY2Vzcw==',
+  'sign' => '10b2d5a3de446233e8dd19bd486e7051',
+)
+
+执行日期：2018-06-19-23:27:34
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A5%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:27:34
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 5,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:27:34
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:27:34
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:27:34
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:34
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:36
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:36
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:40
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A4%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:27:40
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 4,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:27:40
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:27:40
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:27:40
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:40
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:42
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:42
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:46
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A3%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:27:46
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 3,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:27:46
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:27:46
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:27:46
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:46
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:48
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:48
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:53
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A2%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:27:53
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 2,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:27:53
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:27:53
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:27:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:53
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:55
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:55
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:27:59
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A1%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:27:59
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 1,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:27:59
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:27:59
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:27:59
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:27:59
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:28:01
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:28:01
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:28:02
+支付通知验证-参数:
+result=%7B%22orderID%22%3A%22180322000449TW001375000001140689%22%2C%22money%22%3A%220.01%22%2C%22transID%22%3Anull%2C%22status%22%3A%22TRADE_FINISHED%22%2C%22notifyUrl%22%3A%22http%3A%5C%2F%5C%2Fu172g87458.51mypc.cn%5C%2Fgitee%5C%2Fpayment%5C%2Fyunjifu%5C%2Fnotify.php%22%2C%22count%22%3A0%2C%22sign%22%3A%22028b9398e0d52bd351a38dd80a409676%22%7D
+
+执行日期：2018-06-19-23:28:02
+支付通知验证-参数:
+array (
+  'orderID' => '180322000449TW001375000001140689',
+  'money' => '0.01',
+  'transID' => NULL,
+  'status' => 'TRADE_FINISHED',
+  'notifyUrl' => 'http://u172g87458.51mypc.cn/gitee/payment/yunjifu/notify.php',
+  'count' => 0,
+  'sign' => '028b9398e0d52bd351a38dd80a409676',
+)
+
+执行日期：2018-06-19-23:28:02
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-23:28:02
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-23:28:02
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => NULL,
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:28:02
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-23:28:04
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140689',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '',
+  'status' => 'success',
+  'sign' => '2155d6235e373cc6b30e45fce73253af',
+)
+
+执行日期：2018-06-19-23:28:04
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+

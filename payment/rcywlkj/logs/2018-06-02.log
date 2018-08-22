@@ -1,0 +1,263 @@
+执行日期：2018-06-02-12:04:55
+leanwork传进来的参数
+
+执行日期：2018-06-02-12:04:55
+array (
+  'orderNo' => '180322000449TW001375000001140553',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-02-14:10:26
+表单提交
+
+执行日期：2018-06-02-14:10:26
+array (
+  'receiveUrl' => NULL,
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140553',
+  'pay_applydate' => '2018-06-02 14:10:26',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '6CEACA1CA56F2040D6050085793D9F8D',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:10:27
+表单返回
+
+执行日期：2018-06-02-14:10:27
+array (
+  'receiveUrl' => NULL,
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140553',
+  'pay_applydate' => '2018-06-02 14:10:26',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '6CEACA1CA56F2040D6050085793D9F8D',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:10:36
+表单提交
+
+执行日期：2018-06-02-14:10:36
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140553',
+  'pay_applydate' => '2018-06-02 14:10:36',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => 'B5D10123812012BB2593CC0ED0C7485A',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:10:36
+表单返回
+
+执行日期：2018-06-02-14:10:36
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140553',
+  'pay_applydate' => '2018-06-02 14:10:36',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => 'B5D10123812012BB2593CC0ED0C7485A',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:12:24
+leanwork传进来的参数
+
+执行日期：2018-06-02-14:12:24
+array (
+  'orderNo' => '180322000449TW001375000001140849',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-02-14:13:02
+leanwork传进来的参数
+
+执行日期：2018-06-02-14:13:02
+array (
+  'orderNo' => '180322000449TW001375000001140216',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-02-14:13:48
+leanwork传进来的参数
+
+执行日期：2018-06-02-14:13:48
+array (
+  'orderNo' => '180322000449TW001375000001140543',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-02-14:13:49
+表单提交
+
+执行日期：2018-06-02-14:13:49
+array (
+  'receiveUrl' => NULL,
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:13:49',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => 'FC9E16F51452FE6BF52A72583AAD928C',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:13:49
+表单返回
+
+执行日期：2018-06-02-14:13:49
+array (
+  'receiveUrl' => NULL,
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:13:49',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => 'FC9E16F51452FE6BF52A72583AAD928C',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:14:35
+表单提交
+
+执行日期：2018-06-02-14:14:35
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:14:35',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '883E36DFCF9C9007BD530F2B82286E9A',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:14:35
+表单返回
+
+执行日期：2018-06-02-14:14:35
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:14:35',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '883E36DFCF9C9007BD530F2B82286E9A',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:16:40
+表单提交
+
+执行日期：2018-06-02-14:16:40
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:16:40',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '18C37F27CD4638906FFC9271202DF753',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-14:16:41
+表单返回
+
+执行日期：2018-06-02-14:16:41
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140543',
+  'pay_applydate' => '2018-06-02 14:16:40',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://127.0.0.1/gitee/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '18C37F27CD4638906FFC9271202DF753',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-16:49:51
+leanwork传进来的参数
+
+执行日期：2018-06-02-16:49:51
+array (
+  'orderNo' => '180322000449TW001375000001140795',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/payment/rcywlkj/notify.php',
+  'orderAmount' => '0.01',
+)
+
+执行日期：2018-06-02-16:49:52
+表单提交
+
+执行日期：2018-06-02-16:49:52
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140795',
+  'pay_applydate' => '2018-06-02 16:49:52',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://localhost/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '9ACBC6FA84CCE5C2EE3EB162C41FBDC1',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+
+执行日期：2018-06-02-16:49:53
+表单返回
+
+执行日期：2018-06-02-16:49:53
+array (
+  'pay_memberid' => '10033',
+  'pay_orderid' => '180322000449TW001375000001140795',
+  'pay_applydate' => '2018-06-02 16:49:52',
+  'pay_bankcode' => '907',
+  'pay_notifyurl' => 'http://localhost/payment/rcywlkj/notify.php',
+  'pay_callbackurl' => 'http://localhost/pay/success',
+  'pay_amount' => '0.01',
+  'pay_md5sign' => '9ACBC6FA84CCE5C2EE3EB162C41FBDC1',
+  'pay_productname' => '支付',
+  'bank_code' => 'CMB',
+)
+

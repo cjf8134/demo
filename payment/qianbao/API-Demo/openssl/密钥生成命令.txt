@@ -1,0 +1,4 @@
+cd /d D:\openssl\bin
+openssl  genrsa  -out key.pem 1024
+openssl  rsa -in key.pem  -pubout  -out  merchant_public_key.txt
+openssl pkcs8 -topk8 -inform PEM -in key.pem -out merchant_private_key.txt -nocrypt

@@ -1,0 +1,464 @@
+执行日期：2018-08-20-11:01:42
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:01:42
+表单提交
+
+执行日期：2018-08-20-11:01:42
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011014280',
+  'orderTime' => '20180820110142',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140548',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:01:42
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011014280|20180820110142|100|||||100000|2000|180322000449TW001375000001140548|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:01:42
+表单提交sign
+
+执行日期：2018-08-20-11:01:42
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011014280',
+  'orderTime' => '20180820110142',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140548',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => 'c080317e8c4119c2bd3aaa26414c5aaf',
+)
+
+执行日期：2018-08-20-11:02:27
+支付通知验证-参数1:
+array (
+  'statusCode' => '00',
+  'transDate' => '20180820110022',
+  'transAmount' => '100',
+  'orderNo' => '2018082011014280',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'transSeq' => '500068157',
+  'statusMsg' => '[00]交易成功',
+  'actualAmount' => '99',
+  'signature' => '918C8EA7081E1F40CB8D7F10D14324CB',
+  'transStatus' => '00',
+)
+
+执行日期：2018-08-20-11:02:27
+支付通知验证-组装签名的签名:
+WKJGWKQTCS@20180813184721|2018082011014280|20180820110022|00|100|500068157|00|[00]交易成功|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:02:27
+支付通知验证-返回的参数做签名的字符串:
+143f46111b76525b54b3f92c893d19b2
+
+执行日期：2018-08-20-11:02:27
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-20-11:05:04
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:05:04
+表单提交
+
+执行日期：2018-08-20-11:05:04
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011050496',
+  'orderTime' => '20180820110504',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140732',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:05:04
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011050496|20180820110504|100|||||100000|2000|180322000449TW001375000001140732|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:05:04
+表单提交sign
+
+执行日期：2018-08-20-11:05:04
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011050496',
+  'orderTime' => '20180820110504',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140732',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => 'e223062796412a80c9a749a614db90af',
+)
+
+执行日期：2018-08-20-11:07:05
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:07:05
+表单提交
+
+执行日期：2018-08-20-11:07:05
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011070592',
+  'orderTime' => '20180820110705',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140819',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:07:05
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011070592|20180820110705|100|||||100000|2000|180322000449TW001375000001140819|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:07:05
+表单提交sign
+
+执行日期：2018-08-20-11:07:05
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011070592',
+  'orderTime' => '20180820110705',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140819',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => '6862c7397d255f4e6d1803ca119c66a1',
+)
+
+执行日期：2018-08-20-11:07:49
+支付通知验证-参数1:
+array (
+  'statusCode' => '00',
+  'transDate' => '20180820110545',
+  'transAmount' => '100',
+  'orderNo' => '2018082011070592',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'transSeq' => '500068160',
+  'statusMsg' => '[00]交易成功',
+  'actualAmount' => '99',
+  'signature' => 'B065AB7FA3243818CB75C9EE18878EFC',
+  'transStatus' => '00',
+)
+
+执行日期：2018-08-20-11:07:49
+支付通知验证-组装签名的签名:
+WKJGWKQTCS@20180813184721|2018082011070592|20180820110545|00|100|99|500068160|00|[00]交易成功|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:07:49
+支付通知验证-返回的参数做签名的字符串:
+b065ab7fa3243818cb75c9ee18878efc
+
+执行日期：2018-08-20-11:07:49
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-20-11:12:07
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:12:07
+表单提交
+
+执行日期：2018-08-20-11:12:07
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011120784',
+  'orderTime' => '20180820111207',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140614',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:12:07
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011120784|20180820111207|100|||||100000|2000|180322000449TW001375000001140614|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:12:07
+表单提交sign
+
+执行日期：2018-08-20-11:12:07
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011120784',
+  'orderTime' => '20180820111207',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140614',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => '1cfb7f04d925a8ca0fe19de9ca40ab05',
+)
+
+执行日期：2018-08-20-11:12:32
+支付通知验证-参数1:
+array (
+  'statusCode' => '00',
+  'transDate' => '20180820111047',
+  'transAmount' => '100',
+  'orderNo' => '2018082011120784',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'transSeq' => '500068161',
+  'statusMsg' => '[00]交易成功',
+  'actualAmount' => '99',
+  'signature' => '0206E7B9CE24A87A31DA23B789781248',
+  'transStatus' => '00',
+)
+
+执行日期：2018-08-20-11:12:32
+支付通知验证-组装签名的签名:
+WKJGWKQTCS@20180813184721|2018082011120784|20180820111047|00|100|99|500068161|00|[00]交易成功|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:12:32
+支付通知验证-返回的参数做签名的字符串:
+0206e7b9ce24a87a31da23b789781248
+
+执行日期：2018-08-20-11:12:32
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-20-11:12:32
+通知leanwork地址:
+
+执行日期：2018-08-20-11:12:32
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => NULL,
+  'orderAmount' => '0.99',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018082011120784',
+  'status' => 'success',
+  'sign' => 'bbd5ba48824c079b6fe5a4c8d85f0cd0',
+)
+
+执行日期：2018-08-20-11:12:32
+通知leanwork-结果:
+false
+
+执行日期：2018-08-20-11:12:34
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '',
+  'orderAmount' => '0.99',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018082011120784',
+  'status' => 'success',
+  'sign' => 'bbd5ba48824c079b6fe5a4c8d85f0cd0',
+)
+
+执行日期：2018-08-20-11:12:34
+通知leanwork-结果:
+false
+
+执行日期：2018-08-20-11:20:32
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:20:32
+表单提交
+
+执行日期：2018-08-20-11:20:32
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011203296',
+  'orderTime' => '20180820112032',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140322',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:20:32
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011203296|20180820112032|100|||||100000|2000|180322000449TW001375000001140322|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:20:32
+表单提交sign
+
+执行日期：2018-08-20-11:20:32
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011203296',
+  'orderTime' => '20180820112032',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140322',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => '470c6cef49fbd2183c4a0b38f7458740',
+)
+
+执行日期：2018-08-20-11:25:32
+leanwork签名认证:成功
+
+执行日期：2018-08-20-11:25:32
+表单提交
+
+执行日期：2018-08-20-11:25:32
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011253241',
+  'orderTime' => '20180820112532',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140470',
+  'paymentChannel' => 'unionACPB2C',
+)
+
+执行日期：2018-08-20-11:25:32
+签名字符串:
+80000384|887581298600470|WKJGWKQTCS@20180813184721|2018082011253241|20180820112532|100|||||100000|2000|180322000449TW001375000001140470|86950ECA654C1D6757FDCD4B89DDF775
+
+执行日期：2018-08-20-11:25:32
+表单提交sign
+
+执行日期：2018-08-20-11:25:32
+array (
+  'insCode' => '80000384',
+  'insMerchantCode' => '887581298600470',
+  'hpMerCode' => 'WKJGWKQTCS@20180813184721',
+  'orderNo' => '2018082011253241',
+  'orderTime' => '20180820112532',
+  'currencyCode' => '156',
+  'orderAmount' => 100,
+  'name' => '',
+  'idNumber' => '',
+  'accNo' => '',
+  'telNo' => '',
+  'productType' => '100000',
+  'paymentType' => '2000',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/08187/notify.php',
+  'frontUrl' => 'http://localhost/pay/success',
+  'merGroup' => '',
+  'nonceStr' => '180322000449TW001375000001140470',
+  'paymentChannel' => 'unionACPB2C',
+  'signature' => 'e0723400c7b93bb41a9b50c6ac4789f9',
+)
+

@@ -1,0 +1,95 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="CryptoJS/rollups/md5.js"></script>
+<script src="CryptoJS/components/enc-base64-min.js"></script>
+<script src="CryptoJS/jquery-2.1.1.min.js"></script>
+<script>
+  
+	$(document).ready(function(){
+		//$("#orderNo").val("ID"+(new Date($.now()).getTime()));
+		
+		//表单常量赋值
+		$("#platformID").val("100002");//商户ID
+		$("#merchNo").val("85641@qq.com");//商户帐号
+		$("#apiName").val("WWW_PAY");
+		$("#apiVersion").val("V.1.0.0");
+		//表单变量赋值
+	
+		var mydate=new Date().toLocaleDateString().replace("/",'');
+		$("#tradeDate").val(mydate.replace("/",''));
+		$("#payType").val(getQueryString("payType"));
+		$("#bankCode").val(getQueryString("bankCode"));
+		$("#merchParam").val(getQueryString("merchParam")); //原样返回参数
+		$("#tradAmt").val(getQueryString("tradAmt"));//发送过来的数据必须保留两位小数如：1.00
+		$("#orderNo").val(getQueryString("orderNo"));
+		$("#tradeSummary").val(getQueryString("tradeSummary"));
+		//提交响应
+	    $("#pay_submit").click(function(e) {
+						
+			pay_submit();
+			
+		});
+	});
+	
+	function pay_submit(){
+		
+			md5Key="508C1BB548B79922D7923EAC08230C8F";//MD5密钥串
+			//组装签名串
+			signStr ="apiName="  	+$("#apiName").val();
+			signStr+="&apiVersion="	+$("#apiVersion").val();
+			signStr+="&platformID="	+$("#platformID").val();
+			signStr+="&merchNo=" 	+$("#merchNo").val();
+			signStr+="&orderNo="	+$("#orderNo").val();
+			signStr+="&tradeDate="	+$("#tradeDate").val();
+			signStr+="&tradAmt="	+$("#tradAmt").val();
+			signStr+="&notifyUrl="  +$("#notifyUrl").val();
+			signStr+="&returnUrl="  +$("#returnUrl").val();
+			signStr+="&merchParam=" +$("#merchParam").val();
+			signStr+=md5Key;
+			alert(signStr);
+			//签名赋值
+			$("#signMsg").val(CryptoJS.MD5(signStr));
+			
+			//return true;
+	}
+	
+	function getQueryString(name) { 
+		var reg = new RegExp("(^|&)"+name+"=([^&]*)(&|$)","i"); 
+		var r = window.location.search.substr(1).match(reg); 
+		if (r != null) return unescape(r[2]); return null; 
+	} 
+</script>
+</head>
+<body>
+<br><br>
+<fieldset width="50%">
+<legend><b>订单支付</b></legend><hr>
+<form method="post" action="http://cto.xskjpay.net/pay.php" target="_blank"> 
+<table>
+	<input type="hidden" name="apiName" id="apiName" value="">	
+	<input type="hidden" name="apiVersion"  id="apiVersion"  value="">
+	<input type="hidden" name="platformID" id="platformID" value="">
+	<input type="hidden" name="merchNo" id="merchNo" value="">
+	<input type="text" name="tradeDate"  id="tradeDate" value="">
+	<tr><td>訂單號</td><td><input type="text"   name="orderNo" id="orderNo" value=""></td></tr>
+	<tr><td>交易金額</td><td><input type="text" name="tradAmt" id="tradAmt" value=""></td></tr>
+	<input type="hidden" name="tradeSummary" id="tradeSummary"  value="">
+	<input type="hidden" name="returnUrl" id="returnUrl"  value="http://www.pay.com/RFUpay/callback.php">
+	<input type="hidden" name="notifyUrl" id="notifyUrl" value="www.adi.com">
+	<tr><td>商戶參考</td><td><input type="text" name="merchParam" id="merchParam" value=""></td></tr>
+	
+    <input type="hidden" name="payType" id="payType" value="">	
+	<input type="hidden" name="bankCode" id="bankCode" value="">
+	
+    <tr><td>签名密文</td><td><input type="text" name="signMsg" id="signMsg" value=""></td></tr>
+	</table>
+	<input type="button" id="pay_submit" value="提">
+    <input type="submit" id="ddd" value="提交支付">
+
+</table>
+
+</form><br>
+</fieldset>
+</body>
+</html>

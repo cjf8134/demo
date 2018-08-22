@@ -1,0 +1,34 @@
+﻿body {
+}
+
+ul li{
+    list-style:none;
+    height:40px;
+}
+ul li span{
+    width:100px;
+    display: inline-block;
+}
+input{
+    width: 288px;
+    height: 28px;
+    line-height: 28px;
+    color: #545454;
+    border: 1px solid #dedede;
+    margin: 5px 5px 5px 0;
+    padding-left: 3px;
+}
+.btn{
+    background: #FF8500;
+    margin-right: 20px;
+    padding: 5px 20px;
+    color: #FFF;
+    width: 80px;
+    border-radius: 3px;
+    border: medium none;
+    cursor: pointer;
+    height:35px;
+    font-size:14px;
+    margin:20px;
+    margin-left:50px;
+}

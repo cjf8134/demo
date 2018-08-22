@@ -1,0 +1,150 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0 auto;padding:0;}
+table {border-collapse:collapse;border-spacing:0;}
+fieldset,img,input{border:0}
+address,caption,cite,code,dfn,em,strong,th,var {font-style:normal;font-weight:normal}
+ol,ul {list-style:none}
+caption,th {text-align:left}
+h1,h2,h3,h4,h5,h6 {font-size:100%;font-weight:normal}
+b,i,strong{ font-weight: normal; font-style: normal;}
+q:before,q:after {content:''}
+abbr,acronym { border:0}
+a{text-decoration: none;}
+.tl{text-align:left}
+.tc{text-align:center}
+.tr{text-align:right}
+.fl{float:left;display:inline}
+.fr{float:right;display:inline}
+.c{clear:both}
+.di{display: block;}
+img{
+    width: 100%;
+}
+body{
+    font-family: "微软雅黑";
+}
+.box1{width: 1000px;height: auto;overflow: hidden;}
+.box{
+    width: 100%;
+    height:900px;
+    background:url("bj.png");
+    filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+    -moz-background-size:100% 100%;
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.payment_top{
+    width: 100%;
+    height: 99px;
+    border-bottom: 2px solid #354863;
+    background: #dfe4e7;
+}
+.logo{
+    width: 120px;
+    height: 58px;
+    margin-top: 21px;
+}
+.register{
+    height: 20px;
+    margin-top: 40px;
+}
+.register a,.register span{
+    float: left;
+    line-height: 20px;
+    color: #757575;
+}
+.register span{
+    margin: 0 10px;
+}
+.information{
+    width: 953%;
+    height: 129px;
+    background: rgba(255,255,255,0.5);
+    margin-top: 25px;
+    border-radius: 10px;
+    padding-left: 47px;
+    padding-top: 33px;
+}
+.information h1{
+    font-size: 20px;
+    color: #424242;
+}
+.information p{
+    font-size: 16px;
+    color: #424242;
+    margin: 10px 0;
+}
+.information h2{
+    font-size: 16px;
+    color: #424242;
+}
+.information h2 b{
+    color: #f02846;
+}
+.bank{
+    padding: 52px 48px;
+    width: 904px;
+    height: auto;
+    background: rgba(255,255,255,0.5);
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.bank h1{
+    color: #424242;
+    font-size: 20px;
+}
+.bank ul{
+    overflow: hidden;
+}
+.bank li{
+    float: left;
+    width: 188px;
+    height: 47px;
+    margin-right:45px;
+    margin-top: 30px;
+}
+.bank li:nth-child(4n+0){
+    margin-right: 0px;
+}
+.bank input{
+    width: 15px;
+    height: 15px;
+    margin-top: 14px;
+}
+.bank .bank_img{
+    width: 163px;
+    height: 43px;
+    background: #FFFFFF;
+    border: 2px solid #d1d1d1;
+    margin-left: 5px;
+    overflow: hidden;
+    text-align: center;
+}
+.bank .bank_img img{
+    width: 60%;
+    line-height: 43px;
+    margin-top: 5%;
+}
+.bank button{
+    width: 144px;
+    height: 47px;
+    background: #4c89ca;
+    border: 1px solid #5a99df;
+    border-radius: 5px;
+    margin-left: 370px;
+    margin-top: 20px;
+    color: #FFF;
+}
+.number{
+    height: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.number_img{
+    width: 17px;
+    height: 22px;
+}
+.number p{
+    color: #FFF;
+    font-size: 14px;
+    margin-left: 5px;
+}

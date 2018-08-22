@@ -1,0 +1,307 @@
+执行日期：2018-06-29-23:16:33
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:17:07
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:17:08
+表单提交
+
+执行日期：2018-06-29-23:17:08
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292317075250',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '04799A7BEE3B0E0EABFED5E2F7E0840E',
+)
+
+执行日期：2018-06-29-23:17:30
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:17:30
+表单提交
+
+执行日期：2018-06-29-23:17:31
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292317302482',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '8883059344F66A84CC2E11C5A8FCEB44',
+)
+
+执行日期：2018-06-29-23:19:34
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:19:34
+表单提交
+
+执行日期：2018-06-29-23:19:34
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292319346011',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'CBF9B5585107F06E09D603EB740FB764',
+)
+
+执行日期：2018-06-29-23:20:19
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:20:19
+表单提交
+
+执行日期：2018-06-29-23:20:19
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292320193965',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'B96108C9B9F315BD07F8954BF4C3AD5C',
+)
+
+执行日期：2018-06-29-23:20:32
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:20:32
+表单提交
+
+执行日期：2018-06-29-23:20:32
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292320322484',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'FA4AE5DAD69C01173C5F504BCAA1FF37',
+)
+
+执行日期：2018-06-29-23:21:33
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:21:33
+表单提交
+
+执行日期：2018-06-29-23:21:33
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292321338416',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'F565793289634D6B824400A7EC8AF9FC',
+)
+
+执行日期：2018-06-29-23:21:33
+转成xml
+
+执行日期：2018-06-29-23:21:33
+<root><mch_id>50000072</mch_id><nonce_str>text</nonce_str><body>测试商品</body><out_trade_no>201806292321338416</out_trade_no><total_fee>1</total_fee><trade_type>trade.gateway.pay</trade_type><spbill_create_ip>127.0.0.1</spbill_create_ip><notify_url>http://www.demo.cn/payment/mibeipay/notify.php</notify_url><return_url>http://localhost/pay/success</return_url><bankType>9008</bankType><accountType>1</accountType><sign>F565793289634D6B824400A7EC8AF9FC</sign></root>
+
+执行日期：2018-06-29-23:22:46
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:23:26
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:23:26
+表单提交
+
+执行日期：2018-06-29-23:23:26
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292323262223',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'CF534ACB34040D926529C29AE86D8A73',
+)
+
+执行日期：2018-06-29-23:27:08
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:27:08
+表单提交
+
+执行日期：2018-06-29-23:27:08
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292327089263',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '66A2BCB6BA3D5C81A5BF256483455FED',
+)
+
+执行日期：2018-06-29-23:31:04
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:34:22
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:34:40
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:34:40
+表单提交
+
+执行日期：2018-06-29-23:34:40
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292334409482',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '7ED680F747AB73306201E97D39B56986',
+)
+
+执行日期：2018-06-29-23:35:46
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:35:46
+表单提交
+
+执行日期：2018-06-29-23:35:46
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292335466174',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '6B71B91BE24592BAF7C8A1941C54C58E',
+)
+
+执行日期：2018-06-29-23:36:02
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:36:02
+表单提交
+
+执行日期：2018-06-29-23:36:02
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292336025759',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => 'CBDB52C4B14E8B1BCABD34D9C280A134',
+)
+
+执行日期：2018-06-29-23:38:22
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:38:22
+表单提交
+
+执行日期：2018-06-29-23:38:22
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292338228415',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9008,
+  'accountType' => '1',
+  'sign' => '3B5845E5ABE2452614690B9C378B90DF',
+)
+
+执行日期：2018-06-29-23:39:48
+leanwork签名认证:成功
+
+执行日期：2018-06-29-23:39:48
+表单提交
+
+执行日期：2018-06-29-23:39:48
+array (
+  'mch_id' => '50000072',
+  'nonce_str' => 'text',
+  'body' => '测试商品',
+  'out_trade_no' => '201806292339483063',
+  'total_fee' => '1',
+  'trade_type' => 'trade.gateway.pay',
+  'spbill_create_ip' => '127.0.0.1',
+  'notify_url' => 'http://www.demo.cn/payment/mibeipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bankType' => 9156,
+  'accountType' => '1',
+  'sign' => 'B514953F0A0B4EEF96E8551AB89E14A0',
+)
+
+执行日期：2018-06-29-23:51:49
+leanwork签名认证:成功
+

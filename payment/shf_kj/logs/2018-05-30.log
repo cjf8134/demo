@@ -1,0 +1,496 @@
+执行日期：2018-05-30-21:19:24
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:19:24
+array (
+  'orderNo' => '180322000449TW001375000001140102',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:23:28
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140102&callbackurl=http://localhost/demo2/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140102&isshow=1&sign=b5ca4c98fa12d24b0f62d365ad731f38
+
+执行日期：2018-05-30-21:23:28
+表单提交
+
+执行日期：2018-05-30-21:23:28
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140102',
+  'callbackurl' => 'http://localhost/demo2/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140102',
+  'isshow' => '1',
+  'sign' => 'b5ca4c98fa12d24b0f62d365ad731f38',
+)
+
+执行日期：2018-05-30-21:24:27
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:24:27
+array (
+  'orderNo' => '180322000449TW001375000001140940',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:24:34
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ABC&paymoney=1.01&ordernumber=180322000449TW001375000001140940&callbackurl=http://localhost/demo2/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140940&isshow=1&sign=dcf946df320873b82e1076c921d24901
+
+执行日期：2018-05-30-21:24:34
+表单提交
+
+执行日期：2018-05-30-21:24:34
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ABC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140940',
+  'callbackurl' => 'http://localhost/demo2/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140940',
+  'isshow' => '1',
+  'sign' => 'dcf946df320873b82e1076c921d24901',
+)
+
+执行日期：2018-05-30-21:36:04
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:36:04
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:36:41
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:36:41
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:39:47
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:39:47
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:42:02
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:42:02
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:42:56
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:42:56
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:43:25
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:43:25
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:44:05
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:44:05
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:47:54
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:47:55
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-21:52:27
+leanwork传进来的参数
+
+执行日期：2018-05-30-21:52:27
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-22:59:57
+leanwork传进来的参数
+
+执行日期：2018-05-30-22:59:57
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-23:00:34
+leanwork传进来的参数
+
+执行日期：2018-05-30-23:00:34
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-23:32:14
+leanwork传进来的参数
+
+执行日期：2018-05-30-23:32:14
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-23:32:20
+表单提交
+
+执行日期：2018-05-30-23:32:20
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '',
+  'userName' => '',
+  'mobile' => '',
+  'cardNo' => '',
+  'cardType' => NULL,
+  'amount' => '',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '',
+  'commodityName' => '',
+  'commodityRemark' => '',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:33:44
+表单提交
+
+执行日期：2018-05-30-23:33:44
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '',
+  'userName' => '',
+  'mobile' => '',
+  'cardNo' => '',
+  'cardType' => NULL,
+  'amount' => '',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '',
+  'commodityName' => '',
+  'commodityRemark' => '',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:33:53
+leanwork传进来的参数
+
+执行日期：2018-05-30-23:33:53
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-23:35:28
+表单提交
+
+执行日期：2018-05-30-23:35:28
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:36:44
+表单提交
+
+执行日期：2018-05-30-23:36:44
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:42:41
+表单提交
+
+执行日期：2018-05-30-23:42:41
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:45:22
+表单提交
+
+执行日期：2018-05-30-23:45:22
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:48:04
+表单提交
+
+执行日期：2018-05-30-23:48:04
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:48:31
+表单提交
+
+执行日期：2018-05-30-23:48:31
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:49:09
+表单提交
+
+执行日期：2018-05-30-23:49:09
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:51:41
+表单提交
+
+执行日期：2018-05-30-23:51:41
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => NULL,
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '::1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:54:49
+leanwork传进来的参数
+
+执行日期：2018-05-30-23:54:49
+array (
+  'orderNo' => '180322000449TW001375000001140959',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/demo2/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-30-23:55:04
+表单提交
+
+执行日期：2018-05-30-23:55:04
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => 'SAVINGS',
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '127.0.0.1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+
+执行日期：2018-05-30-23:56:29
+表单提交
+
+执行日期：2018-05-30-23:56:29
+array (
+  'orderNumber' => '180322000449TW001375000001140959',
+  'payType' => 'QUICK_SAVINGS',
+  'idType' => 'IDENTITY_CARD',
+  'idNo' => '130728199212057012',
+  'userName' => '温建江',
+  'mobile' => '17610831319',
+  'cardNo' => '6228480018273409278',
+  'cardType' => 'SAVINGS',
+  'amount' => '10',
+  'currency' => 'CNY',
+  'orderCreateIp' => '127.0.0.1',
+  'commodityDesc' => '1',
+  'commodityName' => '1',
+  'commodityRemark' => '1',
+  'notifyUrl' => 'http://payfor.dggcar.com/shoppaywg.data?a=payresult',
+  'bankNumber' => '1001',
+)
+

@@ -1,0 +1,287 @@
+执行日期：2018-08-13-17:34:51
+leanwork签名认证:成功
+
+执行日期：2018-08-13-17:34:51
+验证-参数:
+array (
+  'Version' => '1.0',
+  'SignMethod' => 'MD5',
+  'TxCode' => 'setupord',
+  'MerNo' => '11570058',
+  'TxSN' => '180322000449TW001375000001140181',
+  'Amount' => 100,
+  'PdtName' => 'text',
+  'Remark' => '180322000449TW001375000001140181',
+  'ReturnUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'ReqTime' => '20180813173451',
+)
+
+执行日期：2018-08-13-17:35:33
+leanwork签名认证:成功
+
+执行日期：2018-08-13-17:35:33
+验证-参数:
+array (
+  'Version' => '1.0',
+  'SignMethod' => 'MD5',
+  'TxCode' => 'setupord',
+  'MerNo' => '11570058',
+  'TxSN' => '180322000449TW001375000001140497',
+  'Amount' => 100,
+  'PdtName' => 'text',
+  'Remark' => '180322000449TW001375000001140497',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'ReqTime' => '20180813173533',
+)
+
+执行日期：2018-08-13-17:37:15
+leanwork签名认证:成功
+
+执行日期：2018-08-13-17:37:15
+验证-参数:
+array (
+  'Version' => '1.0',
+  'SignMethod' => 'MD5',
+  'TxCode' => 'setupord',
+  'MerNo' => '11570058',
+  'TxSN' => '180322000449TW001375000001140977',
+  'Amount' => 100,
+  'PdtName' => 'text',
+  'Remark' => '180322000449TW001375000001140977',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'ReqTime' => '20180813173715',
+)
+
+执行日期：2018-08-13-17:37:15
+验证-参数:
+array (
+  'RspMsg' => '商户交易流水号长度受限,最多30个字符',
+  'Signature' => 'e31236b26d66ca56f195b8995b9c1557',
+  'RspCod' => '00300',
+  'SignMethod' => 'MD5',
+)
+
+执行日期：2018-08-13-17:37:55
+leanwork签名认证:成功
+
+执行日期：2018-08-13-17:37:55
+验证-参数:
+array (
+  'Version' => '1.0',
+  'SignMethod' => 'MD5',
+  'TxCode' => 'setupord',
+  'MerNo' => '11570058',
+  'TxSN' => '201808131737556134',
+  'Amount' => 100,
+  'PdtName' => 'text',
+  'Remark' => '180322000449TW001375000001140665',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'ReqTime' => '20180813173755',
+)
+
+执行日期：2018-08-13-17:37:55
+验证-参数:
+array (
+  'Status' => '1',
+  'PlatTxSN' => '20180813173755137000',
+  'RspMsg' => '交易成功',
+  'Amount' => '100',
+  'ReturnUrl' => '',
+  'Token' => '47e933191eae43d698b6984c1cf9fc7a',
+  'SignMethod' => 'MD5',
+  'Remark' => '180322000449TW001375000001140665',
+  'ReqTime' => '20180813173755',
+  'PdtName' => 'text',
+  'MerNo' => '11570058',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'Signature' => '2eee0798950b04eced8ddaaa6ade2924',
+  'TxSN' => '201808131737556134',
+  'RspCod' => '00000',
+)
+
+执行日期：2018-08-13-17:51:28
+leanwork签名认证:成功
+
+执行日期：2018-08-13-17:51:28
+验证-参数:
+array (
+  'Version' => '1.0',
+  'SignMethod' => 'MD5',
+  'TxCode' => 'setupord',
+  'MerNo' => '11570058',
+  'TxSN' => '201808131751281918',
+  'Amount' => 100,
+  'PdtName' => 'text',
+  'Remark' => '180322000449TW001375000001140802',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'ReqTime' => '20180813175128',
+)
+
+执行日期：2018-08-13-17:51:28
+验证-参数:
+array (
+  'Status' => '1',
+  'PlatTxSN' => '20180813175128144000',
+  'RspMsg' => '交易成功',
+  'Amount' => '100',
+  'ReturnUrl' => '',
+  'Token' => '997cf5730a2e4f879615ed4761d0e8d5',
+  'SignMethod' => 'MD5',
+  'Remark' => '180322000449TW001375000001140802',
+  'ReqTime' => '20180813175128',
+  'PdtName' => 'text',
+  'MerNo' => '11570058',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/08813A/notify.php',
+  'Signature' => '9f96b975798e70a15ad6da590108aa3b',
+  'TxSN' => '201808131751281918',
+  'RspCod' => '00000',
+)
+
+执行日期：2018-08-13-17:53:31
+支付通知验证-参数5:
+Array
+
+执行日期：2018-08-13-17:53:31
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-13-17:53:31
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-13-17:53:31
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140802',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '20180813175128144000',
+  'status' => 'success',
+  'sign' => 'a9b7981d28d1d8d61b6ac69ea5939fbe',
+)
+
+执行日期：2018-08-13-17:53:32
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-13-17:53:34
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140802',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '20180813175128144000',
+  'status' => 'success',
+  'sign' => 'a9b7981d28d1d8d61b6ac69ea5939fbe',
+)
+
+执行日期：2018-08-13-17:53:34
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+

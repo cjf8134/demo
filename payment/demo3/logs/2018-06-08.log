@@ -1,0 +1,147 @@
+执行日期：2018-06-08-15:29:51
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:29:51
+表单提交
+
+执行日期：2018-06-08-15:29:51
+array (
+  'pay_amount' => '1.01',
+  'pay_applydate' => '2018-06-08 15:29:51',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '10035',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140548',
+  'pay_md5sign' => '1049B9E616A0A29311771CB2B4275F9C',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:31:17
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:31:17
+表单提交
+
+执行日期：2018-06-08-15:31:17
+array (
+  'pay_amount' => '1.01',
+  'pay_applydate' => '2018-06-08 15:31:17',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '10027',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140226',
+  'pay_md5sign' => '5D70A09133E8DA4474BE377F6095F9B1',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:32:07
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:32:07
+表单提交
+
+执行日期：2018-06-08-15:32:07
+array (
+  'pay_amount' => '1.01',
+  'pay_applydate' => '2018-06-08 15:32:07',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140302',
+  'pay_md5sign' => 'EFFCAA0A10D4AD07E0F5B93851EE501B',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:32:26
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:32:26
+表单提交
+
+执行日期：2018-06-08-15:32:26
+array (
+  'pay_amount' => '10.01',
+  'pay_applydate' => '2018-06-08 15:32:26',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140918',
+  'pay_md5sign' => '18326D5301319D344BB05197147F4E34',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:32:34
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:32:34
+表单提交
+
+执行日期：2018-06-08-15:32:34
+array (
+  'pay_amount' => '10.01',
+  'pay_applydate' => '2018-06-08 15:32:34',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140225',
+  'pay_md5sign' => '5195B120D2CFEFA78B7432446FD9B1A4',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:32:38
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:32:38
+表单提交
+
+执行日期：2018-06-08-15:32:38
+array (
+  'pay_amount' => '10.01',
+  'pay_applydate' => '2018-06-08 15:32:38',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => NULL,
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => NULL,
+  'pay_orderid' => '180322000449TW001375000001140776',
+  'pay_md5sign' => 'FB107B45CFC751CC8467AE95A90A49A9',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-08-15:33:58
+leanwork签名认证:成功
+
+执行日期：2018-06-08-15:33:58
+表单提交
+
+执行日期：2018-06-08-15:33:58
+array (
+  'pay_amount' => '10.01',
+  'pay_applydate' => '2018-06-08 15:33:58',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => 'http://localhost/payment/demo3/callback.php',
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => 'http://localhost/payment/demo3/notify.php',
+  'pay_orderid' => '180322000449TW001375000001140942',
+  'pay_md5sign' => '029054BED6EE122B8533566A03A57AEA',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+

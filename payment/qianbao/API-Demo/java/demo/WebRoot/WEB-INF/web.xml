@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee   
+    http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	<servlet>
+		<!-- 类名 -->
+		<servlet-name>PayServlet</servlet-name>
+		<!-- 所在的包 -->
+		<servlet-class>com.csepay.demo.severt.PayServlet</servlet-class>
+	</servlet>
+
+
+	<servlet>
+		<!-- 类名 -->
+		<servlet-name>OfflineNotifyServlet</servlet-name>
+		<!-- 所在的包 -->
+		<servlet-class>com.csepay.demo.severt.OfflineNotifyServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<!-- 类名 -->
+		<servlet-name>PageNotifyServlet</servlet-name>
+		<!-- 所在的包 -->
+		<servlet-class>com.csepay.demo.severt.PageNotifyServlet</servlet-class>
+	</servlet>
+
+
+	<servlet>
+		<!-- 类名 -->
+		<servlet-name>OrderServlet</servlet-name>
+		<!-- 所在的包 -->
+		<servlet-class>com.csepay.demo.severt.OrderServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>PayServlet</servlet-name>
+		<!-- 访问的网址 -->
+		<url-pattern>/PayServlet</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>OfflineNotifyServlet</servlet-name>
+		<!-- 访问的网址 -->
+		<url-pattern>/PayNotify</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>PageNotifyServlet</servlet-name>
+		<!-- 访问的网址 -->
+		<url-pattern>/PageNotify</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet-mapping>
+		<servlet-name>OrderServlet</servlet-name>
+		<!-- 访问的网址 -->
+		<url-pattern>/OrderList</url-pattern>
+	</servlet-mapping>
+
+</web-app> 

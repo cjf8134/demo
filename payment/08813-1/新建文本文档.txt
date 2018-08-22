@@ -1,0 +1,20 @@
+商户号：36960357
+
+支付密钥：6675777e6ade14aff868d647e0a6a0fd
+
+接口请求地址
+地址
+地址
+http://apipay.58ccpsy.com/mertrade/api
+
+
+收银
+
+收银台
+
+收银台 
+URL 地址
+地址
+
+地址
+http://apipay.58ccpsy.com/payshow/index

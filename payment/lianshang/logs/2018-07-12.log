@@ -1,0 +1,498 @@
+执行日期：2018-07-12-14:27:01
+leanwork签名认证:成功
+
+执行日期：2018-07-12-14:27:01
+leanwork传进来的参数
+
+执行日期：2018-07-12-14:27:01
+array (
+  'ordernumber' => '180322000449TW001375000001140475',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'paymoney' => '1.00',
+)
+
+执行日期：2018-07-12-14:27:05
+请求数据:
+array (
+  'version' => '3.0',
+  'method' => 'LsPay.online.interface',
+  'partner' => '8000008',
+  'banktype' => 'ABC',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'goodsname' => 'baiduyixia',
+  'isshow' => 1,
+)
+
+执行日期：2018-07-12-14:27:05
+签名拼接字符串:
+version=3.0&method=LsPay.online.interface&partner=8000008&banktype=ABC&paymoney=1.00&ordernumber=180322000449TW001375000001140475&callbackurl=http://zh.cynjs.com/zhifupay/lianshang/notify.php6d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:27:05
+请求数据(加密后):
+array (
+  'version' => '3.0',
+  'method' => 'LsPay.online.interface',
+  'partner' => '8000008',
+  'banktype' => 'ABC',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'goodsname' => 'baiduyixia',
+  'isshow' => 1,
+  'sign' => 'cbea4269f9c6bc92a9d82d7eeada95e1',
+)
+
+执行日期：2018-07-12-14:27:05
+访问url:
+http://LSpay.lianshangpay.com/online/gateway?version=3.0&method=LsPay.online.interface&partner=8000008&banktype=ABC&paymoney=1.00&ordernumber=180322000449TW001375000001140475&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/lianshang/notify.php&goodsname=baiduyixia&isshow=1&sign=cbea4269f9c6bc92a9d82d7eeada95e1
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-参数:
+""
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-返回的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-返回的参数做签名的字符串:
+partner=8000008&ordernumber=180322000449TW001375000001140475&orderstatus=1&paymoney=1.00006d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-生成的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:28:40
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-12-14:28:40
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-12-14:28:40
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:28:40
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:28:42
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:28:42
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-参数:
+""
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-返回的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-返回的参数做签名的字符串:
+partner=8000008&ordernumber=180322000449TW001375000001140475&orderstatus=1&paymoney=1.00006d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-生成的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:28:54
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-12-14:28:54
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-12-14:28:54
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:28:54
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:28:56
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:28:56
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-参数:
+""
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-返回的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-返回的参数做签名的字符串:
+partner=8000008&ordernumber=180322000449TW001375000001140475&orderstatus=1&paymoney=1.00006d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-生成的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:29:08
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-12-14:29:08
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-12-14:29:08
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:29:08
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:29:10
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:29:10
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:32:34
+leanwork签名认证:成功
+
+执行日期：2018-07-12-14:32:34
+leanwork传进来的参数
+
+执行日期：2018-07-12-14:32:34
+array (
+  'ordernumber' => '180322000449TW001375000001140924',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'paymoney' => '1.00',
+)
+
+执行日期：2018-07-12-14:32:42
+请求数据:
+array (
+  'version' => '3.0',
+  'method' => 'LsPay.online.interface',
+  'partner' => '8000008',
+  'banktype' => 'ALIPAY',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140924',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'goodsname' => 'baiduyixia',
+  'isshow' => 0,
+)
+
+执行日期：2018-07-12-14:32:42
+签名拼接字符串:
+version=3.0&method=LsPay.online.interface&partner=8000008&banktype=ALIPAY&paymoney=1.00&ordernumber=180322000449TW001375000001140924&callbackurl=http://zh.cynjs.com/zhifupay/lianshang/notify.php6d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:32:42
+请求数据(加密后):
+array (
+  'version' => '3.0',
+  'method' => 'LsPay.online.interface',
+  'partner' => '8000008',
+  'banktype' => 'ALIPAY',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140924',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/lianshang/notify.php',
+  'goodsname' => 'baiduyixia',
+  'isshow' => 0,
+  'sign' => 'ab3e2c212080fe886ecd46abab23b82b',
+)
+
+执行日期：2018-07-12-14:32:42
+访问url:
+http://LSpay.lianshangpay.com/online/gateway?version=3.0&method=LsPay.online.interface&partner=8000008&banktype=ALIPAY&paymoney=1.00&ordernumber=180322000449TW001375000001140924&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/lianshang/notify.php&goodsname=baiduyixia&isshow=0&sign=ab3e2c212080fe886ecd46abab23b82b
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-参数:
+array (
+  'partner' => '8000008',
+  'ordernumber' => '180322000449TW001375000001140475',
+  'orderstatus' => '1',
+  'paymoney' => '1.0000',
+  'sysnumber' => 'Ls80000081807121427700',
+  'attach' => '',
+  'sign' => 'ffc50e97dcf92a8a4b08e9bce49e0993',
+)
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-参数:
+""
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-返回的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-返回的参数做签名的字符串:
+partner=8000008&ordernumber=180322000449TW001375000001140475&orderstatus=1&paymoney=1.00006d9337a214f3b5ca029db8c3732c9130
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-生成的签名:
+ffc50e97dcf92a8a4b08e9bce49e0993
+
+执行日期：2018-07-12-14:33:05
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-12-14:33:05
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-12-14:33:05
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:33:05
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-12-14:33:07
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140475',
+  'orderAmount' => '1.0000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'Ls80000081807121427700',
+  'status' => 'success',
+  'sign' => '91154cf48533f49e60ca92e7887434db',
+)
+
+执行日期：2018-07-12-14:33:07
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

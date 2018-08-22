@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>代付接口文档V2.01</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1 style="text-align:center">代付接口文档V2.01</h1>
+
+<h2>1.接口介绍</h2>
+<h3>1.1.产品介绍</h3>
+<p>1)普通代付</p>
+<p>&emsp;&emsp;◆ 可代付时间：不限出款时间</p>
+<p>&emsp;&emsp;◆ 代付使用金额：经过T+1结算的账户余额（即商户综合管理系统-对账管理-账户余额 中的“<b>可用余额</b>”）</p>
+<p>&emsp;&emsp;◆ 到账时间：正常即时到账，偶尔出现半小时内到账也属于正常情况</p>
+
+<h2>2.接口规则</h2>
+<h3>2.1.协议规则</h3>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 传输方式：<b>HTTP传输</b></p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 提交方式：采用<b>POST</b>方式提交</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 字符编码：统一采用<b>UTF-8</b>字符编码方式</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 数据格式：返回数据为<b>JSON格式</b></p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 签名算法：<b>MD5</b></p>
+<p>&emsp;&emsp;◆ 签名要求：请求数据需进行校验签名，详细签名方法请见 2.2.签名机制</p>
+<h3 style="color:#FF0000;">2.2.签名机制</h3>
+<p>&emsp;&emsp;本接口中，签名参数定义为：sign，以下为使用MD5加密，生成sign字符串的方法：</p>
+<p>1）除sign字段外，所有非空参数值的参数按照参数名ASCII码从小到大排序（字典序），使用URL键值对的格式拼接成待签名字符串stringA</p>
+<pre>mch_id=84000000000
+trans_money=100
+service=TXZF_DF
+out_trade_no=2018073112212
+account_name=小二
+bank_card=62122363202123123123
+bankCode=ICBC
+bank_name=中国工商银行XX支行
+bank_linked=525213264213
+phoneNo=13526548952
+Idcard=411251199111111111
+</pre>
+<pre>stringA="account_name=小二&bankCode=ICBC&bank_card=62122363202123123123&bank_linked=525213264213&bank_name=中国工商银行XX支行&Idcard=411251199111111111&mch_id=84000000000&out_trade_no=2018073112212&phoneNo=13526548952&service=TXZF_DF&trans_money=100
+";</pre>
+<p><b>以下规则请着重注意：</b></p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 参数名ASCII码从小到大排序（字典序）；</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 如果参数的值为空不参与签名；</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 参数名区分大小写；</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 接口可能增加字段，验证签名时必须支持增加的扩展字段。</p>
+<p>2）在stringA后面拼接上key得到stringB字符串，并对stringB进行MD5运算，得到sign值</p>
+<p>&emsp;&emsp;示例：<b>sign=md5(stringB.getbyte("utf-8")).toUpperCase()</b></p>
+<pre>string=stringA+"&key=ab68ed046100bb80ec8af66231d657b150222";
+
+sign=md5(stringB.getByte("utf-8")) .toUpperCase()="CFCC8D80E34826BEE7D7CBFCF4311805";
+</pre>
+<p>&emsp;&emsp;（注：key获取路径：<a href="http://202.239.38.240:8081/superpay/" target=_blank ><b>商户综合管理系统</b></a>→订单管理→用户信息）</p>
+
+<h2>3.接口定义</h2>
+<h3>3.1.代付接口</h3>
+<h4>3.1.1.业务功能</h4>
+<p>&emsp;&emsp;通过此接口，商户可以同时付款到多个银行卡账户。</p>
+<h4>3.1.2.接口地址</h4>
+<p style="color:#FF0000;">&emsp;&emsp;URL地址：http://202.239.38.240:8081/superpay/api/v1/dftransRequest</p>
+<h4>3.1.3.请求参数</h4>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>参数名称</th>
+        <th>参数含义</th>
+        <th>取值</th>
+        <th>是否必填</th>
+        <th>最大长度</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>mch_id</td>
+        <td>商户号</td>
+        <td>平台分配的商户号</td>
+        <td>是</td>
+        <td>15</td>
+        <td>登录商户系统可查</td>
+    </tr>
+    <tr>
+        <td>total_fee</td>
+        <td>交易金额</td>
+        <td><b>单位:分</b></td>
+        <td>是</td>
+        <td>12</td>
+        <td>金额是1元则填 100</td>
+    </tr>
+    <tr>
+        <td>service</td>
+        <td>交易类型</td>
+        <td>代付类型</td>
+        <td>是</td>
+        <td>12</td>
+        <td>参见附录4.1交易类型</td>
+    </tr>
+    <tr>
+        <td>out_trade_no</td>
+        <td>交易单号</td>
+        <td>商户的交易订单号</td>
+        <td>是</td>
+        <td>32</td>
+        <td>每笔交易唯一</td>
+    </tr>
+    <tr>
+        <td>account_name</td>
+        <td>收款账户名</td>
+        <td>收款人账户名</td>
+        <td>是</td>
+        <td>32</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>bank_card</td>
+        <td>银行卡号</td>
+        <td>银行卡号</td>
+        <td>是</td>
+        <td>30</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>bankCode</td>
+        <td>银行简码</td>
+        <td>银行简码</td>
+        <td>是</td>
+        <td>30</td>
+        <td>参见附录4.2银行简码</td>
+    </tr>
+    <tr>
+        <td>bank_name</td>
+        <td>支行名称</td>
+        <td>开户行名称</td>
+        <td>是</td>
+        <td>64</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>bank_linked</td>
+        <td>联行号</td>
+        <td>联行号</td>
+        <td>是</td>
+        <td>32</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>phoneNo</td>
+        <td>持卡人手机号</td>
+        <td>持卡人手机号</td>
+        <td>是</td>
+        <td>20</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>idcard</td>
+        <td>持卡人身份证</td>
+        <td>持卡人身份证</td>
+        <td>是</td>
+        <td>20</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>sign</td>
+        <td>签名</td>
+        <td>参见2.2.签名机制</td>
+        <td>是</td>
+        <td>32</td>
+        <td></td>
+    </tr>
+</table>
+
+<h4>3.1.4.同步响应参数</h4>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>参数名称</th>
+        <th>参数含义</th>
+        <th>取值</th>
+        <th>是否必填</th>
+        <th>最大长度</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>ret_code</td>
+        <td>返回码</td>
+        <td>SUCCESS/FAIL</td>
+        <td>否</td>
+        <td>8</td>
+        <td>通信标识，非交易结果</td>
+    </tr>
+    <tr>
+        <td>ret_message</td>
+        <td>返回码说明</td>
+        <td></td>
+        <td>否</td>
+        <td>100</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="6">以下信息只有当ret_code为SUCCESS时有返回</td>
+    </tr>
+    <tr>
+        <td>tradeStatus</td>
+        <td>代付状态</td>
+        <td>交易状态(1-处理中，2-失败，3-成功)</td>
+        <td>是</td>
+        <td>不限</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>tradeMessage</td>
+        <td>代付说明</td>
+        <td>交易说明</td>
+        <td>否</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>orderNo</td>
+        <td>交易单号</td>
+        <td>平台订单号</td>
+        <td>否</td>
+        <td>8</td>
+        <td></td>
+    </tr>
+</table>
+
+
+<h3>3.2.代付订单查询接口</h3>
+<h4>3.2.1.业务功能</h4>
+<p>&emsp;&emsp;根据此接口查询该商户订单的代付到账结果。</p>
+<h4>3.2.2.接口地址</h4>
+<p style="color:#FF0000;">&emsp;&emsp;URL地址：http://202.239.38.240:8081/superpay/api/v1/dftradeQuery</p>
+<h4>3.2.3.请求参数</h4>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>参数名称</th>
+        <th>参数含义</th>
+        <th>取值</th>
+        <th>是否必填</th>
+        <th>最大长度</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>mch_id</td>
+        <td>商户号</td>
+        <td>平台分配的商户号</td>
+        <td>是</td>
+        <td>15</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>out_trade_no</td>
+        <td>订单号</td>
+        <td>平台订单号</td>
+        <td>是</td>
+        <td>32</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>sign</td>
+        <td>签名</td>
+        <td>参见2.2签名机制</td>
+        <td>否</td>
+        <td>32</td>
+        <td></td>
+    </tr>
+</table>
+<h4>3.2.4.同步响应参数</h4>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>参数名称</th>
+        <th>参数含义</th>
+        <th>取值</th>
+        <th>是否必填</th>
+        <th>最大长度</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>ret_code</td>
+        <td>返回码</td>
+        <td>SUCCESS/FAIL</td>
+        <td>否</td>
+        <td>8</td>
+        <td>通信标识，非交易结果</td>
+    </tr>
+    <tr>
+        <td>ret_message</td>
+        <td>返回码说明</td>
+        <td></td>
+        <td>否</td>
+        <td>100</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="6">以下信息只有当ret_code为SUCCESS时有返回</td>
+    </tr>
+    <tr>
+        <td>orderNo</td>
+        <td>交易单号</td>
+        <td>平台的交易流水号</td>
+        <td>否</td>
+        <td>20</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>payStatus</td>
+        <td>交易结果</td>
+        <td>交易状态(1-处理中，2-失败，3-成功)</td>
+        <td>否</td>
+        <td>4</td>
+        <td>参见附录4.4交易结果码</td>
+    </tr>
+</table>
+
+<h2>4.附录</h2>
+<h3>4.1.交易类型</h3>
+<p>&emsp;&emsp;请求代付参数：service（交易类型），可供填写选择如下：（具体使用情况请咨询相关业务人员）</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 网关代付：RBAO_GATEWAY_DF</p>
+<p style="color:#FF0000;">&emsp;&emsp;◆ 支付宝代付： YUNJUE_ZFB_DF</p>
+
+<h3>4.2.银行简码</h3>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>银行名称</th>
+        <th>简码名称</th>
+    </tr>
+    <tr>
+        <td>中国农业银行</th>
+        <td>ABC</th>
+    </tr>
+    <tr>
+        <td>北京银行</th>
+        <td>BJBANK</th>
+    </tr>
+    <tr>
+        <td>中国银行</th>
+        <td>BOC</th>
+    </tr>
+    <tr>
+        <td>中国建设银行</th>
+        <td>CCB</th>
+    </tr>
+    <tr>
+        <td>中国光大银行</th>
+        <td>CEB</th>
+    </tr>
+    <tr>
+        <td>兴业银行</th>
+        <td>CIB</th>
+    </tr>
+<tr>
+        <td>中信银行</th>
+        <td>CITIC</th>
+    </tr>
+<tr>
+        <td>中国民生银行</th>
+        <td>CMBC</th>
+    </tr>
+<tr>
+        <td>广发银行</th>
+        <td>GDB</th>
+    </tr>
+<tr>
+        <td>中国工商银行</th>
+        <td>ICBC</th>
+    </tr>
+<tr>
+        <td>华夏银行</th>
+        <td>HXBANK</th>
+    </tr>
+<tr>
+        <td>浦发银行</th>
+        <td>SPDB</th>
+    </tr>
+<tr>
+        <td>中国邮政储蓄银行</th>
+        <td>PSBC</th>
+    </tr>
+<tr>
+        <td>招商银行</th>
+        <td>CMB</th>
+    </tr>
+<tr>
+        <td>交通银行</th>
+        <td>COMM</th>
+    </tr>
+<tr>
+        <td>上海银行</th>
+        <td>SHBANK</th>
+    </tr>
+<tr>
+        <td>平安银行</th>
+        <td>SPABANK</th>
+    </tr>
+</table>
+
+<h3>4.3.交易状态码</h3>
+<p>&emsp;&emsp;只有SUCCESS表示交易成功或下单成功，其他为失败。</p>
+<h3>4.4.交易结果码</h3>
+<p>&emsp;&emsp;此状态说明代付订单的到账结果，即：payStatus（交易结果）：</p>
+<table style="margin:0px auto;text-align:center" border="1">
+    <tr>
+        <th>响应内容</th>
+        <th>响应内容说明</th>
+    </tr>
+    <tr>
+        <td>1</th>
+        <td>处理中</th>
+    </tr>
+    <tr>
+        <td>2</th>
+        <td>失败</th>
+    </tr>
+    <tr>
+        <td>3</th>
+        <td>成功</th>
+    </tr>
+</table>
+
+
+</body>
+</html>

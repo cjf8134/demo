@@ -1,0 +1,4 @@
+epaylinks_pfx.cer是公钥文件
+yzt.pfx是私钥文件
+
+公私钥的目录、配置在DEMO的配置文件（paycenter_config.properties）中

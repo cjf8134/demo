@@ -1,0 +1,151 @@
+执行日期：2018-06-16-12:16:32
+leanwork签名认证:成功
+
+执行日期：2018-06-16-12:16:32
+支付宝跳转
+
+执行日期：2018-06-16-12:16:32
+array (
+  'app_id' => '2018061560384407',
+  'method' => 'alipay.trade.page.pay',
+  'format' => 'JSON',
+  'charset' => 'utf-8',
+  'sign_type' => 'RSA2',
+  'timestamp' => '2018-06-16 12:16:32',
+  'version' => '1.0',
+  'notify_url' => 'http://u172g87458.51mypc.cn/gitee/payment/qrcode_alipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'biz_content' => '{"out_trade_no":"180322000449TW001375000001140908","product_code":"FAST_INSTANT_TRADE_PAY","total_amount":"0.01","subject":"\\u652f\\u4ed8\\u6b3e"}',
+)
+
+执行日期：2018-06-16-12:16:49
+支付通知验证-参数:
+array (
+  'gmt_create' => '2018-06-16 12:16:38',
+  'charset' => 'utf-8',
+  'gmt_payment' => '2018-06-16 12:16:47',
+  'notify_time' => '2018-06-16 12:16:47',
+  'subject' => '支付款',
+  'sign' => 'UYhzik8DxzLqkI3WcYGWsULs12ANlXoKe8+86fEXi1W0GMwGpV5D/z1UD5ydIHU+Vl2udcbG3avi8hmYUjxJnOptBirBqY63U3+jwgywsoi5h8x7yoSqF9h+EHmKtb8loMDz2lICiGusdcDNN0UWHN3Tyhwu4SthlCXLRxIrzzS0BWRjTYxVVX3Beo/2qJhFonsx0+wyFRxe9qVOM9p3b6uj7Wb3upwYCYy5/NE6UjKydI9Egmirm5zx1rZZibTYm0gyZ9n4T91fVhUGNUk0aiAxja/7n/csxsDq6WulGAcnkrjZU29HN+NHA6U9ZV/vJJCF0NnkR6pJP9WrYTq7aA==',
+  'buyer_id' => '2088702659233302',
+  'invoice_amount' => '0.01',
+  'version' => '1.0',
+  'notify_id' => '15bd2ea2ad6c983a0b83d82407281bdibh',
+  'fund_bill_list' => '[{"amount":"0.01","fundChannel":"ALIPAYACCOUNT"}]',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '180322000449TW001375000001140908',
+  'total_amount' => '0.01',
+  'trade_status' => 'TRADE_SUCCESS',
+  'trade_no' => '2018061621001004300586821806',
+  'auth_app_id' => '2018061560384407',
+  'receipt_amount' => '0.01',
+  'point_amount' => '0.00',
+  'app_id' => '2018061560384407',
+  'buyer_pay_amount' => '0.01',
+  'sign_type' => 'RSA2',
+  'seller_id' => '2088131392504031',
+)
+
+执行日期：2018-06-16-12:16:49
+支付通知验证-参数:
+array (
+  'gmt_create' => '2018-06-16 12:16:38',
+  'charset' => 'utf-8',
+  'gmt_payment' => '2018-06-16 12:16:47',
+  'notify_time' => '2018-06-16 12:16:47',
+  'subject' => '支付款',
+  'buyer_id' => '2088702659233302',
+  'invoice_amount' => '0.01',
+  'version' => '1.0',
+  'notify_id' => '15bd2ea2ad6c983a0b83d82407281bdibh',
+  'fund_bill_list' => '[{"amount":"0.01","fundChannel":"ALIPAYACCOUNT"}]',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '180322000449TW001375000001140908',
+  'total_amount' => '0.01',
+  'trade_status' => 'TRADE_SUCCESS',
+  'trade_no' => '2018061621001004300586821806',
+  'auth_app_id' => '2018061560384407',
+  'receipt_amount' => '0.01',
+  'point_amount' => '0.00',
+  'app_id' => '2018061560384407',
+  'buyer_pay_amount' => '0.01',
+  'seller_id' => '2088131392504031',
+)
+
+执行日期：2018-06-16-12:16:49
+支付通知验证-签名:
+1
+
+执行日期：2018-06-16-12:16:49
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-16-12:16:49
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-16-12:16:49
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140908',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018061621001004300586821806',
+  'status' => 'success',
+  'sign' => 'ba8e51259a5b1a8ae064bfa279973a1d',
+)
+
+执行日期：2018-06-16-12:16:49
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-16-12:16:51
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140908',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '2018061621001004300586821806',
+  'status' => 'success',
+  'sign' => 'ba8e51259a5b1a8ae064bfa279973a1d',
+)
+
+执行日期：2018-06-16-12:16:51
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-16-15:09:14
+leanwork签名认证:成功
+
+执行日期：2018-06-16-15:09:14
+支付宝跳转
+
+执行日期：2018-06-16-15:09:14
+array (
+  'app_id' => '2018061560384407',
+  'method' => 'alipay.trade.page.pay',
+  'format' => 'JSON',
+  'charset' => 'utf-8',
+  'sign_type' => 'RSA2',
+  'timestamp' => '2018-06-16 15:09:14',
+  'version' => '1.0',
+  'notify_url' => 'http://localhost/payment/alipay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'biz_content' => '{"out_trade_no":"180322000449TW001375000001140323","product_code":"FAST_INSTANT_TRADE_PAY","total_amount":"0.01","subject":"\\u652f\\u4ed8\\u6b3e"}',
+)
+

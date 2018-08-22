@@ -1,0 +1,30 @@
+执行日期：2018-06-11-08:57:47
+leanwork签名认证:成功
+
+执行日期：2018-06-11-08:57:47
+表单提交
+
+执行日期：2018-06-11-08:57:47
+array (
+  'pay_amount' => '10.01',
+  'pay_applydate' => '2018-06-11 08:57:47',
+  'pay_bankcode' => '907',
+  'pay_callbackurl' => 'http://localhost/payment/demo3/callback.php',
+  'pay_memberid' => '180622297',
+  'pay_notifyurl' => 'http://localhost/payment/demo3/notify.php',
+  'pay_orderid' => '180322000449TW001375000001140911',
+  'pay_md5sign' => '4D80D4FCF71EA201B7AFEEBE31CB79AC',
+  'pay_attach' => '',
+  'pay_productname' => '支付通道',
+  'bank_code' => 'CCB',
+)
+
+执行日期：2018-06-11-08:57:59
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-06-11-08:57:59
+支付通知验证-结果:
+fail
+

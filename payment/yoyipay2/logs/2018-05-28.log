@@ -1,0 +1,28 @@
+执行日期：2018-05-28-12:15:42
+leanwork签名认证:成功
+
+执行日期：2018-05-28-12:15:42
+表单提交
+
+执行日期：2018-05-28-12:15:42
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180528121542955',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140162',
+  'totalPrice' => '0.01',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/payment/demo1/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'a905615c799590840b15b7e2915a5ac7',
+)
+
+执行日期：2018-05-28-12:15:43
+表单返回信息
+
+执行日期：2018-05-28-12:15:43
+{"sign":"b12d7d51bfd1b176cebc00861a7ffd12","cashway":"http://gateway.alwaypay.com/cashier/channel/wgNoIcon?gateway_id=3301&encryptData=%7B%22serialNo%22%3A%2277B723935231434EBBAB956727AB2106%22%2C%22version%22%3A%221.0%22%2C%22timestamp%22%3A%2220180528121604930%22%2C%22data%22%3A%22Ph6k2%2BOoMn8bxJsaT31lOjV63abBAJY20OO06sRV14oce49rsHUbdUhBkqd4hupk8gZiOoY6hoBpbBu7D6O5eEWxWPkssezJucALfkIODBYgMDm6Hy1MnqK7QGZaa6eVD07k%2BjzooMhz86G%2Bz92X0%2BMOnPPlmRqHhnYOHTXxpIQsXYO9N019m7AMrfexaUma5hXh1JnbBBkHi3cj5idoOUktcu%2B00sLrlF37L9%2F%2BUB%2BC9X6j3vb%2BHnuezXXL7XaOeVfh8ee4HN30n2o4AYSrvjN57W9GrU9746%2FXDysCC7br%2BMqjhGzlRdki%2FIOu5OhpE7g7Tfi8SAOEn%2FiuAXYwUOMO%2BAl9kdJExglHUO30RyJHsgC8TzLbpi6nrqEIBh5Y%22%2C%22signature%22%3A%22Gw5rdKDpp6x0XT2HIwoLhmgp65mSY6PgNmVEDmdsTBzUAIXRFS0%2BCJX%2Foxag4dam9TpnTs8m11bxR6nnnlnPxVN0a4%2F%2BoM7mljQWk%2FsWWtUvfogmzY9AoDXtOR%2F8z83gjpdscAOtJ75ZbxJhWZoRop%2FJoUUy2vAmQ4AHTj%2BU6p5JrKLggLHWzdENH7o9K7kkX66aIdAVqvQjNFcA75LmggobbzKJ%2FY%2Fdx2DGPrjDc2R9e6Bin1OCgAD%2B9KdSsIwnN%2BRy%2Bfaqm7YR7kBSQyO2njfeW8D2xTb20XlXRzv7rz11ndD1yO%2Fi1hzCuVqYCy0tozRURC1jSgSQX17NxdOfOA%3D%3D%22%7D","orderidinf":"180322000449TW001375000001140162","code":"0x0000","success":true,"msg":"调用成功","orderId":"R2018052812160491147"}
+

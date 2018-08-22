@@ -1,0 +1,115 @@
+执行日期：2018-06-05-09:30:49
+leanwork签名认证:成功
+
+执行日期：2018-06-05-09:32:04
+leanwork签名认证:成功
+
+执行日期：2018-06-05-09:32:04
+表单提交
+
+执行日期：2018-06-05-09:32:04
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180605093204561',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140718',
+  'totalPrice' => '0.01',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => NULL,
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => '0995e1872ebbea4cb6ca89a1a2f3f4ab',
+)
+
+执行日期：2018-06-05-09:32:07
+表单返回信息
+
+执行日期：2018-06-05-09:32:07
+
+
+执行日期：2018-06-05-09:32:58
+leanwork签名认证:成功
+
+执行日期：2018-06-05-09:32:58
+表单提交
+
+执行日期：2018-06-05-09:32:58
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180605093258365',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140517',
+  'totalPrice' => '0.01',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/payment/demo3/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => '041d963523815f6204566eab5328e262',
+)
+
+执行日期：2018-06-05-09:32:58
+表单返回信息
+
+执行日期：2018-06-05-09:32:58
+<html><head><title>Apache Tomcat/7.0.67 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.67</h3></body></html>
+
+执行日期：2018-06-05-09:33:36
+leanwork签名认证:成功
+
+执行日期：2018-06-05-09:33:36
+表单提交
+
+执行日期：2018-06-05-09:33:36
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180605093336281',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140359',
+  'totalPrice' => '0.01',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/payment/demo3/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => '33fb1bc3c4ade7f83e2931874ffb16f9',
+)
+
+执行日期：2018-06-05-09:33:36
+表单返回信息
+
+执行日期：2018-06-05-09:33:36
+<html><head><title>Apache Tomcat/7.0.67 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.67</h3></body></html>
+
+执行日期：2018-06-05-09:51:46
+leanwork签名认证:成功
+
+执行日期：2018-06-05-09:51:46
+表单提交
+
+执行日期：2018-06-05-09:51:46
+array (
+  'id' => 'AWP1128477492',
+  'appid' => 'AWP112897',
+  'posttime' => '20180605095146166',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001142547',
+  'totalPrice' => '0.01',
+  'ordertitle' => '支付款',
+  'goodsname' => '支付款',
+  'goodsdetail' => '支付款',
+  'bgRetUrl' => 'http://localhost/payment/demo3/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'sign' => 'f78cc31c96859193fc8f56874c7ced69',
+)
+
+执行日期：2018-06-05-09:51:49
+表单返回信息
+
+执行日期：2018-06-05-09:51:49
+<html><head><title>Apache Tomcat/7.0.67 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.67</h3></body></html>
+

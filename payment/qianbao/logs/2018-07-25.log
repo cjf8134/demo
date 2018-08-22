@@ -1,0 +1,230 @@
+执行日期：2018-07-25-18:08:54
+leanwork签名认证:成功
+
+执行日期：2018-07-25-18:08:54
+请求签名前数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140523',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140523',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725180854',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://zh.cynjs.com/zhifupay/qianbao/notify.php',
+)
+
+执行日期：2018-07-25-18:08:54
+生成签名的字符串:
+code=1685&input_charset=UTF-8&interfaceVersion=2.0.1&offline_notify=http://zh.cynjs.com/zhifupay/qianbao/notify.php&order_amount=0.01&orderId=180322000449TW001375000001140523&orderInfo=测试&orderTime=20180725180854&page_notify=http://localhost/pay/success&product_code=180322000449TW001375000001140523&product_name=text&sign_type=RSA-S
+
+执行日期：2018-07-25-18:08:54
+生成签名:
+s2yqZim4X6SpIhlL7fIX2QBtbfC2O37J/wAZvY773ifCg+bE9XgQHtxv6IbLwOjLM6quzuj+Z3u6Fc00pE2WkEr+CIfd6/nvOM+hXnvSjyS7dj0t/ILi4iH7/b7lssT8VivzgHBsLn2t8x1T9Hx8jSM3MQI6bvrDZ/rpfpdGjEE=
+
+执行日期：2018-07-25-18:08:54
+请求数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140523',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140523',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725180854',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://zh.cynjs.com/zhifupay/qianbao/notify.php',
+  'sign' => 's2yqZim4X6SpIhlL7fIX2QBtbfC2O37J/wAZvY773ifCg+bE9XgQHtxv6IbLwOjLM6quzuj+Z3u6Fc00pE2WkEr+CIfd6/nvOM+hXnvSjyS7dj0t/ILi4iH7/b7lssT8VivzgHBsLn2t8x1T9Hx8jSM3MQI6bvrDZ/rpfpdGjEE=',
+)
+
+执行日期：2018-07-25-18:09:56
+leanwork签名认证:成功
+
+执行日期：2018-07-25-18:09:56
+请求签名前数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140261',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140261',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725180956',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://zh.cynjs.com/zhifupay/qianbao/notify.php',
+)
+
+执行日期：2018-07-25-18:09:56
+生成签名的字符串:
+code=1685&input_charset=UTF-8&interfaceVersion=2.0.1&offline_notify=http://zh.cynjs.com/zhifupay/qianbao/notify.php&order_amount=0.01&orderId=180322000449TW001375000001140261&orderInfo=测试&orderTime=20180725180956&page_notify=http://localhost/pay/success&product_code=180322000449TW001375000001140261&product_name=text&sign_type=RSA-S
+
+执行日期：2018-07-25-18:09:56
+生成签名:
+p34n3DHeGhqT83O+/j7WQTfABqtWjgMDSyvzpFMvpLjuQw+CKwQgLs/1EnxSYj/SLb/5x3dmp4JCsfezBVpzOziDrg/TJNCc6pGIms7IcCaMc+ticS9RMGGiXFD6AuOOMfOmg7OJz7GxFicqjPzfGyO2xFeHTE4iczbI4uZeFgY=
+
+执行日期：2018-07-25-18:09:56
+请求数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140261',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140261',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725180956',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://zh.cynjs.com/zhifupay/qianbao/notify.php',
+  'sign' => 'p34n3DHeGhqT83O+/j7WQTfABqtWjgMDSyvzpFMvpLjuQw+CKwQgLs/1EnxSYj/SLb/5x3dmp4JCsfezBVpzOziDrg/TJNCc6pGIms7IcCaMc+ticS9RMGGiXFD6AuOOMfOmg7OJz7GxFicqjPzfGyO2xFeHTE4iczbI4uZeFgY=',
+)
+
+执行日期：2018-07-25-20:06:58
+leanwork签名认证:成功
+
+执行日期：2018-07-25-20:06:58
+请求签名前数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140236',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140236',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200658',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+)
+
+执行日期：2018-07-25-20:06:58
+生成签名的字符串:
+code=1685&input_charset=UTF-8&interfaceVersion=2.0.1&offline_notify=http://www.demo.cn/payment/qianbao/notify.php&order_amount=0.01&orderId=180322000449TW001375000001140236&orderInfo=测试&orderTime=20180725200658&page_notify=http://localhost/pay/success&product_code=180322000449TW001375000001140236&product_name=text&sign_type=RSA-S
+
+执行日期：2018-07-25-20:06:58
+生成签名:
+sESPHtv3msVoVG4UAMZZc6Nnu1XSsv3h+wM4wUafdx15vxnE/roKY6nEUETUfYypql6kTbMvkGv/5O758ccpgZtCSW1xw2eQWXx9VRhgJEmKk6Pl9CUwo4vQSRzqRBWlRZYJJBKOH4yjaT+JuWbmPKXNcYNF7hkYMtf9J4uxbNQ=
+
+执行日期：2018-07-25-20:06:58
+请求数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140236',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140236',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200658',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+  'sign' => 'sESPHtv3msVoVG4UAMZZc6Nnu1XSsv3h+wM4wUafdx15vxnE/roKY6nEUETUfYypql6kTbMvkGv/5O758ccpgZtCSW1xw2eQWXx9VRhgJEmKk6Pl9CUwo4vQSRzqRBWlRZYJJBKOH4yjaT+JuWbmPKXNcYNF7hkYMtf9J4uxbNQ=',
+)
+
+执行日期：2018-07-25-20:07:23
+leanwork签名认证:成功
+
+执行日期：2018-07-25-20:07:23
+请求签名前数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140297',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140297',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200723',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+)
+
+执行日期：2018-07-25-20:07:23
+生成签名的字符串:
+code=1685&input_charset=UTF-8&interfaceVersion=2.0.1&offline_notify=http://www.demo.cn/payment/qianbao/notify.php&order_amount=0.01&orderId=180322000449TW001375000001140297&orderInfo=测试&orderTime=20180725200723&page_notify=http://localhost/pay/success&product_code=180322000449TW001375000001140297&product_name=text&sign_type=RSA-S
+
+执行日期：2018-07-25-20:07:23
+生成签名:
+WNeF7wpzUkwlT3qIjFYixEG3h4fF8UFrfPbD2AgwqO2cH1DI3jfqivCGmbkjgA3/a0IDXKOeRQCC7Ks7vYz1xZTKYvT4k51dKtLXbFAneRcNseIBZ7cA6NCRufEnmjqbT8eAlBH2Oty9XmjzRpNwjUd66npk4CkRw9HwAHekCsc=
+
+执行日期：2018-07-25-20:07:23
+请求数据:
+array (
+  'code' => '1685',
+  'orderId' => '180322000449TW001375000001140297',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140297',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200723',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+  'sign' => 'WNeF7wpzUkwlT3qIjFYixEG3h4fF8UFrfPbD2AgwqO2cH1DI3jfqivCGmbkjgA3/a0IDXKOeRQCC7Ks7vYz1xZTKYvT4k51dKtLXbFAneRcNseIBZ7cA6NCRufEnmjqbT8eAlBH2Oty9XmjzRpNwjUd66npk4CkRw9HwAHekCsc=',
+)
+
+执行日期：2018-07-25-20:08:42
+leanwork签名认证:成功
+
+执行日期：2018-07-25-20:08:42
+请求签名前数据:
+array (
+  'code' => '5026',
+  'orderId' => '180322000449TW001375000001140300',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140300',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200842',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+)
+
+执行日期：2018-07-25-20:08:42
+生成签名的字符串:
+code=5026&input_charset=UTF-8&interfaceVersion=2.0.1&offline_notify=http://www.demo.cn/payment/qianbao/notify.php&order_amount=0.01&orderId=180322000449TW001375000001140300&orderInfo=测试&orderTime=20180725200842&page_notify=http://localhost/pay/success&product_code=180322000449TW001375000001140300&product_name=text&sign_type=RSA-S
+
+执行日期：2018-07-25-20:08:42
+生成签名:
+dlUNexIzSDKpNLyMuRyr5e9dDSZ1xlbR4WUh2Fy6Qh72tvA1LE3aQxX3yDIcY5mg59dKpLhcYAOdGHUVXpYHocgVp9x4Si80evSSS8mfAOFFstG2BSdGL38x5w5loe+ksAXZHWGMU7hFP+PYHc9fg3zU6iPuaFB1kvHqFwpXvH4=
+
+执行日期：2018-07-25-20:08:42
+请求数据:
+array (
+  'code' => '5026',
+  'orderId' => '180322000449TW001375000001140300',
+  'input_charset' => 'UTF-8',
+  'order_amount' => '0.01',
+  'product_code' => '180322000449TW001375000001140300',
+  'product_name' => 'text',
+  'sign_type' => 'RSA-S',
+  'orderTime' => '20180725200842',
+  'interfaceVersion' => '2.0.1',
+  'orderInfo' => '测试',
+  'page_notify' => 'http://localhost/pay/success',
+  'offline_notify' => 'http://www.demo.cn/payment/qianbao/notify.php',
+  'sign' => 'dlUNexIzSDKpNLyMuRyr5e9dDSZ1xlbR4WUh2Fy6Qh72tvA1LE3aQxX3yDIcY5mg59dKpLhcYAOdGHUVXpYHocgVp9x4Si80evSSS8mfAOFFstG2BSdGL38x5w5loe+ksAXZHWGMU7hFP+PYHc9fg3zU6iPuaFB1kvHqFwpXvH4=',
+)
+

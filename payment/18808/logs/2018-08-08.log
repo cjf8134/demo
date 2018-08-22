@@ -1,0 +1,747 @@
+执行日期：2018-08-08-17:02:38
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:02:38
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:02:38
+array (
+  'orderNo' => '180322000449TW001375000001140474',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:02:40
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140474',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170840',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '85a64bdb15ad3cbd429696f0fc6399df',
+)
+
+执行日期：2018-08-08-17:04:38
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:04:38
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:04:38
+array (
+  'orderNo' => '180322000449TW001375000001140294',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:09:02
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140294',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170802',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '2b7891abc250c7304b9e1e78e22e6143',
+)
+
+执行日期：2018-08-08-17:11:34
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:11:34
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:11:34
+array (
+  'orderNo' => '180322000449TW001375000001140366',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:11:36
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140366',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170836',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '7e21185a9a72ccafc81216bee857f672',
+)
+
+执行日期：2018-08-08-17:12:48
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-08-08-17:13:49
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-08-08-17:14:49
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-08-08-17:15:51
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-08-08-17:16:54
+支付通知验证-参数:
+array (
+)
+
+执行日期：2018-08-08-17:17:18
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:17:18
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:17:18
+array (
+  'orderNo' => '180322000449TW001375000001140764',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:17:20
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140764',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170820',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '6dd9ae8ddef6a295a1dfce5ef6db5e93',
+)
+
+执行日期：2018-08-08-17:19:04
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171901","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"0a05a89cb1d5b0e29ec4a98dd598c59e"}'
+
+执行日期：2018-08-08-17:19:04
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171901","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"0a05a89cb1d5b0e29ec4a98dd598c59e"}'
+
+执行日期：2018-08-08-17:19:04
+支付通知验证-参数msg:
+'' . "\0" . '"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171901","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"0a05a89cb1d5b0e29ec4a98dd598c59e"}'
+
+执行日期：2018-08-08-17:19:04
+支付通知验证-sign:
+8da5eeba98520d896ca97da8a663024f
+
+执行日期：2018-08-08-17:19:04
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-08-17:20:06
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171957","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"4ccb2135a301ec87c9f7616a4a777f8c"}'
+
+执行日期：2018-08-08-17:20:06
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171957","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"4ccb2135a301ec87c9f7616a4a777f8c"}'
+
+执行日期：2018-08-08-17:20:06
+支付通知验证-参数msg:
+'' . "\0" . '"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171957","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"4ccb2135a301ec87c9f7616a4a777f8c"}'
+
+执行日期：2018-08-08-17:20:06
+支付通知验证-sign:
+8da5eeba98520d896ca97da8a663024f
+
+执行日期：2018-08-08-17:20:06
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-08-17:21:08
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:21:08
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:21:08
+支付通知验证-参数msg:
+'' . "\0" . '{\\"resultCode\\":\\"000000\\",\\"resultMsg\\":\\"\\",\\"resultStatus\\":\\"SUCCESS\\",\\"resultTime\\":\\"20180808172059\\",\\"merCode\\":\\"9001003475\\",\\"orderNo\\":\\"180322000449TW001375000001140764\\",\\"orderAmount\\":\\"100\\",\\"payDate\\":\\"20180808171717\\",\\"payCompletionDate\\":\\"20180808171904\\",\\"sign\\":\\"8b537e6c09b5f8f2b75803dcc49d6919\\"}"'
+
+执行日期：2018-08-08-17:21:08
+支付通知验证-sign:
+8da5eeba98520d896ca97da8a663024f
+
+执行日期：2018-08-08-17:21:08
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-08-17:22:13
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171957","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"4ccb2135a301ec87c9f7616a4a777f8c"}'
+
+执行日期：2018-08-08-17:23:12
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808171957","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"4ccb2135a301ec87c9f7616a4a777f8c"}'
+
+执行日期：2018-08-08-17:23:48
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:23:57
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:23:59
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:25:40
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:25:40
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:25:48
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:25:48
+支付通知验证-参数msg:
+array (
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808172059',
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140764',
+  'orderAmount' => '100',
+  'payDate' => '20180808171717',
+  'payCompletionDate' => '20180808171904',
+  'sign' => '',
+)
+
+执行日期：2018-08-08-17:25:48
+支付通知验证-sign:
+82e92e93976002c16ea5f37ebb1c4e69
+
+执行日期：2018-08-08-17:25:48
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-08-17:26:00
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:26:00
+支付通知验证-参数msg:
+array (
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808172059',
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140764',
+  'orderAmount' => '100',
+  'payDate' => '20180808171717',
+  'payCompletionDate' => '20180808171904',
+  'sign' => '',
+)
+
+执行日期：2018-08-08-17:26:00
+支付通知验证-sign:
+82e92e93976002c16ea5f37ebb1c4e69
+
+执行日期：2018-08-08-17:26:00
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-08-17:26:39
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:27:21
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:29:12
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808172059","merCode":"9001003475","orderNo":"180322000449TW001375000001140764","orderAmount":"100","payDate":"20180808171717","payCompletionDate":"20180808171904","sign":"8b537e6c09b5f8f2b75803dcc49d6919"}'
+
+执行日期：2018-08-08-17:36:51
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:36:51
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:36:51
+array (
+  'orderNo' => '180322000449TW001375000001140659',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:36:52
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140659',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170852',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '0c9c4e940c9fbc923b11848a2e45f311',
+)
+
+执行日期：2018-08-08-17:39:50
+leanwork签名认证:成功
+
+执行日期：2018-08-08-17:39:50
+leanwork传进来的参数
+
+执行日期：2018-08-08-17:39:50
+array (
+  'orderNo' => '180322000449TW001375000001140526',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-08-17:39:51
+请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140526',
+  'orderAmount' => 100,
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808/notify.php',
+  'dateTime' => '20180808170851',
+  'payType' => '26',
+  'bankCardType' => '1',
+  'bankCode' => 'ABC',
+  'sign' => '4a70e4220973fc92c28a2b0df3d3389d',
+)
+
+执行日期：2018-08-08-17:41:04
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174055","merCode":"9001003475","orderNo":"180322000449TW001375000001140659","orderAmount":"100","payDate":"20180808173650","payCompletionDate":"20180808173804","sign":"eab146a93ba44b715e09eb6668fc8be9"}'
+
+执行日期：2018-08-08-17:41:04
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174055","merCode":"9001003475","orderNo":"180322000449TW001375000001140659","orderAmount":"100","payDate":"20180808173650","payCompletionDate":"20180808173804","sign":"eab146a93ba44b715e09eb6668fc8be9"}'
+
+执行日期：2018-08-08-17:41:04
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '100',
+  'orderNo' => '180322000449TW001375000001140659',
+  'payCompletionDate' => '20180808173804',
+  'payDate' => '20180808173650',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808174055',
+)
+
+执行日期：2018-08-08-17:41:04
+支付通知验证-sign:
+eab146a93ba44b715e09eb6668fc8be9
+
+执行日期：2018-08-08-17:41:04
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-08-17:42:07
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174158","merCode":"9001003475","orderNo":"180322000449TW001375000001140659","orderAmount":"100","payDate":"20180808173650","payCompletionDate":"20180808173804","sign":"d17e71be13a2caa5279dfee5901f29ff"}'
+
+执行日期：2018-08-08-17:42:07
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174158","merCode":"9001003475","orderNo":"180322000449TW001375000001140659","orderAmount":"100","payDate":"20180808173650","payCompletionDate":"20180808173804","sign":"d17e71be13a2caa5279dfee5901f29ff"}'
+
+执行日期：2018-08-08-17:42:07
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '100',
+  'orderNo' => '180322000449TW001375000001140659',
+  'payCompletionDate' => '20180808173804',
+  'payDate' => '20180808173650',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808174158',
+)
+
+执行日期：2018-08-08-17:42:07
+支付通知验证-sign:
+d17e71be13a2caa5279dfee5901f29ff
+
+执行日期：2018-08-08-17:42:07
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-08-17:42:39
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174236","merCode":"9001003475","orderNo":"180322000449TW001375000001140526","orderAmount":"100","payDate":"20180808173948","payCompletionDate":"20180808174239","sign":"b8d76c52029913ca2425981d3725f7d9"}'
+
+执行日期：2018-08-08-17:42:39
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174236","merCode":"9001003475","orderNo":"180322000449TW001375000001140526","orderAmount":"100","payDate":"20180808173948","payCompletionDate":"20180808174239","sign":"b8d76c52029913ca2425981d3725f7d9"}'
+
+执行日期：2018-08-08-17:42:39
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '100',
+  'orderNo' => '180322000449TW001375000001140526',
+  'payCompletionDate' => '20180808174239',
+  'payDate' => '20180808173948',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808174236',
+)
+
+执行日期：2018-08-08-17:42:39
+支付通知验证-sign:
+b8d76c52029913ca2425981d3725f7d9
+
+执行日期：2018-08-08-17:42:39
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-08-17:42:39
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-08-17:42:39
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140526',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140526',
+  'status' => 'success',
+  'sign' => '8b67a66d0ef9cb71dc3d23cc19841c82',
+)
+
+执行日期：2018-08-08-17:42:39
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-08-17:42:41
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140526',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140526',
+  'status' => 'success',
+  'sign' => '8b67a66d0ef9cb71dc3d23cc19841c82',
+)
+
+执行日期：2018-08-08-17:42:41
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-08-17:43:12
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174303","merCode":"9001003475","orderNo":"180322000449TW001375000001140526","orderAmount":"100","payDate":"20180808173948","payCompletionDate":"20180808174239","sign":"31098a38f85c322672b0ff32bd255fa6"}'
+
+执行日期：2018-08-08-17:43:12
+支付通知验证-参数:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180808174303","merCode":"9001003475","orderNo":"180322000449TW001375000001140526","orderAmount":"100","payDate":"20180808173948","payCompletionDate":"20180808174239","sign":"31098a38f85c322672b0ff32bd255fa6"}'
+
+执行日期：2018-08-08-17:43:12
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '100',
+  'orderNo' => '180322000449TW001375000001140526',
+  'payCompletionDate' => '20180808174239',
+  'payDate' => '20180808173948',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180808174303',
+)
+
+执行日期：2018-08-08-17:43:12
+支付通知验证-sign:
+31098a38f85c322672b0ff32bd255fa6
+
+执行日期：2018-08-08-17:43:12
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-08-17:43:12
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-08-17:43:12
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140526',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140526',
+  'status' => 'success',
+  'sign' => '8b67a66d0ef9cb71dc3d23cc19841c82',
+)
+
+执行日期：2018-08-08-17:43:12
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-08-17:43:14
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140526',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140526',
+  'status' => 'success',
+  'sign' => '8b67a66d0ef9cb71dc3d23cc19841c82',
+)
+
+执行日期：2018-08-08-17:43:14
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+

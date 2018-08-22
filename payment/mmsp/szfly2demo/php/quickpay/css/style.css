@@ -1,0 +1,123 @@
+﻿/* css document */
+
+/* body */
+body {
+	font-size:14px;
+
+	color:#333;
+}
+
+input[type='text'] {
+	border:1px solid #c0c0c0; padding:5px;
+}
+input[type='submit']{
+	padding:5px 10px; font-size:14px;
+}
+.radio {
+	border-width:0px;
+}
+
+/* a */
+a {
+	text-decoration:none;
+}
+a:link,a:visited,a:active{
+	margin:auto;
+	color:#1a88d5;
+}
+
+a:hover {
+	margin:auto;
+	color:#333;
+	text-decoration:underline;
+}
+
+
+#conditions {
+	margin-bottom:35px;
+}
+
+#list {
+	border-top:1px solid green;
+	height:450px;
+	width:800px;
+	overflow:scroll;
+}
+
+#list li {
+	float:left;
+	width:120px;
+	margin-left:5px;
+}
+
+ul.title {
+	width:783px;
+	clear:both;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:0px;
+	border-left:1px solid green;
+	background-color:background;
+	color:#ffffff;
+	text-align:center;
+}
+
+ul.title li {
+	float:left;
+	width:120px;
+	margin-left:5px;
+}
+
+ul.body1 {
+	width:783px;
+	clear:both;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	border-left:1px solid green;
+	background-color:#ffffff;
+	color:background;
+	text-align:center;
+}
+
+ul.body2 {
+	width:783px;
+	clear:both;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	border-left:1px solid green;
+	background-color:#c0c0c0;
+	color:background;
+	text-align:center;
+}
+
+ul.selected {
+	width:783px;
+	clear:both;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	border-left:1px solid green;
+	background-color:pink;
+	color:background;
+	text-align:center;
+}
+
+
+#conditions div {
+	margin-bottom:5px;
+}
+div.title {
+	font-size:18px;
+}
+.tips{ color:#666; font-size:12px; padding-left:10px}
+.red{ color:red}

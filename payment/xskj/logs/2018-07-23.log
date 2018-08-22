@@ -1,0 +1,146 @@
+执行日期：2018-07-23-20:58:32
+leanwork签名认证:成功
+
+执行日期：2018-07-23-20:58:32
+leanwork传进来的参数
+
+执行日期：2018-07-23-20:58:32
+array (
+  'receiveUrl' => 'http://localhost/pay/',
+  'orderNo' => '201807232058322717',
+  'notifyUrl' => 'http://zh.cynjs.com/zhifupay/18723/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'tradeAmt' => '1.00',
+)
+
+执行日期：2018-07-23-20:58:35
+未签名前的请求数据:
+array (
+  'apiName' => 'WWW_PAY',
+  'apiVersion' => 'V.1.0.0',
+  'platformID' => '20100607',
+  'merchNo' => '2714976414@qq.com',
+  'notifyUrl' => 'http://zh.cynjs.com/zhifupay/18723/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'orderNo' => '201807232058322717',
+  'tradeDate' => '20180723',
+  'tradeAmt' => '1.00',
+  'merchParam' => 'abcd',
+  'tradeSummary' => 'text',
+  'payType' => 'WANGYIN2',
+  'bankCode' => 'ABC',
+)
+
+执行日期：2018-07-23-20:58:35
+生成签名请求参数:
+1561f4e788af48e077c4b8e5ef4746ce
+
+执行日期：2018-07-23-20:58:35
+请求数据:
+array (
+  'apiName' => 'WWW_PAY',
+  'apiVersion' => 'V.1.0.0',
+  'platformID' => '20100607',
+  'merchNo' => '2714976414@qq.com',
+  'notifyUrl' => 'http://zh.cynjs.com/zhifupay/18723/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'orderNo' => '201807232058322717',
+  'tradeDate' => '20180723',
+  'tradeAmt' => '1.00',
+  'merchParam' => 'abcd',
+  'tradeSummary' => 'text',
+  'payType' => 'WANGYIN2',
+  'bankCode' => 'ABC',
+  'signMsg' => '1561f4e788af48e077c4b8e5ef4746ce',
+)
+
+执行日期：2018-07-23-21:00:53
+支付通知验证-参数:
+array (
+  'apiName' => 'WWW_PAY',
+  'notifyTime' => '1532350856',
+  'merchNo' => '2714976414@qq.com',
+  'merchParam' => 'abcd',
+  'orderNo' => '201807232058322717',
+  'tradeDate' => '1532350719',
+  'tradeAmt' => '1',
+  'accNo' => 'O1532350719Z273',
+  'orderStatus' => '1',
+  'signMsg' => '744118c278eccbaf89afd02753cf8662',
+)
+
+执行日期：2018-07-23-21:00:53
+支付通知验证-参数res:
+array (
+  'apiName' => 'WWW_PAY',
+  'notifyTime' => '1532350856',
+  'merchNo' => '2714976414@qq.com',
+  'merchParam' => 'abcd',
+  'orderNo' => '201807232058322717',
+  'tradeDate' => '1532350719',
+  'tradeAmt' => '1',
+  'accNo' => 'O1532350719Z273',
+  'orderStatus' => '1',
+)
+
+执行日期：2018-07-23-21:00:53
+支付通知验证-ZIFUCHUAN:
+apiName=WWW_PAY&tradeAmt=1&merchNo=2714976414@qq.com&orderNo=201807232058322717&tradeDate=1532350719&accNo=O1532350719Z273&orderStatus=18838c3d459f85e976f1b765cfa2e9280
+
+执行日期：2018-07-23-21:00:53
+支付通知验证-sign:
+744118c278eccbaf89afd02753cf8662
+
+执行日期：2018-07-23-21:00:53
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-23-21:00:53
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-23-21:00:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140268',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'O1532350719Z273',
+  'status' => 'success',
+  'sign' => 'fee3ffcc6862c30a6a1c94fdc33357d5',
+)
+
+执行日期：2018-07-23-21:00:53
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-23-21:00:55
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140268',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'O1532350719Z273',
+  'status' => 'success',
+  'sign' => 'fee3ffcc6862c30a6a1c94fdc33357d5',
+)
+
+执行日期：2018-07-23-21:00:55
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

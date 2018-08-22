@@ -1,0 +1,189 @@
+执行日期：2018-06-19-19:26:48
+leanwork传进来的参数
+
+执行日期：2018-06-19-19:26:48
+array (
+  'orderNo' => '180322000449TW001375000001140617',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-06-19-19:26:51
+表单提交地址：http://pay.fukejii.cn/online/gateway?version=3.0&method=Gt.online.interface&partner=1006&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140617&callbackurl=http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php&hrefbackurl=http://localhost/pay/success&attach=180322000449TW001375000001140617&sign=99154952c7d9ae94f30ca35780d1446c
+
+执行日期：2018-06-19-19:26:51
+表单提交
+
+执行日期：2018-06-19-19:26:51
+array (
+  'version' => '3.0',
+  'method' => 'Gt.online.interface',
+  'partner' => '1006',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140617',
+  'callbackurl' => 'http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'attach' => '180322000449TW001375000001140617',
+  'sign' => '99154952c7d9ae94f30ca35780d1446c',
+)
+
+执行日期：2018-06-19-19:26:59
+leanwork传进来的参数
+
+执行日期：2018-06-19-19:26:59
+array (
+  'orderNo' => '180322000449TW001375000001140164',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-06-19-19:27:01
+表单提交地址：http://pay.fukejii.cn/online/gateway?version=3.0&method=Gt.online.interface&partner=1006&banktype=ABC&paymoney=1.01&ordernumber=180322000449TW001375000001140164&callbackurl=http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php&hrefbackurl=http://localhost/pay/success&attach=180322000449TW001375000001140164&sign=57ebe2ad60ad1dfbb3974f8db827a662
+
+执行日期：2018-06-19-19:27:01
+表单提交
+
+执行日期：2018-06-19-19:27:01
+array (
+  'version' => '3.0',
+  'method' => 'Gt.online.interface',
+  'partner' => '1006',
+  'banktype' => 'ABC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140164',
+  'callbackurl' => 'http://u172g87458.51mypc.cn/gitee/payment/chinaxinpay/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'attach' => '180322000449TW001375000001140164',
+  'sign' => '57ebe2ad60ad1dfbb3974f8db827a662',
+)
+
+执行日期：2018-06-19-19:27:55
+支付通知验证-参数:
+array (
+  'attach' => '180322000449TW001375000001140164',
+  'ordernumber' => '180322000449TW001375000001140164',
+  'orderstatus' => '1',
+  'partner' => '1006',
+  'paymoney' => '1.01',
+  'sign' => '2618da9047ff3069d18c0a6ef76c2780',
+  'sysnumber' => '15294076681529407668',
+)
+
+执行日期：2018-06-19-19:27:55
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-19-19:27:55
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-19-19:27:55
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140164',
+  'orderAmount' => '1.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140164',
+  'status' => 'success',
+  'sign' => '53f8679ff8d905e6396d06030e07fe14',
+)
+
+执行日期：2018-06-19-19:27:55
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-19:27:57
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140164',
+  'orderAmount' => '1.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140164',
+  'status' => 'success',
+  'sign' => '53f8679ff8d905e6396d06030e07fe14',
+)
+
+执行日期：2018-06-19-19:27:57
+通知leanwork-结果:
+'<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.11.5</center>
+</body>
+</html>
+'
+
+执行日期：2018-06-19-19:48:54
+leanwork传进来的参数
+
+执行日期：2018-06-19-19:48:54
+array (
+  'orderNo' => '180322000449TW001375000001140488',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/payment/chinaxinpay/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-06-19-19:49:00
+表单提交地址：http://pay.fukejii.cn/online/gateway?version=3.0&method=Gt.online.interface&partner=1006&banktype=CCB&paymoney=1.01&ordernumber=180322000449TW001375000001140488&callbackurl=http://localhost/payment/chinaxinpay/notify.php&hrefbackurl=http://localhost/pay/success&attach=180322000449TW001375000001140488&sign=85c1034fd0fafe9f28bdc36354e7a80f
+
+执行日期：2018-06-19-19:49:00
+表单提交
+
+执行日期：2018-06-19-19:49:00
+array (
+  'version' => '3.0',
+  'method' => 'Gt.online.interface',
+  'partner' => '1006',
+  'banktype' => 'CCB',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140488',
+  'callbackurl' => 'http://localhost/payment/chinaxinpay/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'attach' => '180322000449TW001375000001140488',
+  'sign' => '85c1034fd0fafe9f28bdc36354e7a80f',
+)
+
+执行日期：2018-06-19-19:51:07
+leanwork传进来的参数
+
+执行日期：2018-06-19-19:51:07
+array (
+  'orderNo' => '180322000449TW001375000001140412',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/payment/chinaxinpay/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-06-19-19:51:09
+表单提交地址：http://pay.fukejii.cn/online/gateway?version=3.0&method=Gt.online.interface&partner=1006&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140412&callbackurl=http://localhost/payment/chinaxinpay/notify.php&hrefbackurl=http://localhost/pay/success&attach=180322000449TW001375000001140412&sign=fecf558a9316cd337c582d16f256b71f
+
+执行日期：2018-06-19-19:51:09
+表单提交
+
+执行日期：2018-06-19-19:51:09
+array (
+  'version' => '3.0',
+  'method' => 'Gt.online.interface',
+  'partner' => '1006',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140412',
+  'callbackurl' => 'http://localhost/payment/chinaxinpay/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'attach' => '180322000449TW001375000001140412',
+  'sign' => 'fecf558a9316cd337c582d16f256b71f',
+)
+

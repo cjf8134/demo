@@ -1,0 +1,122 @@
+<?php
+
+	/* *
+	 *功能：易付宝PC下单支付接口调试入口页面
+	 *版本：1.0
+	 *日期：2015-07-13
+	 *说明：
+	 *以下代码只是为了方便商户测试而提供的样例代码，商户可以根据自己网站的需要，按照技术文档编写,并非一定要使用该代码。
+	 *界面暂时列出了参数中的一部分，商户可以根据业务来添加需要界面输入的内容，其他固定参数可以在后台拼接。
+	 */
+
+?>
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; pageEncoding=UTF-8; charset=UTF-8">
+<title>易付宝PC端下单支付接口快速通道</title>
+<link type="text/css" rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+<script>
+function pay()
+{
+	if(checkAmount() == false)
+	{
+		alert('付款金额请输入数字！');
+		return false;
+	}
+	if(!checkNum())
+	{
+		alert('商品数量请输入数字！');
+		return false;
+	}
+	document.forms[0].submit();
+}
+
+function checkAmount()
+{
+	var amount = document.forms[0].WIDtotal_fee.value;
+	if(!isNaN(amount))
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+function checkNum()
+{
+	var num = document.forms[0].WIDsubject_num.value;
+	if(!isNaN(num))
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+</script>
+
+<div class="step">
+    <span class="pass">1、确认信息→</span>
+    <span class="pass">2、点击去支付→</span>
+    <span>3、支付完成</span>
+</div>
+<div class="cont">
+
+    <div class="main">
+    <form name=payForm action=PCPayApi.php method=post target="_blank">
+        <table class="table-data" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <th>商户订单号：</th>
+                <td><input class="ui-input" type="text" name="WIDout_trade_no" value=""/>
+                    商户网站订单系统中唯一订单号，必填</td>
+            </tr>
+            <tr>
+                <th>商品名称：</th>
+                <td><input class="ui-input" type="text" name="WIDsubject" value="Tenda 路由器"/>
+                    必填</td>
+            </tr>
+            <tr>
+                <th>商品数量：</th>
+                <td><input class="ui-input" type="text" name="WIDsubject_num" value="1"/>
+                    必填</td>
+            </tr>
+            <tr>
+                <th>付款金额：</th>
+                <td><input class="ui-input" type="text" name="WIDtotal_fee" value="1.00"/>
+                    必填(RMB元)</td>
+            </tr>
+            <tr>
+                <th>订单描述：</th>
+                <td><textarea name="WIDbody" id="textarea" cols="45" rows="5">自中国走向世界的领先的网络通信产品供应商
+                </textarea></td>
+            </tr>
+            <tr>
+                <th>页面跳转同步通知页面路径：</th>
+                <td><input class="ui-input" type="text" name="returnUrl" value="http://localhost/payphp/payReturn.php"/>
+                    </td>
+            </tr>
+            <tr>
+                <th>&nbsp;</th>
+                <td>
+                <button class="btn-blue" type="button" style="text-align:center;" onclick="pay();">去 支 付</button>
+                <!-- <a class="btn-blue" href="javascript:;">去支付</a> -->
+                </td>
+            </tr>
+        </table>
+        </form>
+    </div>
+</div>
+
+<div class="foot">
+    <div class="foot-bd">
+        Copyright &copy; 2002-2015 All Rights Reserved. 苏宁版权所有
+    </div>
+</div>
+</body>
+</html>

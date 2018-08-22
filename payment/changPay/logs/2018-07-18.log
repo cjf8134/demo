@@ -1,0 +1,221 @@
+执行日期：2018-07-18-15:00:03
+leanwork签名认证:成功
+
+执行日期：2018-07-18-15:00:03
+请求数据:
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140777',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changpay/notify.php',
+  'attach' => '180322000449TW001375000001140777',
+)
+
+执行日期：2018-07-18-15:00:03
+签名拼接字符串:
+partner=39011&banktype=wypay&paymoney=1.00&ordernumber=180322000449TW001375000001140777&callbackurl=http://zh.cynjs.com/zhifupay/changpay/notify.php0cce11cc32f1d9f10bcd1e42e39e506f
+
+执行日期：2018-07-18-15:00:03
+请求数据(加密后):
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140777',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changpay/notify.php',
+  'attach' => '180322000449TW001375000001140777',
+  'sign' => 'ec4f1294d9935c9d6c985b6e2fe09938',
+)
+
+执行日期：2018-07-18-15:00:03
+请求数据(完整url):
+http://api.hskany.com/PayBank.aspx?partner=39011&banktype=wypay&paymoney=1.00&ordernumber=180322000449TW001375000001140777&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/changpay/notify.php&attach=180322000449TW001375000001140777&sign=ec4f1294d9935c9d6c985b6e2fe09938
+
+执行日期：2018-07-18-15:01:03
+leanwork签名认证:成功
+
+执行日期：2018-07-18-15:01:03
+请求数据:
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '0.01',
+  'ordernumber' => '180322000449TW001375000001140337',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changpay/notify.php',
+  'attach' => '180322000449TW001375000001140337',
+)
+
+执行日期：2018-07-18-15:01:03
+签名拼接字符串:
+partner=39011&banktype=wypay&paymoney=0.01&ordernumber=180322000449TW001375000001140337&callbackurl=http://zh.cynjs.com/zhifupay/changpay/notify.php0cce11cc32f1d9f10bcd1e42e39e506f
+
+执行日期：2018-07-18-15:01:03
+请求数据(加密后):
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '0.01',
+  'ordernumber' => '180322000449TW001375000001140337',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changpay/notify.php',
+  'attach' => '180322000449TW001375000001140337',
+  'sign' => '0ff181078dab7e2556f7366f712a8f58',
+)
+
+执行日期：2018-07-18-15:01:03
+请求数据(完整url):
+http://api.hskany.com/PayBank.aspx?partner=39011&banktype=wypay&paymoney=0.01&ordernumber=180322000449TW001375000001140337&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/changpay/notify.php&attach=180322000449TW001375000001140337&sign=0ff181078dab7e2556f7366f712a8f58
+
+执行日期：2018-07-18-15:02:30
+leanwork签名认证:成功
+
+执行日期：2018-07-18-15:02:30
+请求数据:
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '0.01',
+  'ordernumber' => '180322000449TW001375000001140593',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changPay/notify.php',
+  'attach' => '180322000449TW001375000001140593',
+)
+
+执行日期：2018-07-18-15:02:30
+签名拼接字符串:
+partner=39011&banktype=wypay&paymoney=0.01&ordernumber=180322000449TW001375000001140593&callbackurl=http://zh.cynjs.com/zhifupay/changPay/notify.php0cce11cc32f1d9f10bcd1e42e39e506f
+
+执行日期：2018-07-18-15:02:30
+请求数据(加密后):
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '0.01',
+  'ordernumber' => '180322000449TW001375000001140593',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changPay/notify.php',
+  'attach' => '180322000449TW001375000001140593',
+  'sign' => '6818f23a8f76a61da04d4768f9dd2092',
+)
+
+执行日期：2018-07-18-15:02:30
+请求数据(完整url):
+http://api.hskany.com/PayBank.aspx?partner=39011&banktype=wypay&paymoney=0.01&ordernumber=180322000449TW001375000001140593&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/changPay/notify.php&attach=180322000449TW001375000001140593&sign=6818f23a8f76a61da04d4768f9dd2092
+
+执行日期：2018-07-18-15:06:23
+leanwork签名认证:成功
+
+执行日期：2018-07-18-15:06:23
+请求数据:
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140284',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changPay/notify.php',
+  'attach' => '180322000449TW001375000001140284',
+)
+
+执行日期：2018-07-18-15:06:23
+签名拼接字符串:
+partner=39011&banktype=wypay&paymoney=1.00&ordernumber=180322000449TW001375000001140284&callbackurl=http://zh.cynjs.com/zhifupay/changPay/notify.php0cce11cc32f1d9f10bcd1e42e39e506f
+
+执行日期：2018-07-18-15:06:23
+请求数据(加密后):
+array (
+  'partner' => '39011',
+  'banktype' => 'wypay',
+  'paymoney' => '1.00',
+  'ordernumber' => '180322000449TW001375000001140284',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'callbackurl' => 'http://zh.cynjs.com/zhifupay/changPay/notify.php',
+  'attach' => '180322000449TW001375000001140284',
+  'sign' => '954336154a29488ecdd69ecb563b6b00',
+)
+
+执行日期：2018-07-18-15:06:23
+请求数据(完整url):
+http://api.hskany.com/PayBank.aspx?partner=39011&banktype=wypay&paymoney=1.00&ordernumber=180322000449TW001375000001140284&hrefbackurl=http://localhost/pay/success&callbackurl=http://zh.cynjs.com/zhifupay/changPay/notify.php&attach=180322000449TW001375000001140284&sign=954336154a29488ecdd69ecb563b6b00
+
+执行日期：2018-07-18-15:08:29
+支付通知验证-参数:
+array (
+  'partner' => '39011',
+  'ordernumber' => '180322000449TW001375000001140284',
+  'orderstatus' => '1',
+  'paymoney' => '1.00',
+  'sysnumber' => 'CZF3901118071815061177',
+  'attach' => '180322000449TW001375000001140284',
+  'sign' => '133640af9ea2ab2c2e05b488d44b442f',
+)
+
+执行日期：2018-07-18-15:08:29
+支付通知验证-返回的签名:
+133640af9ea2ab2c2e05b488d44b442f
+
+执行日期：2018-07-18-15:08:29
+支付通知验证-返回的参数做签名的字符串:
+partner=39011&ordernumber=180322000449TW001375000001140284&orderstatus=1&paymoney=1.000cce11cc32f1d9f10bcd1e42e39e506f
+
+执行日期：2018-07-18-15:08:29
+支付通知验证-生成的签名:
+133640af9ea2ab2c2e05b488d44b442f
+
+执行日期：2018-07-18-15:08:29
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-18-15:08:29
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-18-15:08:29
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140284',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'CZF3901118071815061177',
+  'status' => 'success',
+  'sign' => '66e8f3388540fa436dbfaf4fc65f3ec9',
+)
+
+执行日期：2018-07-18-15:08:29
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-18-15:08:31
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140284',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 'CZF3901118071815061177',
+  'status' => 'success',
+  'sign' => '66e8f3388540fa436dbfaf4fc65f3ec9',
+)
+
+执行日期：2018-07-18-15:08:31
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

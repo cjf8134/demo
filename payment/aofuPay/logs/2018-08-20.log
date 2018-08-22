@@ -1,0 +1,80 @@
+执行日期：2018-08-20-16:50:03
+leanwork签名认证:成功
+
+执行日期：2018-08-20-16:50:03
+leanwork传进来的参数
+
+执行日期：2018-08-20-16:50:03
+array (
+  'orderNo' => '180322000449TW001375000001140323',
+  'returnUrl' => 'http://localhost/pay/success',
+  'notifyUrl' => 'http://www.demo.cn/payment/aofuPay/notify.php',
+  'transAmt' => '1',
+)
+
+执行日期：2018-08-20-16:50:09
+请求表单初始化:
+array (
+  'version' => '1.0.0',
+  'transType' => 'SALES',
+  'productId' => '0001',
+  'merNo' => '850440058115341',
+  'orderDate' => '20180820',
+  'orderNo' => '180322000449TW001375000001140323',
+  'returnUrl' => 'http://localhost/pay/success',
+  'notifyUrl' => 'http://www.demo.cn/payment/aofuPay/notify.php',
+  'transAmt' => 100,
+  'commodityName' => 'test',
+  'commodityDetail' => 'test',
+  'bankCode' => 'PSBC',
+)
+
+执行日期：2018-08-20-16:50:09
+请求表单初始化:
+array (
+  'bankCode' => 'PSBC',
+  'commodityDetail' => 'test',
+  'commodityName' => 'test',
+  'merNo' => '850440058115341',
+  'notifyUrl' => 'http://www.demo.cn/payment/aofuPay/notify.php',
+  'orderDate' => '20180820',
+  'orderNo' => '180322000449TW001375000001140323',
+  'productId' => '0001',
+  'returnUrl' => 'http://localhost/pay/success',
+  'transAmt' => 100,
+  'transType' => 'SALES',
+  'version' => '1.0.0',
+)
+
+执行日期：2018-08-20-16:50:09
+请求表单sign参数:
+array (
+  'bankCode' => 'PSBC',
+  'commodityDetail' => 'test',
+  'commodityName' => 'test',
+  'merNo' => '850440058115341',
+  'notifyUrl' => 'http://www.demo.cn/payment/aofuPay/notify.php',
+  'orderDate' => '20180820',
+  'orderNo' => '180322000449TW001375000001140323',
+  'productId' => '0001',
+  'returnUrl' => 'http://localhost/pay/success',
+  'transAmt' => 100,
+  'transType' => 'SALES',
+  'version' => '1.0.0',
+  'signature' => 'ehXMyiPbVvnHbKb2SckA3NPcmtjBbnpEfIzm7gdQt4H5ee6U4+kVLAWdhTBybhKhWrXP8C/Cg1Ew9BB/SI5lekHD6WPvlZwt+uPMqBKOjC5ZzD+awHViylV6APoqe++08W3u0tzTFg7TCojYZjjP4yiHVS2Kn43/2xXgIadVwtjE0UHmyByWBgEX4/VKiIi8aoomsDJwqn4RYcbY512WMJyS3+txIbmiX4lDasHDBanABCLVo+V2t6x6CyE5pq4Uah7yhAGJvFumLcesbmacsdSpvSqwEqJ+XbnzbOUXdAjX220MqR2R/0ZRZgPH5QMdiwo2f7SQ9+QxbvqOLrwMVw==',
+)
+
+执行日期：2018-08-20-17:01:30
+leanwork签名认证:成功
+
+执行日期：2018-08-20-17:01:30
+leanwork传进来的参数
+
+执行日期：2018-08-20-17:01:30
+array (
+  'orderNo' => '180322000449TW001375000001140269',
+  'returnUrl' => 'http://localhost/pay/success',
+  'notifyUrl' => 'http://www.demo.cn/payment/aofuPay/notify.php',
+  'transAmt' => '1',
+)
+

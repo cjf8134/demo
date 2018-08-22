@@ -1,0 +1,7 @@
+$shop_id         = '45604';
+$key             = '7744a1b5a6897c632e64082c36427017';
+$trading_account = tll45604
+登录账号：tll45604
+登录密码：q123456
+登录地址：[图片]https://user.palmcloudpay.com/Home/Login/index.html
+api提交地址：https://pay.palmcloudpay.com/home/pay/pay

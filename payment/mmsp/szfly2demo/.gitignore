@@ -1,0 +1,7 @@
+/target/
+/.settings
+/.classpath
+/.project
+/guns.log
+logs/*
+src/main/resources/application-*.properties

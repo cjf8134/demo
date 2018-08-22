@@ -1,0 +1,6 @@
+
+网关地址：http://pay.redmoble.com/Pay/
+
+商户ID：2018103
+
+支付密钥qEwcDaTUmzbYvhxLCDXuQQsoHxUrmYXf

@@ -1,0 +1,264 @@
+执行日期：2018-07-19-10:22:59
+leanwork签名认证:成功
+
+执行日期：2018-07-19-10:22:59
+leanwork传进来的参数
+
+执行日期：2018-07-19-10:22:59
+array (
+  'MERORDERID' => '201807191022598703',
+  'JUMP_URL' => 'http://localhost/pay/success',
+  'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+  'AMT' => '100',
+  'GOODSNAME' => 'text',
+  'REMARK' => '201807191022598703',
+)
+
+执行日期：2018-07-19-10:23:37
+leanwork签名认证:成功
+
+执行日期：2018-07-19-10:23:37
+leanwork传进来的参数
+
+执行日期：2018-07-19-10:23:37
+array (
+  'MERORDERID' => '201807191023372028',
+  'JUMP_URL' => 'http://localhost/pay/success',
+  'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+  'AMT' => '100',
+  'GOODSNAME' => 'text',
+  'REMARK' => '201807191023372028',
+)
+
+执行日期：2018-07-19-10:23:38
+header头部数据:
+
+执行日期：2018-07-19-10:23:38
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+)
+
+执行日期：2018-07-19-10:23:38
+body+header数据:
+
+执行日期：2018-07-19-10:23:38
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191023372028',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191023372028',
+  ),
+)
+
+执行日期：2018-07-19-10:23:38
+body数据获取签名:
+
+执行日期：2018-07-19-10:23:38
+1AB60E72A880C1B308770459D89D4CC6
+
+执行日期：2018-07-19-10:23:38
+请求数据:
+
+执行日期：2018-07-19-10:23:38
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191023372028',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191023372028',
+  ),
+  'Sign' => '1AB60E72A880C1B308770459D89D4CC6',
+)
+
+执行日期：2018-07-19-10:24:09
+header头部数据:
+
+执行日期：2018-07-19-10:24:09
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+)
+
+执行日期：2018-07-19-10:24:09
+body+header数据:
+
+执行日期：2018-07-19-10:24:09
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191023372028',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191023372028',
+  ),
+)
+
+执行日期：2018-07-19-10:24:09
+body数据获取签名:
+
+执行日期：2018-07-19-10:24:09
+1AB60E72A880C1B308770459D89D4CC6
+
+执行日期：2018-07-19-10:24:09
+请求数据:
+
+执行日期：2018-07-19-10:24:09
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191023372028',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191023372028',
+  ),
+  'Sign' => '1AB60E72A880C1B308770459D89D4CC6',
+)
+
+执行日期：2018-07-19-10:24:33
+leanwork签名认证:成功
+
+执行日期：2018-07-19-10:24:33
+leanwork传进来的参数
+
+执行日期：2018-07-19-10:24:33
+array (
+  'MERORDERID' => '201807191024336405',
+  'JUMP_URL' => 'http://localhost/pay/success',
+  'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+  'AMT' => '100',
+  'GOODSNAME' => 'text',
+  'REMARK' => '201807191024336405',
+)
+
+执行日期：2018-07-19-10:24:35
+header头部数据:
+
+执行日期：2018-07-19-10:24:35
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+)
+
+执行日期：2018-07-19-10:24:35
+body+header数据:
+
+执行日期：2018-07-19-10:24:35
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191024336405',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191024336405',
+  ),
+)
+
+执行日期：2018-07-19-10:24:35
+body数据获取签名:
+
+执行日期：2018-07-19-10:24:35
+C56BE57FF77040FCB03C131D7805B78C
+
+执行日期：2018-07-19-10:24:35
+请求数据:
+
+执行日期：2018-07-19-10:24:35
+array (
+  'CommandID' => 2322,
+  'SeqID' => '1',
+  'NodeType' => '3',
+  'NodeID' => 'openapi',
+  'Version' => '1.0.0',
+  'AGENTNO' => '',
+  'MERNO' => '017100059696981',
+  'TERMNO' => '23380001',
+  'body' => 
+  array (
+    'MERORDERID' => '201807191024336405',
+    'AMT' => '100',
+    'GOODSNAME' => 'text',
+    'NOTIFY_URL' => 'http://www.demo.cn/szflypay/notify.php',
+    'JUMP_URL' => 'http://localhost/pay/success',
+    'PAY_CHANNEL' => 'ABC-NET-B2C',
+    'REMARK' => '201807191024336405',
+  ),
+  'Sign' => 'C56BE57FF77040FCB03C131D7805B78C',
+)
+

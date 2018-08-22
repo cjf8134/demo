@@ -1,0 +1,127 @@
+body{font-size:14px; font-family:"Microsoft YaHei" SimSun Arial; margin:0; padding:0; position:relative;}
+html,body,div,span,h1,h2,h3,h4,p,a,img,ul,li,form,table,tbody,tr,th,td,b,i{border:0; list-style:none; margin:0; padding:0;}
+input,select,textarea{font-size:15px; padding:0; margin:0; outline:none; width:300px;}
+a,img{border:none;}
+a{text-decoration:none; color:#636363;}
+img{vertical-align:middle;}
+table{border-collapse:collapse; border-spacing:0;}
+td{word-break:break-all; word-wrap:break-word;}
+h1,h2,h3,h4{font-weight:400;}
+
+/*float*/
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
+.clearfix{display:block;}
+.fl{float:left;}
+.fr{float:right;}
+
+html{height:100%;}
+body{background:#f4f4f5; color:#4e5258; width:100%; position:relative; min-height:100%; -webkit-text-size-adjust:100%;-moz-text-size-adjust:100%; -ms-text-size-adjust:100%; text-size-adjust:100%;}
+
+.box{padding-bottom:80px;}
+
+.shopInfo{background:#e8e9eb; position:relative; padding:15px 0 10px; border-bottom:1px solid #dadce1; text-align:center;}
+.money{font-size:38px; color:#f26758;}
+.icon{position:absolute; right:15px; bottom:5px; background:url(../images/new/icon.png) no-repeat; background-size:20px 40px; display:block; width:20px; height:20px;}
+.active{background-position:0 -20px;}
+.shopInfo_tc{display:none; border-bottom:1px solid #dadce1; background:#e8e9eb; padding:10px;}
+.shopInfo_tc li{overflow:hidden; line-height:24px;}
+.shopInfo_tc li span{float:left; color:#98999c;}
+.shopInfo_tc li p{float:right;}
+
+.other{height:60px; background:#fff; border-bottom:1px solid #d6dae3; border-top:1px solid #d6dae3; margin-top:15px; padding:0 10px; overflow:hidden;}
+.othercard{line-height:60px; font-size:16px;}
+.other .rg{background:url(../images/new/othercard.png) no-repeat; background-size:12px 22px; display:block; width:12px; height:22px; margin-top:19px;}
+
+.cardnum{background:#fff; border-bottom:1px solid #dfdfdf; border-top:1px solid #dfdfdf; margin-top:15px; width:100%; position:relative;}
+.cardnum td{height:48px; line-height:48px; padding-left:10px; position:relative; border-top:1px solid #dfdfdf; text-align:center; vertical-align:middle;}
+.cardnum td .del{position:absolute; right:10px; top:12px; background:url(../images/new/del.png) no-repeat 0 0; background-size:48px 24px; display:block; width:24px; height:24px;}
+.cardnum td .del:hover{background-position:-24px 0;}
+.code_a{position:absolute; right:10px; top:9px; height:30px; line-height:30px; text-align:center; background:#f2c156; width:100px; color:#fff; border-radius:3px;}
+.code_a:hover{background:#dca631;}
+.code_span{position:absolute; right:10px; top:9px; display:inline-block; background:#f4f4f5; border-radius:3px; color:#cdced1; line-height:30px; height:30px; padding:0 10px;}
+.cardnum .input-text{height:24px; line-height:normal; width:100%;}
+.stub:before{content:"姓名"; display:inline-block; color:#fff;}
+.cardnum .black{color:#000;}
+.zcbank{height:40px; line-height:40px; background:#f4f4f5; padding:0 10px;}
+.list li{height:50px; line-height:50px; background:#fff; font-size:16px; color:#000; font-weight:700; border-top:1px solid #dbdbdb}
+.list li img{float:left; margin:10px 15px 0 0; padding-left:15px;}
+
+.error{position:absolute; top:50px; height:30px;}
+.error span{display:block; height:5px; background:url(../images/new/error_span.png) no-repeat 20px; background-size:6px 5px;}
+.error p{height:25px; line-height:25px; padding:0 10px; color:#fff; background:#ff533c; border-radius:3px;}
+
+
+input[type=checkbox]{visibility:hidden;}
+.agree{overflow:hidden; padding:0 10px 10px; margin-top:10px; height:16px; line-height:16px;}
+.agree_ch{float:left; position:relative; width:14px; height:14px; border:1px solid #8fdd68; border-radius:3px; background:#fff; overflow:hidden;}
+.agree_ch label{position:absolute; top:0; left:0; width:14px; height:14px; background:#fff; display:block;}
+.agree_ch input[type=checkbox]:checked + label{background:#8fdd68 url(../images/new/check.png) no-repeat; background-size:14px 14px;}
+.agree p{padding:0 8px; float:left;}
+.agree a{color:#6599e7; float:left;}
+
+
+.obtn{height:50px; line-height:50px; width:90%; margin:20px auto 0; display:block; background:#f2c156; border-radius:5px; font-size:18px; color:#fff; text-align:center; -webkit-appearance:none;}
+.obtn:hover{background:#dca631;}
+
+.bankhref{margin-top:20px; padding-left:5%; display:block; text-decoration:underline;}
+
+.xieyi{font-size:20px; height:40px; line-height:40px; text-align:center; border-bottom:1px solid #dcdcde;}
+.xieyi .back{background:url(../images/new/xieyi.png) no-repeat; background-size:12px 18px; float:left; width:12px; height:18px; margin:11px 0 0 10px;}
+.xieyi_nr{padding:5px 10px 15px;}
+.xieyi_nr p{line-height:20px; margin-top:5px; text-indent:2em;}
+
+.state{padding:40px 0 25px; text-align:center;}
+.state_tb{background:url(../images/new/state.png) no-repeat; display:inline-block; background-size:240px 80px; width:80px; height:80px;}
+.state_tb.bg1{background-position:0 0;}
+.state_tb.bg2{background-position:-80px 0;}
+.state_tb.bg3{background-position:-160px 0;}
+.state p{color:#68b244; font-size:20px; padding:15px 0;}
+.state .col{color:#37373b;}
+.state .fail{color:#606264;}
+.state .fail b{color:#5ec968; font-weight:400; padding-left:5px;}
+.state .fail a{color:#4699e7; padding-left:5px;}
+
+.card_tc,.yztc{background:#fff; border-radius:5px; width:92%; position:absolute; left:50%; z-index:1001; display:none; overflow:hidden; box-shadow:0 0 5px #bdbcbc; -webkit-box-shadow:0 0 5px #bdbcbc; margin-left:-46%;}
+.card_tc h3,.yztc h3{height:40px; line-height:40px; font-size:18px; color:#4490de; border-bottom:2px solid #4490de; padding:0 10px;}
+.banklist{overflow:hidden;}
+.banklist li{height:70px; overflow:hidden; padding:0 15px; border-bottom:1px solid #d9d9d9;}
+.banklist li a{display:block; width:100%; height:100%;}
+.banklist li .img{float:left; margin:20px 15px 0 0; width:30px; height:30px;}
+.banklist .bankname{float:left; margin-top:12px;}
+.banklist .bankname h4{font-size:16px; margin-bottom:5px;}
+.banklist .bankname p{color:#cdced1;}
+.banklist .bankname p span{padding-right:16px;}
+.other .banklist li{height:60px;}
+.other .banklist li img{margin:15px 15px 0 0;}
+.other .banklist .bankname{margin-top:7px}
+.otherbank{height:70px; line-height:70px; padding-left:15px; font-size:16px; width:100%; display:block;}
+
+.yztc p{padding:30px; color:#222325; font-size:16px; text-align:center;}
+.yztc p span{display:inline-block;}
+.yztc .closed{height:40px; line-height:40px; text-align:center; color:#222325; border-top:1px solid #d4d5d5; display:block;}
+.yztc .closed:hover{background:#f3f4f4;}
+
+.cardInfo{height:30px; line-height:30px; margin-top:10px; color:#404148; font-size:16px; padding-left:10px;}
+
+.win_form_div{display:none; position:absolute; z-index:1001; width:92%; background:#ffffff; border-radius:5px; padding:30px 0; text-align:center; font-size:16px; margin-left:-46%; left:50%;}
+
+.loading{background:url(../images/new/loading.gif) no-repeat left center; -webkit-background-size:30px 30px; -o-background-size: 30px 30px; padding:30px 10px 30px 40px; height:30px; text-align:center; display:inline-block; line-height:30px;}
+
+#mask {width:100%; min-height:100%; filter: alpha(opacity=70); opacity: 0.7; background:#000; _background:#F0F0F0; position: absolute; z-index:1000; top:0;left:0; bottom:0 ;right:0;}
+
+.footer{text-align:center; font-size:12px; line-height:18px; position:absolute; bottom:15px; left:0; width:100%; height:40px;}
+.footer span{color:#5ec968;}
+.footer_none{position:static; margin-top:20px; padding-bottom:20px;}
+
+.mt0{margin-top:0;}
+.mt15{margin-top:15px;}
+.pl10{padding-left:10px;}
+.mt50{margin-top:50px;}
+.pb90{padding-bottom:90px;}
+.pb85{padding-bottom:85px;}
+.block{display:block;}
+
+.fs14{font-size:14px;}
+
+.explain{margin-top:20px;padding-left:5%;display:block;}

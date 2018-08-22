@@ -1,0 +1,245 @@
+执行日期：2018-07-20-16:50:51
+leanwork签名认证:成功
+
+执行日期：2018-07-20-16:50:51
+签名参数:
+array (
+  'salerMerchantNo' => '70223960',
+  'orderType' => '01',
+  'outOrderNo' => '201807201650519742',
+  'merchantOrderNo' => '201807201650519742',
+  'goodsName' => '5Z+56K6t6K++56iL5oql5ZCN6LS5',
+  'goodsType' => '501544',
+  'body' => '5Z+56K6t6K++56iL5oql5ZCN6LS5',
+  'orderAmount' => '1',
+  'currency' => 'CNY',
+  'orderTime' => '20180720165051',
+)
+
+执行日期：2018-07-20-16:50:51
+签名参数组装的字符串:
+inputCharset=UTF-8&merchantNo=70223960&notifyUrl=http://zh.cynjs.com/zhifupay/suningPay/notify.php&orders=[{"salerMerchantNo":"70223960","orderType":"01","outOrderNo":"201807201650519742","merchantOrderNo":"201807201650519742","goodsName":"5Z+56K6t6K++56iL5oql5ZCN6LS5","goodsType":"501544","body":"5Z+56K6t6K++56iL5oql5ZCN6LS5","orderAmount":"1","currency":"CNY","orderTime":"20180720165051"}]&publicKeyIndex=0001&returnUrl=http://localhost/pay/success&submitTime=20180720165051&version=1.1
+
+执行日期：2018-07-20-16:50:51
+签名生成:
+IYkbYuc4rUQK2WfS1S3s0L9cNxEHEFSvp5m2RGQohnluR+Tw5kmq04xP1XI/P9d9py9X2aK/dwLq4j6rf1JDLPLAnpY4Ks16I1mOJi7aX5j7pYToxte8nSoz+VQaCFAatGwlb9qUW05fIsOW+3zySfYhPy+Sqx77AAlM/UjloZU=
+
+执行日期：2018-07-20-16:50:51
+表单提交
+
+执行日期：2018-07-20-16:50:51
+支付请求的参数:
+array (
+  'version' => '1.1',
+  'merchantNo' => '70223960',
+  'publicKeyIndex' => '0001',
+  'signature' => 'IYkbYuc4rUQK2WfS1S3s0L9cNxEHEFSvp5m2RGQohnluR+Tw5kmq04xP1XI/P9d9py9X2aK/dwLq4j6rf1JDLPLAnpY4Ks16I1mOJi7aX5j7pYToxte8nSoz+VQaCFAatGwlb9qUW05fIsOW+3zySfYhPy+Sqx77AAlM/UjloZU=',
+  'signAlgorithm' => 'RSA',
+  'inputCharset' => 'UTF-8',
+  'notifyUrl' => 'http://zh.cynjs.com/zhifupay/suningPay/notify.php',
+  'returnUrl' => 'http://localhost/pay/success',
+  'submitTime' => '20180720165051',
+  'orders' => '[{"salerMerchantNo":"70223960","orderType":"01","outOrderNo":"201807201650519742","merchantOrderNo":"201807201650519742","goodsName":"5Z+56K6t6K++56iL5oql5ZCN6LS5","goodsType":"501544","body":"5Z+56K6t6K++56iL5oql5ZCN6LS5","orderAmount":"1","currency":"CNY","orderTime":"20180720165051"}]',
+)
+
+执行日期：2018-07-20-16:51:51
+支付通知验证-参数:
+array (
+  'orders' => '[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201650519742","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720165051","payTime":"20180720165151","orderId":1807209093217350463}]',
+  'responseCode' => '0000',
+  'signature' => 'uK0gfHO4PiFk-HqC_31Y2El52R0s3w4E2VtGtB7QgVTuZj_ElHD07WvjP2MEQjnw21WfCKoMp8PQCFMnA1Vb_Dinv3E0q0NFW0GiWfrQikU5LRvB-QBlgX7iaZmY41kENsxu5xvqTOBrTguOsJGl-E-Tds6u5P25BOZ1zwtnpow',
+  'signAlgorithm' => 'RSA',
+  'keyIndex' => '0',
+)
+
+执行日期：2018-07-20-16:51:51
+参与验签的字符串-参数:
+orders=[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201650519742","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720165051","payTime":"20180720165151","orderId":1807209093217350463}]&responseCode=0000
+
+执行日期：2018-07-20-16:51:51
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-20-16:51:51
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-20-16:51:51
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140783',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => 1.8072090932173504E+18,
+  'status' => 'success',
+  'sign' => '2e3f7d84789f3b24a8f6687b1ac57018',
+)
+
+执行日期：2018-07-20-16:51:51
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-20-16:51:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140783',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '1.8072090932174E+18',
+  'status' => 'success',
+  'sign' => '2e3f7d84789f3b24a8f6687b1ac57018',
+)
+
+执行日期：2018-07-20-16:51:53
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-20-17:04:09
+支付通知验证-参数:
+array (
+  'orders' => '[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201650519742","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720165051","payTime":"20180720165151","orderId":1807209093217350463}]',
+  'responseCode' => '0000',
+  'signature' => 'uK0gfHO4PiFk-HqC_31Y2El52R0s3w4E2VtGtB7QgVTuZj_ElHD07WvjP2MEQjnw21WfCKoMp8PQCFMnA1Vb_Dinv3E0q0NFW0GiWfrQikU5LRvB-QBlgX7iaZmY41kENsxu5xvqTOBrTguOsJGl-E-Tds6u5P25BOZ1zwtnpow',
+  'signAlgorithm' => 'RSA',
+  'keyIndex' => '0',
+)
+
+执行日期：2018-07-20-17:04:09
+参与验签的字符串-参数:
+orders=[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201650519742","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720165051","payTime":"20180720165151","orderId":1807209093217350463}]&responseCode=0000
+
+执行日期：2018-07-20-17:04:09
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-20-17:04:09
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-20-17:04:09
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140783',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201807201650519742',
+  'status' => 'success',
+  'sign' => '2eff9ab856eca0ce5bcaf0881e81a6db',
+)
+
+执行日期：2018-07-20-17:04:09
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-20-17:04:11
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140783',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201807201650519742',
+  'status' => 'success',
+  'sign' => '2eff9ab856eca0ce5bcaf0881e81a6db',
+)
+
+执行日期：2018-07-20-17:04:11
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-20-17:05:01
+支付通知验证-参数:
+array (
+  'orders' => '[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201641468173","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720164146","payTime":"20180720164408","orderId":1807209093217345333}]',
+  'responseCode' => '0000',
+  'signature' => 'lMxrJdOnen-HtHsWskRTYH65Xx3k9IMmwahYjMPScpMh-GtmpASfUsHJvNr8RlkHMccBwKSpbnWMqdXV8hbRxEbik_rgKPuP1b8dk7JS1j57lIWYSeP3LPUcik1J_hDBJIzVTL7OzeaQZY8GkWebat0U5lETBt36CYyzFYV6dYQ',
+  'signAlgorithm' => 'RSA',
+  'keyIndex' => '0',
+)
+
+执行日期：2018-07-20-17:05:01
+参与验签的字符串-参数:
+orders=[{"payChannels":[{"payAmount":"1","payProvider":"NJABC","payTypeCode":"DEBIT_NETPAY"}],"orderAmount":1,"outOrderNo":"201807201641468173","buyerUserNo":"EM0000005697497","tunnelData":"eyJwYXlVc2VyTm8iOiJFTTAwMDAwMDU2OTc0OTcifQ==","orderTime":"20180720164146","payTime":"20180720164408","orderId":1807209093217345333}]&responseCode=0000
+
+执行日期：2018-07-20-17:05:01
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-20-17:05:01
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-20-17:05:01
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => NULL,
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201807201641468173',
+  'status' => 'success',
+  'sign' => '654153bef102dc5f82b6c615d7021f81',
+)
+
+执行日期：2018-07-20-17:05:01
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-20-17:05:03
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201807201641468173',
+  'status' => 'success',
+  'sign' => '654153bef102dc5f82b6c615d7021f81',
+)
+
+执行日期：2018-07-20-17:05:03
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

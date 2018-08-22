@@ -1,0 +1,100 @@
+执行日期：2018-04-27-12:24:00
+leanwork签名认证:成功
+
+执行日期：2018-04-27-12:24:00
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=0.01&ordernumber=180322000449TW001375000001140716&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140716&isshow=1&sign=56b5c7ef40eaceb1f5064d50ff1ee2ef
+
+执行日期：2018-04-27-12:24:00
+表单提交
+
+执行日期：2018-04-27-12:24:00
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '0.01',
+  'ordernumber' => '180322000449TW001375000001140716',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140716',
+  'isshow' => '1',
+  'sign' => '56b5c7ef40eaceb1f5064d50ff1ee2ef',
+)
+
+执行日期：2018-04-27-12:24:14
+leanwork签名认证:成功
+
+执行日期：2018-04-27-12:24:14
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140827&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140827&isshow=1&sign=3cc00769c5993b1064c735594d05b319
+
+执行日期：2018-04-27-12:24:14
+表单提交
+
+执行日期：2018-04-27-12:24:14
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140827',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140827',
+  'isshow' => '1',
+  'sign' => '3cc00769c5993b1064c735594d05b319',
+)
+
+执行日期：2018-04-27-12:26:39
+leanwork签名认证:成功
+
+执行日期：2018-04-27-12:26:39
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140156&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140156&isshow=1&sign=afaea016af1b5946833c659e253745aa
+
+执行日期：2018-04-27-12:26:39
+表单提交
+
+执行日期：2018-04-27-12:26:39
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140156',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140156',
+  'isshow' => '1',
+  'sign' => 'afaea016af1b5946833c659e253745aa',
+)
+
+执行日期：2018-04-27-16:16:27
+leanwork签名认证:成功
+
+执行日期：2018-04-27-16:16:27
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140350&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140350&isshow=1&sign=8986b63e49fde46c7ab3b258d5ca1098
+
+执行日期：2018-04-27-16:16:27
+表单提交
+
+执行日期：2018-04-27-16:16:27
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140350',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140350',
+  'isshow' => '1',
+  'sign' => '8986b63e49fde46c7ab3b258d5ca1098',
+)
+

@@ -1,0 +1,506 @@
+执行日期：2018-08-01-21:03:41
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:04:07
+未签名前的请求数据:
+array (
+  'Serial' => '201808012103412533',
+  'BackUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'Amount' => '0.01',
+  'Account' => '622150520024739817',
+)
+
+执行日期：2018-08-01-21:04:07
+未签名前的请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '622150520024739817',
+  'Serial' => '201808012103412533',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:04:07
+生成签名请求参数11:
+Account=622150520024739817&Amount=1&BackUrl=http://localhost/pay/success&Merchant=100112966686000044&NotifyUrl=http://zh.cynjs.com/zhifupay/maisipay/notify.php&Serial=201808012103412533&SignType=HMAC&Source=Transfer
+
+执行日期：2018-08-01-21:04:07
+生成签名请求参数11:
+B42ECD0AC587B4C90C16507ABF226FAC3ECA5435
+
+执行日期：2018-08-01-21:04:07
+请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '622150520024739817',
+  'Serial' => '201808012103412533',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+  'Sign' => 'B42ECD0AC587B4C90C16507ABF226FAC3ECA5435',
+)
+
+执行日期：2018-08-01-21:04:14
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:04:40
+未签名前的请求数据:
+array (
+  'Serial' => '201808012104145871',
+  'BackUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'Amount' => '0.01',
+  'Account' => '6221505200024739817',
+)
+
+执行日期：2018-08-01-21:04:40
+未签名前的请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012104145871',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:04:40
+生成签名请求参数11:
+Account=6221505200024739817&Amount=1&BackUrl=http://localhost/pay/success&Merchant=100112966686000044&NotifyUrl=http://zh.cynjs.com/zhifupay/maisipay/notify.php&Serial=201808012104145871&SignType=HMAC&Source=Transfer
+
+执行日期：2018-08-01-21:04:40
+生成签名请求参数11:
+ED17952B31E59379E18FA5472B5A32530B751507
+
+执行日期：2018-08-01-21:04:40
+请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012104145871',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+  'Sign' => 'ED17952B31E59379E18FA5472B5A32530B751507',
+)
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-参数json:
+{"Status":"0","Serial":"201808012104145871","Merchant":"100112966686000044","TotalFee":"1","Payment":"0","PayTime":null,"PlatformSerial":"100113087080013001","ChannelSerial":"1808011354616705","Method":"Transfer","SignType":"HMAC","Sign":"713473C8C6ADA0DDEA5F706FC460E577EC01315F"}
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-参数:
+array (
+  'Status' => '0',
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'Payment' => '0',
+  'PayTime' => NULL,
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+  'Sign' => '713473C8C6ADA0DDEA5F706FC460E577EC01315F',
+)
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-参数:
+array (
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+  'Sign' => '713473C8C6ADA0DDEA5F706FC460E577EC01315F',
+)
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-去签名参数:
+array (
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-返回的参数做签名的字符串:
+ChannelSerial=1808011354616705&Merchant=100112966686000044&Method=Transfer&PlatformSerial=100113087080013001&Serial=201808012104145871&SignType=HMAC&TotalFee=1
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-生成的签名:
+C648DCEC66574E6410C6505735E67C9A47B15504
+
+执行日期：2018-08-01-21:08:04
+支付通知验证-结果:
+fail
+
+执行日期：2018-08-01-21:13:57
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:14:18
+未签名前的请求数据:
+array (
+  'Serial' => '201808012113574347',
+  'BackUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'Amount' => '0.01',
+  'Account' => '6221505200024739817',
+)
+
+执行日期：2018-08-01-21:14:18
+未签名前的请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012113574347',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:14:18
+生成签名请求参数11:
+Account=6221505200024739817&Amount=1&BackUrl=http://localhost/pay/success&Merchant=100112966686000044&NotifyUrl=http://zh.cynjs.com/zhifupay/maisipay/notify.php&Serial=201808012113574347&SignType=HMAC&Source=Transfer
+
+执行日期：2018-08-01-21:14:18
+生成签名请求参数11:
+EE8AD36EFA04CF679D3A99921A126F865B229385
+
+执行日期：2018-08-01-21:14:18
+请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012113574347',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+  'Sign' => 'EE8AD36EFA04CF679D3A99921A126F865B229385',
+)
+
+执行日期：2018-08-01-21:17:14
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:17:34
+未签名前的请求数据:
+array (
+  'Serial' => '201808012117147516',
+  'BackUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'Amount' => '0.01',
+  'Account' => '6221505200024739817',
+)
+
+执行日期：2018-08-01-21:17:34
+未签名前的请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012117147516',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:17:34
+生成签名请求参数11:
+Account=6221505200024739817&Amount=1&BackUrl=http://localhost/pay/success&Merchant=100112966686000044&NotifyUrl=http://zh.cynjs.com/zhifupay/maisipay/notify.php&Serial=201808012117147516&SignType=HMAC&Source=Transfer
+
+执行日期：2018-08-01-21:17:34
+生成签名请求参数11:
+EA88A5EBE11A40D4FF4614291A3AB530000820FF
+
+执行日期：2018-08-01-21:17:34
+请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6221505200024739817',
+  'Serial' => '201808012117147516',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/maisipay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+  'Sign' => 'EA88A5EBE11A40D4FF4614291A3AB530000820FF',
+)
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-参数json:
+1
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-参数:
+array (
+  'Status' => '0',
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'Payment' => '0',
+  'PayTime' => NULL,
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+  'Sign' => '713473C8C6ADA0DDEA5F706FC460E577EC01315F',
+)
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-参数:
+array (
+  'Status' => '0',
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'Payment' => '0',
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+  'Sign' => '713473C8C6ADA0DDEA5F706FC460E577EC01315F',
+)
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-去签名参数:
+array (
+  'Status' => '0',
+  'Serial' => '201808012104145871',
+  'Merchant' => '100112966686000044',
+  'TotalFee' => '1',
+  'Payment' => '0',
+  'PlatformSerial' => '100113087080013001',
+  'ChannelSerial' => '1808011354616705',
+  'Method' => 'Transfer',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-返回的参数做签名的字符串:
+ChannelSerial=1808011354616705&Merchant=100112966686000044&Method=Transfer&Payment=0&PlatformSerial=100113087080013001&Serial=201808012104145871&SignType=HMAC&Status=0&TotalFee=1
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-生成的签名:
+713473C8C6ADA0DDEA5F706FC460E577EC01315F
+
+执行日期：2018-08-01-21:25:16
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-01-21:25:16
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-01-21:25:16
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140681',
+  'orderAmount' => 0.01,
+  'orderCurrency' => 'CNY',
+  'transactionId' => '100113087080013001',
+  'status' => 'success',
+  'sign' => '1bb3af15778b030b66298bd68ddbc32f',
+)
+
+执行日期：2018-08-01-21:25:16
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-01-21:25:18
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140681',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '100113087080013001',
+  'status' => 'success',
+  'sign' => '1bb3af15778b030b66298bd68ddbc32f',
+)
+
+执行日期：2018-08-01-21:25:18
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-01-21:26:46
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:28:23
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:28:30
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:30:11
+leanwork签名认证:成功
+
+执行日期：2018-08-01-21:30:18
+未签名前的请求数据:
+array (
+  'Serial' => '201808012130118047',
+  'BackUrl' => 'http://localhost/pay/success',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/MAISIpay/notify.php',
+  'Amount' => '0.01',
+  'Account' => '6228480059353791177',
+)
+
+执行日期：2018-08-01-21:30:18
+未签名前的请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6228480059353791177',
+  'Serial' => '201808012130118047',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/MAISIpay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+)
+
+执行日期：2018-08-01-21:30:18
+生成签名请求参数11:
+Account=6228480059353791177&Amount=1&BackUrl=http://localhost/pay/success&Merchant=100112966686000044&NotifyUrl=http://zh.cynjs.com/zhifupay/MAISIpay/notify.php&Serial=201808012130118047&SignType=HMAC&Source=Transfer
+
+执行日期：2018-08-01-21:30:18
+生成签名请求参数11:
+EA9DFE6A814E8FFD24D0A68ECE1926CED18A2CD8
+
+执行日期：2018-08-01-21:30:18
+请求数据:
+array (
+  'Merchant' => '100112966686000044',
+  'Amount' => 1,
+  'Source' => 'Transfer',
+  'Account' => '6228480059353791177',
+  'Serial' => '201808012130118047',
+  'NotifyUrl' => 'http://zh.cynjs.com/zhifupay/MAISIpay/notify.php',
+  'BackUrl' => 'http://localhost/pay/success',
+  'SignType' => 'HMAC',
+  'Sign' => 'EA9DFE6A814E8FFD24D0A68ECE1926CED18A2CD8',
+)
+

@@ -1,0 +1,50 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CSE 支付直链</title>
+    <link href="~/css/styles.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        <form method="post" action="/BankPay/Index" target="_blank">
+            <ul>
+                <li>
+                    <span>订单编号：</span>
+                    <input type="text" name="orderId" value="@ViewBag.orderId" />
+                </li>
+
+                <li>
+                    <span>订单信息：</span>
+                    <input type="text" name="orderInfo" value="测试" />
+                </li>
+
+
+                <li>
+                    <span>商品名称：</span>
+                    <input type="text" name="product_name" value="奥利奥" />
+                </li>
+                <li>
+                    <span>商品编号：</span>
+                    <input type="text" name="product_code" value="100002" />
+                </li>
+                <li>
+                    <span>付款金额：</span>
+                    <input type="number" name="order_amount" value="10" />
+                </li>
+
+                <li>
+                    <input class="btn" type="submit" value="提 交" />
+                </li>
+
+            </ul>
+        </form>
+
+    </div>
+
+
+</body>
+</html>

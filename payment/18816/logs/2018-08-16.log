@@ -1,0 +1,101 @@
+执行日期：2018-08-16-15:23:52
+leanwork签名认证:成功
+
+执行日期：2018-08-16-15:23:52
+leanwork传进来的参数
+
+执行日期：2018-08-16-15:23:52
+array (
+  'out_trade_no' => '201808161523527208',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/18816/notify.php',
+  'total_fee' => 1,
+)
+
+执行日期：2018-08-16-15:23:56
+请求数据:
+array (
+  'mch_id' => '840000000561',
+  'total_fee' => '1',
+  'service' => 'CSYF_GATEWAY',
+  'out_trade_no' => '201808161523527208',
+  'sign_type' => 'MD5',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/18816/notify.php',
+  'bankno' => 'ABC',
+  'body' => 'text',
+)
+
+执行日期：2018-08-16-15:23:56
+请求数据(加密后):
+array (
+  'mch_id' => '840000000561',
+  'total_fee' => '1',
+  'service' => 'CSYF_GATEWAY',
+  'out_trade_no' => '201808161523527208',
+  'sign_type' => 'MD5',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/18816/notify.php',
+  'bankno' => 'ABC',
+  'body' => 'text',
+  'sign' => '63C4ABF2B80608D05FF945ED82A374AD',
+)
+
+执行日期：2018-08-16-15:25:15
+支付通知验证-参数1:
+array (
+  'mch_id' => '840000000561',
+  'out_trade_no' => '201808161523527208',
+  'service' => 'CSYF_GATEWAY',
+  'sign' => '46F2A639F38AA088E8534EF789636B91',
+  'total_fee' => '1',
+  'tradeStatus' => 'TRADE_SUCCESS',
+)
+
+执行日期：2018-08-16-15:25:15
+支付通知验证-返回的签名:
+46F2A639F38AA088E8534EF789636B91
+
+执行日期：2018-08-16-15:25:15
+支付通知验证-返回的参数做签名的字符串:
+46F2A639F38AA088E8534EF789636B91
+
+执行日期：2018-08-16-15:25:15
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-16-15:25:15
+通知leanwork地址:1
+
+执行日期：2018-08-16-15:25:15
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140261',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201808161523527208',
+  'status' => 'success',
+  'sign' => 'eef59833ab78a2520a9cefe9abafdff8',
+)
+
+执行日期：2018-08-16-15:25:18
+通知leanwork-结果:
+false
+
+执行日期：2018-08-16-15:25:20
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140261',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '201808161523527208',
+  'status' => 'success',
+  'sign' => 'eef59833ab78a2520a9cefe9abafdff8',
+)
+
+执行日期：2018-08-16-15:25:22
+通知leanwork-结果:
+false
+

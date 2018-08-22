@@ -1,0 +1,424 @@
+执行日期：2018-06-28-18:26:42
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:26:42
+表单提交
+
+执行日期：2018-06-28-18:26:42
+array (
+  'shop_id' => '45604',
+  'trading_account' => '180322000449TW001375000001140642',
+  'posttime' => '20180628182642',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140642',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181602,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '9985851fe164a630edba41f892573722',
+)
+
+执行日期：2018-06-28-18:27:26
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:27:26
+表单提交
+
+执行日期：2018-06-28-18:27:26
+array (
+  'shop_id' => '45604',
+  'trading_account' => '180322000449TW001375000001140642',
+  'posttime' => '20180628182726',
+  'gid' => '3301',
+  'orderidinf' => '180322000449TW001375000001140642',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181646,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '3ab242994dafa2f94e7ccc8d6f6ac77c',
+)
+
+执行日期：2018-06-28-18:29:20
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:29:20
+表单提交
+
+执行日期：2018-06-28-18:29:20
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140642',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181760,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '0eac3f81bf18eae5a5fc95d288a42929',
+)
+
+执行日期：2018-06-28-18:30:06
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:30:06
+表单提交
+
+执行日期：2018-06-28-18:30:06
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140642',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181806,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'c9b1d6100a67d861a67da79ac5112a7a',
+)
+
+执行日期：2018-06-28-18:30:28
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:30:28
+表单提交
+
+执行日期：2018-06-28-18:30:28
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140720',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181828,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '758225ce71d8f29439309fb3313d1459',
+)
+
+执行日期：2018-06-28-18:32:06
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:32:06
+表单提交
+
+执行日期：2018-06-28-18:32:06
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140220',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530181926,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '6825683789c1def4e66a3b7a5a1fdce7',
+)
+
+执行日期：2018-06-28-18:34:00
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:34:00
+表单提交
+
+执行日期：2018-06-28-18:34:00
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140813',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182040,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'cee18e9270c5fe1d4c588558b67a9624',
+)
+
+执行日期：2018-06-28-18:36:14
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:36:14
+表单提交
+
+执行日期：2018-06-28-18:36:14
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140604',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182174,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '4e9cf7d880327c8f8b16d16c1ea0801d',
+)
+
+执行日期：2018-06-28-18:38:11
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:38:11
+表单提交
+
+执行日期：2018-06-28-18:38:11
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140589',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182291,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '91ff0f398a4ffefe7be4051705f239e5',
+)
+
+执行日期：2018-06-28-18:41:29
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:41:29
+表单提交
+
+执行日期：2018-06-28-18:41:29
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140302',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182489,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '9c470bae91ab8aca498fc40546d3328f',
+)
+
+执行日期：2018-06-28-18:42:07
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:42:07
+表单提交
+
+执行日期：2018-06-28-18:42:07
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140302',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182527,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'bb2c925f4d56a7fc98be808963c5c4bc',
+)
+
+执行日期：2018-06-28-18:42:16
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:42:16
+表单提交
+
+执行日期：2018-06-28-18:42:16
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140651',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182536,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '309a5c56c60e3dc09420f06f8fddffae',
+)
+
+执行日期：2018-06-28-18:47:37
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:47:37
+表单提交
+
+执行日期：2018-06-28-18:47:37
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140890',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530182857,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'ae2fd0038eda3fe3ddcefaa66ad20d1c',
+)
+
+执行日期：2018-06-28-18:57:36
+leanwork签名认证:成功
+
+执行日期：2018-06-28-18:57:36
+表单提交
+
+执行日期：2018-06-28-18:57:36
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140977',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530183456,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'aeb0768725743b424b4a128e6c1c4597',
+)
+
+执行日期：2018-06-28-21:53:31
+leanwork签名认证:成功
+
+执行日期：2018-06-28-21:53:31
+表单提交
+
+执行日期：2018-06-28-21:53:31
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140986',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530194011,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '5a4e4b8a4c778ec940456a2bfc66aefe',
+)
+
+执行日期：2018-06-28-21:55:36
+leanwork签名认证:成功
+
+执行日期：2018-06-28-21:55:36
+表单提交
+
+执行日期：2018-06-28-21:55:36
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140603',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530194136,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'd4e8c3af35b3eff3a395abfc5b1953d7',
+)
+
+执行日期：2018-06-28-21:55:44
+leanwork签名认证:成功
+
+执行日期：2018-06-28-21:55:44
+表单提交
+
+执行日期：2018-06-28-21:55:44
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140603',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530194144,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => '9eec2f43cfc90b6b15cef826865470f5',
+)
+
+执行日期：2018-06-28-21:57:09
+leanwork签名认证:成功
+
+执行日期：2018-06-28-21:57:09
+表单提交
+
+执行日期：2018-06-28-21:57:09
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140603',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530194229,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'sign' => 'e60a6b9d39f8da43d32153bc3ef30c8f',
+)
+
+执行日期：2018-06-28-22:13:49
+leanwork签名认证:成功
+
+执行日期：2018-06-28-22:13:49
+表单提交
+
+执行日期：2018-06-28-22:13:49
+array (
+  'shop_id' => '45604',
+  'trading_account' => 'tll45604',
+  'trade_no' => '180322000449TW001375000001140430',
+  'price' => '0.01',
+  'type' => 1,
+  'start_time' => 1530195229,
+  'pass_type' => 'post',
+  'sign_type' => 'md5',
+  'is_repeat' => 0,
+  'goods_name' => 'zhesgiss',
+  'goods_dec' => 'abcdef',
+  'return_url' => 'http://localhost/pay/success',
+  'success_url' => 'http://www.demo.cn/payment/payment/zsy/notify.php',
+  'sign' => 'ff84cf3ba6f54a310b6bc8aadea9e322',
+)
+

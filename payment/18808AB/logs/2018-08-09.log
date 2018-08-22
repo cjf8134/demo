@@ -1,0 +1,1997 @@
+执行日期：2018-08-09-15:10:30
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:10:30
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151021","merCode":"9001003475","orderNo":"180322000449TW001375000001140280","orderAmount":"1","payDate":"20180809150513","payCompletionDate":"20180809150601","sign":"ea27d36a1fee63d5d6a4b6738f4f5363"}'
+
+执行日期：2018-08-09-15:10:30
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140280',
+  'payCompletionDate' => '20180809150601',
+  'payDate' => '20180809150513',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151021',
+)
+
+执行日期：2018-08-09-15:10:30
+支付通知验证-sign:
+ea27d36a1fee63d5d6a4b6738f4f5363
+
+执行日期：2018-08-09-15:10:30
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:10:30
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:10:30
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140280',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140280',
+  'status' => 'success',
+  'sign' => '52403f11eba3e2e400fa1c1713921e5a',
+)
+
+执行日期：2018-08-09-15:10:30
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:10:32
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140280',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140280',
+  'status' => 'success',
+  'sign' => '52403f11eba3e2e400fa1c1713921e5a',
+)
+
+执行日期：2018-08-09-15:10:32
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:10:33
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:10:33
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151024","merCode":"9001003475","orderNo":"180322000449TW001375000001140880","orderAmount":"1","payDate":"20180809150901","payCompletionDate":"20180809150934","sign":"8a9f58d16ee1d40bd0a478e5799154e8"}'
+
+执行日期：2018-08-09-15:10:33
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140880',
+  'payCompletionDate' => '20180809150934',
+  'payDate' => '20180809150901',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151024',
+)
+
+执行日期：2018-08-09-15:10:33
+支付通知验证-sign:
+8a9f58d16ee1d40bd0a478e5799154e8
+
+执行日期：2018-08-09-15:10:33
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:10:33
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:10:33
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:10:33
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:10:35
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:10:35
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:10:39
+leanwork签名认证:成功
+
+执行日期：2018-08-09-15:10:39
+确定提交订单解析的参数
+
+执行日期：2018-08-09-15:10:39
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151039',
+  'sign' => '846e85a0c520ad54cce0eca1b8a5f3ad',
+)
+
+执行日期：2018-08-09-15:10:39
+确定绑卡传进来的参数
+
+执行日期：2018-08-09-15:10:39
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151039',
+  'sign' => '846e85a0c520ad54cce0eca1b8a5f3ad',
+)
+
+执行日期：2018-08-09-15:10:39
+预下单订单解析的参数
+
+执行日期：2018-08-09-15:10:39
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '1',
+  'callbackUrl' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'showUrl' => 'http://localhost/pay/success',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151039',
+  'sign' => '7add034a6958032b4b4c16d51b6b059a',
+)
+
+执行日期：2018-08-09-15:10:40
+预下单返回进来的参数
+
+执行日期：2018-08-09-15:10:40
+array (
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151036',
+  'sign' => '1554f440cd374918d79954142faa45b5',
+)
+
+执行日期：2018-08-09-15:10:40
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:10:40
+array (
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:11:00
+确认下单请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140168',
+  'dateTime' => '20180809151100',
+  'smsCode' => '808766',
+  'sign' => 'badd8e80b9107f4971b52358ff373c0d',
+)
+
+执行日期：2018-08-09-15:11:00
+确认下单请求数据:
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140168',
+  'userId' => '2',
+  'protocolId' => 'jpd1Eosjm',
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151057',
+  'sign' => 'ceaac4cef669034682e8a74b0e4ad157',
+)
+
+执行日期：2018-08-09-15:11:01
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:11:01
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151058","merCode":"9001003475","orderNo":"180322000449TW001375000001140168","orderAmount":"1","payDate":"20180809151036","payCompletionDate":"20180809151101","sign":"be3800d2bde718e9659b1284125173c4"}'
+
+执行日期：2018-08-09-15:11:01
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140168',
+  'payCompletionDate' => '20180809151101',
+  'payDate' => '20180809151036',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151058',
+)
+
+执行日期：2018-08-09-15:11:01
+支付通知验证-sign:
+be3800d2bde718e9659b1284125173c4
+
+执行日期：2018-08-09-15:11:01
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:11:01
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:11:02
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:11:02
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:11:04
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:11:04
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:11:37
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:11:37
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151128","merCode":"9001003475","orderNo":"180322000449TW001375000001140880","orderAmount":"1","payDate":"20180809150901","payCompletionDate":"20180809150934","sign":"0875576d25b014058d9d1684ec988c41"}'
+
+执行日期：2018-08-09-15:11:37
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140880',
+  'payCompletionDate' => '20180809150934',
+  'payDate' => '20180809150901',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151128',
+)
+
+执行日期：2018-08-09-15:11:37
+支付通知验证-sign:
+0875576d25b014058d9d1684ec988c41
+
+执行日期：2018-08-09-15:11:37
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:11:37
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:11:37
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:11:37
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:11:39
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:11:39
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:11:39
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:11:39
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151130","merCode":"9001003475","orderNo":"180322000449TW001375000001140168","orderAmount":"1","payDate":"20180809151036","payCompletionDate":"20180809151101","sign":"ed8b7e2de763c833ad039d2fa48edd59"}'
+
+执行日期：2018-08-09-15:11:39
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140168',
+  'payCompletionDate' => '20180809151101',
+  'payDate' => '20180809151036',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151130',
+)
+
+执行日期：2018-08-09-15:11:39
+支付通知验证-sign:
+ed8b7e2de763c833ad039d2fa48edd59
+
+执行日期：2018-08-09-15:11:39
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:11:39
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:11:39
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:11:39
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:11:41
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:11:41
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:12:42
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:12:42
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151233","merCode":"9001003475","orderNo":"180322000449TW001375000001140880","orderAmount":"1","payDate":"20180809150901","payCompletionDate":"20180809150934","sign":"3bf9b45f4a95447a3d4a1fc536a89d5a"}'
+
+执行日期：2018-08-09-15:12:42
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140880',
+  'payCompletionDate' => '20180809150934',
+  'payDate' => '20180809150901',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151233',
+)
+
+执行日期：2018-08-09-15:12:42
+支付通知验证-sign:
+3bf9b45f4a95447a3d4a1fc536a89d5a
+
+执行日期：2018-08-09-15:12:42
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:12:42
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:12:42
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:12:42
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:12:44
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:12:44
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:12:44
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:12:44
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151235","merCode":"9001003475","orderNo":"180322000449TW001375000001140168","orderAmount":"1","payDate":"20180809151036","payCompletionDate":"20180809151101","sign":"ae01cc956993b56f39f98677fec9d2ea"}'
+
+执行日期：2018-08-09-15:12:44
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140168',
+  'payCompletionDate' => '20180809151101',
+  'payDate' => '20180809151036',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151235',
+)
+
+执行日期：2018-08-09-15:12:44
+支付通知验证-sign:
+ae01cc956993b56f39f98677fec9d2ea
+
+执行日期：2018-08-09-15:12:44
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:12:44
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:12:44
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:12:44
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:12:46
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:12:46
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:13:49
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:13:49
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151340","merCode":"9001003475","orderNo":"180322000449TW001375000001140880","orderAmount":"1","payDate":"20180809150901","payCompletionDate":"20180809150934","sign":"c3bafc08ae77510b519e153257005f45"}'
+
+执行日期：2018-08-09-15:13:49
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140880',
+  'payCompletionDate' => '20180809150934',
+  'payDate' => '20180809150901',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151340',
+)
+
+执行日期：2018-08-09-15:13:49
+支付通知验证-sign:
+c3bafc08ae77510b519e153257005f45
+
+执行日期：2018-08-09-15:13:49
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:13:49
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:13:49
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:13:49
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:13:51
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140880',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140880',
+  'status' => 'success',
+  'sign' => 'ee70586254b90aad6a11b30309859f61',
+)
+
+执行日期：2018-08-09-15:13:51
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:13:51
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:13:51
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151342","merCode":"9001003475","orderNo":"180322000449TW001375000001140168","orderAmount":"1","payDate":"20180809151036","payCompletionDate":"20180809151101","sign":"2a7b04486d497044e4d769b40f51683d"}'
+
+执行日期：2018-08-09-15:13:51
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140168',
+  'payCompletionDate' => '20180809151101',
+  'payDate' => '20180809151036',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151342',
+)
+
+执行日期：2018-08-09-15:13:51
+支付通知验证-sign:
+2a7b04486d497044e4d769b40f51683d
+
+执行日期：2018-08-09-15:13:51
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:13:51
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:13:51
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:13:51
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:13:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:13:53
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:14:55
+支付通知验证-参数:
+1
+
+执行日期：2018-08-09-15:14:55
+支付通知验证-参数2:
+'{"resultCode":"000000","resultMsg":"","resultStatus":"SUCCESS","resultTime":"20180809151446","merCode":"9001003475","orderNo":"180322000449TW001375000001140168","orderAmount":"1","payDate":"20180809151036","payCompletionDate":"20180809151101","sign":"5fcab16352309e37ed889bd67302bd82"}'
+
+执行日期：2018-08-09-15:14:55
+支付通知验证-参数msg:
+array (
+  'merCode' => '9001003475',
+  'orderAmount' => '1',
+  'orderNo' => '180322000449TW001375000001140168',
+  'payCompletionDate' => '20180809151101',
+  'payDate' => '20180809151036',
+  'resultCode' => '000000',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151446',
+)
+
+执行日期：2018-08-09-15:14:55
+支付通知验证-sign:
+5fcab16352309e37ed889bd67302bd82
+
+执行日期：2018-08-09-15:14:55
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-09-15:14:55
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-09-15:14:55
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:14:55
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:14:57
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140168',
+  'orderAmount' => '0.01',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140168',
+  'status' => 'success',
+  'sign' => '26cc3914b9a9a78bdb08cc17e58d85e9',
+)
+
+执行日期：2018-08-09-15:14:57
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-09-15:17:18
+leanwork签名认证:成功
+
+执行日期：2018-08-09-15:17:18
+确定提交订单解析的参数
+
+执行日期：2018-08-09-15:17:18
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151718',
+  'sign' => 'a87775a91d8516688c15594d1f4f33d2',
+)
+
+执行日期：2018-08-09-15:17:18
+确定绑卡传进来的参数
+
+执行日期：2018-08-09-15:17:18
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151718',
+  'sign' => 'a87775a91d8516688c15594d1f4f33d2',
+)
+
+执行日期：2018-08-09-15:17:18
+预下单订单解析的参数
+
+执行日期：2018-08-09-15:17:18
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+  'callbackUrl' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'showUrl' => 'http://localhost/pay/success',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809151718',
+  'sign' => 'b8454537a4ee6f14a7c49a692e228705',
+)
+
+执行日期：2018-08-09-15:17:19
+预下单返回进来的参数
+
+执行日期：2018-08-09-15:17:19
+array (
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809151715',
+  'sign' => '8201763bda05146d4197ad952a3440e3',
+)
+
+执行日期：2018-08-09-15:17:19
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:17:19
+array (
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:18:10
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:18:10
+array (
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:19:05
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:19:05
+array (
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:19:47
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:19:47
+array (
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:19:57
+短信post===解析进来的参数
+
+执行日期：2018-08-09-15:19:57
+NULL
+
+执行日期：2018-08-09-15:21:01
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:21:01
+array (
+  'orderNo' => '180322000449TW001375000001140705',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:21:07
+短信post===解析进来的参数
+
+执行日期：2018-08-09-15:21:07
+array (
+  'resultCode' => 'Y0002',
+  'resultMsg' => '订单不存在',
+  'resultStatus' => 'FAILED',
+  'resultTime' => '20180809152046',
+  'sign' => '10cf0f987213fb17afda21d715cbe9fe',
+)
+
+执行日期：2018-08-09-15:22:51
+leanwork签名认证:成功
+
+执行日期：2018-08-09-15:22:51
+确定提交订单解析的参数
+
+执行日期：2018-08-09-15:22:51
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140479',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809152251',
+  'sign' => 'a156f27351e00748fb676f440acdd1ba',
+)
+
+执行日期：2018-08-09-15:22:52
+确定绑卡传进来的参数
+
+执行日期：2018-08-09-15:22:52
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140479',
+  'orderAmount' => '1',
+  'returnAddress' => 'http://localhost/pay/success',
+  'backAddress' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809152251',
+  'sign' => 'a156f27351e00748fb676f440acdd1ba',
+)
+
+执行日期：2018-08-09-15:22:52
+预下单订单解析的参数
+
+执行日期：2018-08-09-15:22:52
+array (
+  'protocolId' => 'jpd1Eosjm',
+  'orderNo' => '180322000449TW001375000001140479',
+  'orderAmount' => '1',
+  'callbackUrl' => 'http://zh.cynjs.com/zhifupay/18808A/notify.php',
+  'showUrl' => 'http://localhost/pay/success',
+  'productDesc' => 'test products',
+  'merCode' => '9001003475',
+  'dateTime' => '20180809152252',
+  'sign' => '28bea4e8335b1c18b2a5aa3d6e79f7a4',
+)
+
+执行日期：2018-08-09-15:22:53
+预下单返回进来的参数
+
+执行日期：2018-08-09-15:22:53
+array (
+  'resultCode' => '000000',
+  'resultMsg' => '',
+  'resultStatus' => 'SUCCESS',
+  'resultTime' => '20180809152231',
+  'sign' => '665e7796cb4f48bceac58f249cbf74af',
+)
+
+执行日期：2018-08-09-15:22:53
+leanwork传进来的参数
+
+执行日期：2018-08-09-15:22:53
+array (
+  'orderNo' => '180322000449TW001375000001140479',
+  'orderAmount' => '1',
+)
+
+执行日期：2018-08-09-15:23:18
+短信post===请求的参数
+
+执行日期：2018-08-09-15:23:18
+array (
+  'merCode' => '9001003475',
+  'orderNo' => '180322000449TW001375000001140479',
+  'dateTime' => '20180809152318',
+  'sign' => '7b2803d56983f33188bbfb3539cea243',
+)
+
+执行日期：2018-08-09-15:23:18
+短信post===解析进来的参数
+
+执行日期：2018-08-09-15:23:18
+array (
+  'resultCode' => 'Y0002',
+  'resultMsg' => '订单不存在',
+  'resultStatus' => 'FAILED',
+  'resultTime' => '20180809152257',
+  'sign' => '9a5aeed2951adc2083533283e924457a',
+)
+

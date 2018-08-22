@@ -1,0 +1,419 @@
+执行日期：2018-08-13-09:33:50
+leanwork签名认证:成功
+
+执行日期：2018-08-13-09:33:50
+表单提交
+
+执行日期：2018-08-13-09:33:50
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140194',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140194',
+  'fxip' => '218.106.117.210',
+  'sign' => 'a308dc3d960b6fbb0c4dd19af96bed4b',
+)
+
+执行日期：2018-08-13-09:33:51
+表单提交返回数据
+
+执行日期：2018-08-13-09:33:51
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140194',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/2018081309335180wMOHap.html',
+  'nonce_str' => 'qboUXLiXdgzFJ98vaEHoYh2s',
+  'sign' => '64cab7e3eab98f3b8a0bd6759b2ecc12',
+)
+
+执行日期：2018-08-13-09:34:46
+leanwork签名认证:成功
+
+执行日期：2018-08-13-09:34:46
+表单提交
+
+执行日期：2018-08-13-09:34:46
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140770',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140770',
+  'sign' => '0676baf1eb33ddb9033a537bb48bdbb5',
+)
+
+执行日期：2018-08-13-10:05:31
+leanwork签名认证:成功
+
+执行日期：2018-08-13-10:05:31
+表单提交
+
+执行日期：2018-08-13-10:05:31
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140173',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140173',
+  'sign' => 'f62fbdf38a37f25cc9dbcf830f92cc29',
+)
+
+执行日期：2018-08-13-10:05:32
+表单提交返回数据
+
+执行日期：2018-08-13-10:05:32
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140173',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/201808131005320Hrq5wMC.html',
+  'nonce_str' => 'ER24leOU1ByjyfcILGjOAAlp',
+  'sign' => '5c98b1a14aca5a6ec05096a38e46acc9',
+)
+
+执行日期：2018-08-13-10:10:50
+leanwork签名认证:成功
+
+执行日期：2018-08-13-10:10:50
+表单提交
+
+执行日期：2018-08-13-10:10:50
+array (
+  'account' => '1000010000',
+  'order_id' => '180322000449TW001375000001140558',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140558',
+  'sign' => '72cf2944f0dd8ac8928aef26a614f27a',
+)
+
+执行日期：2018-08-13-10:10:51
+表单提交返回数据
+
+执行日期：2018-08-13-10:10:51
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140558',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/20180813101051M7QbuQFa.html',
+  'nonce_str' => 'NjkRpHluW3NK2N3qX0gADluM',
+  'sign' => 'ce764d3befe8f3f1a0739bfe4717ce52',
+)
+
+执行日期：2018-08-13-10:57:58
+leanwork签名认证:成功
+
+执行日期：2018-08-13-10:57:58
+表单提交
+
+执行日期：2018-08-13-10:57:58
+array (
+  'account' => '1000010000',
+  'order_id' => '180322000449TW001375000001140766',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140766',
+  'sign' => '510bd3cc52dab875e7c7f40265c8a416',
+)
+
+执行日期：2018-08-13-10:57:59
+表单提交返回数据
+
+执行日期：2018-08-13-10:57:59
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140766',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/20180813105759rI0Lm95H.html',
+  'nonce_str' => 'R5YkhT5wOhETLL96474xwt9e',
+  'sign' => '0664dbb828a294bdd64a72a5ca0174be',
+)
+
+执行日期：2018-08-13-11:06:09
+leanwork签名认证:成功
+
+执行日期：2018-08-13-11:06:09
+表单提交
+
+执行日期：2018-08-13-11:06:09
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140648',
+  'pay_method' => 4,
+  'amount' => '0.01',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140648',
+  'sign' => '09fb37ebfd9903410af36e07d347f0df',
+)
+
+执行日期：2018-08-13-11:06:10
+表单提交返回数据
+
+执行日期：2018-08-13-11:06:10
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140648',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/20180813110610I4L5ElLy.html',
+  'nonce_str' => 'crl2R4IV3QL8Q8k47vFBkRBU',
+  'sign' => '22d5ee33f1f83e2584266d18a0029dda',
+)
+
+执行日期：2018-08-13-11:06:31
+leanwork签名认证:成功
+
+执行日期：2018-08-13-11:06:31
+表单提交
+
+执行日期：2018-08-13-11:06:31
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140212',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140212',
+  'sign' => 'f6ac10695f5870830945531d44819807',
+)
+
+执行日期：2018-08-13-11:06:32
+表单提交返回数据
+
+执行日期：2018-08-13-11:06:32
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140212',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/20180813110632TYHCwMtO.html',
+  'nonce_str' => 'a5vgiSee2zSdOjhOVoK8sBsT',
+  'sign' => '1cb06ccda6d674da13d1df2c119aa18e',
+)
+
+执行日期：2018-08-13-11:08:14
+leanwork签名认证:成功
+
+执行日期：2018-08-13-11:08:14
+表单提交
+
+执行日期：2018-08-13-11:08:14
+array (
+  'account' => '2018081200001',
+  'order_id' => '180322000449TW001375000001140997',
+  'pay_method' => 4,
+  'amount' => '1.00',
+  'notifyurl' => 'http://zh.cynjs.com/zhifupay/08813/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'bank_code' => 'ABC',
+  'body' => 'test',
+  'nonce_str' => '180322000449TW001375000001140997',
+  'sign' => '58169f6c59fb27b26f9911d4f0084463',
+)
+
+执行日期：2018-08-13-11:08:15
+表单提交返回数据
+
+执行日期：2018-08-13-11:08:15
+array (
+  'code' => '00',
+  'msg' => '请求成功',
+  'order_id' => '180322000449TW001375000001140997',
+  'payUrl' => 'http://47.104.150.7/dtdjpay/tmp/20180813110815fAjUbPRA.html',
+  'nonce_str' => 'XKBOFeUnmUS2m0eY1DwygXrD',
+  'sign' => '5b222ead8adf08e3a2407101ec87aae9',
+)
+
+执行日期：2018-08-13-11:09:31
+支付通知验证-参数2:
+'{"code":"00","msg":"\\u4ea4\\u6613\\u5b8c\\u6210","nonce_str":"FLLFrwFogsmVWH871gO84zBW","amount":"1.00","order_id":"180322000449TW001375000001140997","status":"1","account":"2018081200001","sign":"b4895bbc7f4ba1dd335b50f9e2d3a1a4"}'
+
+执行日期：2018-08-13-11:09:31
+支付通知验证-参数5:
+{"code":"00","msg":"\u4ea4\u6613\u5b8c\u6210","nonce_str":"FLLFrwFogsmVWH871gO84zBW","amount":"1.00","order_id":"180322000449TW001375000001140997","status":"1","account":"2018081200001","sign":"b4895bbc7f4ba1dd335b50f9e2d3a1a4"}
+
+执行日期：2018-08-13-11:09:31
+支付通知验证-生成的签名:
+b4895bbc7f4ba1dd335b50f9e2d3a1a4
+
+执行日期：2018-08-13-11:09:31
+支付通知验证-参数:
+array (
+  'code' => '00',
+  'msg' => '交易完成',
+  'nonce_str' => 'FLLFrwFogsmVWH871gO84zBW',
+  'amount' => '1.00',
+  'order_id' => '180322000449TW001375000001140997',
+  'status' => '1',
+  'account' => '2018081200001',
+)
+
+执行日期：2018-08-13-11:09:31
+支付通知验证-结果:
+ok
+
+执行日期：2018-08-13-11:09:31
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-13-11:09:31
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140997',
+  'orderAmount' => '',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140997',
+  'status' => 'success',
+  'sign' => 'd89536209e98614ed38a1a7b27cbe153',
+)
+
+执行日期：2018-08-13-11:09:31
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-13-11:09:33
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140997',
+  'orderAmount' => '',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '180322000449TW001375000001140997',
+  'status' => 'success',
+  'sign' => 'd89536209e98614ed38a1a7b27cbe153',
+)
+
+执行日期：2018-08-13-11:09:33
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+

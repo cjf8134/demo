@@ -1,0 +1,126 @@
+执行日期：2018-07-02-11:04:25
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:05:04
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:05:57
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:05:57
+表单提交
+
+执行日期：2018-07-02-11:05:57
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180702110557',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201807021105574896',
+  'order_time' => '20180702110557',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => 'http://www.demo.cn/payment/ttpay2/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'remark' => '180322000449TW001375000001140165',
+  'currency' => 'CNY',
+)
+
+执行日期：2018-07-02-11:06:26
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:06:26
+表单提交
+
+执行日期：2018-07-02-11:06:26
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180702110626',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201807021106265836',
+  'order_time' => '20180702110626',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => 'http://www.demo.cn/payment/ttpay2/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'remark' => '180322000449TW001375000001140165',
+  'currency' => 'CNY',
+)
+
+执行日期：2018-07-02-11:07:43
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:07:43
+表单提交
+
+执行日期：2018-07-02-11:07:43
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180702110743',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201807021107434317',
+  'order_time' => '20180702110743',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => 'http://www.demo.cn/payment/ttpay2/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'remark' => '180322000449TW001375000001140165',
+  'currency' => 'CNY',
+)
+
+执行日期：2018-07-02-11:08:22
+leanwork签名认证:成功
+
+执行日期：2018-07-02-11:08:22
+表单提交
+
+执行日期：2018-07-02-11:08:22
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180702110822',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201807021108228181',
+  'order_time' => '20180702110822',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => 'http://www.demo.cn/payment/ttpay2/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'remark' => '180322000449TW001375000001140165',
+  'currency' => 'CNY',
+)
+

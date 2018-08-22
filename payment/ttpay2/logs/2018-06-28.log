@@ -1,0 +1,58 @@
+执行日期：2018-06-28-16:27:12
+leanwork签名认证:成功
+
+执行日期：2018-06-28-16:27:12
+表单提交
+
+执行日期：2018-06-28-16:27:12
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180628162712',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201806281627123674',
+  'order_time' => '20180628162712',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => '1',
+  'return_url' => '2',
+  'remark' => '180322000449TW001375000001140694',
+)
+
+执行日期：2018-06-28-16:37:07
+leanwork签名认证:成功
+
+执行日期：2018-06-28-16:37:07
+表单提交
+
+执行日期：2018-06-28-16:37:07
+array (
+  'app_id' => '100001465',
+  'terminal_type' => 'web',
+  'version' => '1.0',
+  'service' => 'fosun.sumpay.cashier.web.trade.order.apply',
+  'timestamp' => '20180628163707',
+  'mer_no' => '100001465',
+  'trade_code' => 'T0002',
+  'user_id' => '1',
+  'order_no' => '201806281637075315',
+  'order_time' => '20180628163707',
+  'order_amount' => '0.01',
+  'need_notify' => '1',
+  'need_return' => '1',
+  'goods_name' => 'electronic',
+  'goods_num' => '1',
+  'goods_type' => '2',
+  'notify_url' => 'http://localhost/payment/ttpay/notify.php',
+  'return_url' => 'http://localhost/pay/success',
+  'remark' => '180322000449TW001375000001140343',
+)
+

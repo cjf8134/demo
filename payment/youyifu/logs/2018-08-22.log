@@ -1,0 +1,87 @@
+执行日期：2018-08-22-11:18:07
+leanwork签名认证:成功
+
+执行日期：2018-08-22-11:18:07
+签名前的参数:
+
+
+执行日期：2018-08-22-11:18:07
+array (
+  'mch_id' => '1801',
+  'pay_type' => 'unipay.web',
+  'order_id' => '201808221118079146',
+  'order_time' => 1534907887,
+  'title' => 'pay',
+  'amount' => '100.00',
+  'bank_code' => 'ABC',
+  'page_url' => 'http://localhost/pay/success',
+  'jwt_notify_url' => 'http://www.demo.cn/payment/youyifu/notify.php',
+  'request_ip' => '127.0.0.1',
+  'reserve1' => 's',
+)
+
+执行日期：2018-08-22-11:18:07
+签名后返回的参数:
+
+
+执行日期：2018-08-22-11:18:07
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJtY2hfaWQiOiIxODAxIiwicGF5X3R5cGUiOiJ1bmlwYXkud2ViIiwib3JkZXJfaWQiOiIyMDE4MDgyMjExMTgwNzkxNDYiLCJvcmRlcl90aW1lIjoxNTM0OTA3ODg3LCJ0aXRsZSI6InBheSIsImFtb3VudCI6IjEwMC4wMCIsImJhbmtfY29kZSI6IkFCQyIsInBhZ2VfdXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9wYXlcL3N1Y2Nlc3MiLCJqd3Rfbm90aWZ5X3VybCI6Imh0dHA6XC9cL3d3dy5kZW1vLmNuXC9wYXltZW50XC95b3V5aWZ1XC9ub3RpZnkucGhwIiwicmVxdWVzdF9pcCI6IjEyNy4wLjAuMSIsInJlc2VydmUxIjoicyJ9.eNxdszuK18G0hfrvX4dffst-Tv6lQ43hTtH3eLAQHKrd2R0uetHuTXTM897g7AVkLNxy_CppxNg5qCieKF00N7O8JYvG1gg5JT29dI058JCRDP8mPHpp36HBqMNgphw2ScILXarCTBAjuNry1Ty1zwtU5r9LxFw6aJrw3N7I1-Vzk8HT3-u112QMwilAfIDYmOLrDAWxoI0MnLGvizcWMq15PbQna7EsS3JvMiRcauEHY60FtmEChcg3g0UDZiU7HHZmQB6e_Qp0nb3RV_Sp1ao6qgd4vE-s1Gr5JxWfX86j0vX80qn971IYHnu9NCFkcap2T8lp7686iKZfDPLFkg
+
+执行日期：2018-08-22-14:23:24
+leanwork签名认证:成功
+
+执行日期：2018-08-22-14:23:24
+签名前的参数:
+
+
+执行日期：2018-08-22-14:23:24
+array (
+  'mch_id' => '1801',
+  'pay_type' => 'unipay.web',
+  'order_id' => '201808221423244373',
+  'order_time' => 1534919004,
+  'title' => 'pay',
+  'amount' => 10000.0,
+  'bank_code' => 'ABC',
+  'page_url' => 'http://localhost/pay/success',
+  'jwt_notify_url' => 'http://www.demo.cn/payment/youyifu/notify.php',
+  'request_ip' => '127.0.0.1',
+  'reserve1' => 's',
+)
+
+执行日期：2018-08-22-14:23:25
+签名后返回的参数:
+
+
+执行日期：2018-08-22-14:23:25
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJtY2hfaWQiOiIxODAxIiwicGF5X3R5cGUiOiJ1bmlwYXkud2ViIiwib3JkZXJfaWQiOiIyMDE4MDgyMjE0MjMyNDQzNzMiLCJvcmRlcl90aW1lIjoxNTM0OTE5MDA0LCJ0aXRsZSI6InBheSIsImFtb3VudCI6MTAwMDAsImJhbmtfY29kZSI6IkFCQyIsInBhZ2VfdXJsIjoiaHR0cDpcL1wvbG9jYWxob3N0XC9wYXlcL3N1Y2Nlc3MiLCJqd3Rfbm90aWZ5X3VybCI6Imh0dHA6XC9cL3d3dy5kZW1vLmNuXC9wYXltZW50XC95b3V5aWZ1XC9ub3RpZnkucGhwIiwicmVxdWVzdF9pcCI6IjEyNy4wLjAuMSIsInJlc2VydmUxIjoicyJ9.Xur8pDGZSF9qwek8gik6CUjxA29vJjymMIK47ccs3RF2RoIECkOrnjzFHNfdJlaNnkRI1pEdt2qxBBjZs5v-SMAN6weTtlMHqPyZ2bzstdErV8BbuVnZtMaT41pFFdWO8VPg0lHm6lRet5y6f48hsn1btkYAqrPBYYIoNWWWedR0AC_cWYiRCfH8rKmXW1MEHqDO0uJk-W3q2GNgxB1XaUQV48Mvy7m6yR-67M3SMpyv011r5DYGpcU24hKoBbfsrmBePuKAzB30OXt8obdP-47goBoMLEVLxPs3p0u7MJVJeyF6SCGZaxV3k-hjDss9ts1plQ6OlXhSRbqPpAkRoA
+
+执行日期：2018-08-22-14:25:14
+leanwork签名认证:成功
+
+执行日期：2018-08-22-14:25:14
+签名前的参数:
+
+
+执行日期：2018-08-22-14:25:14
+array (
+  'mch_id' => '1801',
+  'pay_type' => 'unipay.web',
+  'order_id' => '201808221425146237',
+  'order_time' => 1534919114,
+  'title' => 'pay',
+  'amount' => 1000000.0,
+  'bank_code' => 'ABC',
+  'page_url' => 'http://localhost/pay/success',
+  'jwt_notify_url' => 'http://www.demo.cn/payment/youyifu/notify.php',
+  'request_ip' => '127.0.0.1',
+  'reserve1' => 's',
+)
+
+执行日期：2018-08-22-14:25:14
+签名后返回的参数:
+
+
+执行日期：2018-08-22-14:25:14
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJtY2hfaWQiOiIxODAxIiwicGF5X3R5cGUiOiJ1bmlwYXkud2ViIiwib3JkZXJfaWQiOiIyMDE4MDgyMjE0MjUxNDYyMzciLCJvcmRlcl90aW1lIjoxNTM0OTE5MTE0LCJ0aXRsZSI6InBheSIsImFtb3VudCI6MTAwMDAwMCwiYmFua19jb2RlIjoiQUJDIiwicGFnZV91cmwiOiJodHRwOlwvXC9sb2NhbGhvc3RcL3BheVwvc3VjY2VzcyIsImp3dF9ub3RpZnlfdXJsIjoiaHR0cDpcL1wvd3d3LmRlbW8uY25cL3BheW1lbnRcL3lvdXlpZnVcL25vdGlmeS5waHAiLCJyZXF1ZXN0X2lwIjoiMTI3LjAuMC4xIiwicmVzZXJ2ZTEiOiJzIn0.gGY3TdGfverSlvmThNNYx5mxi02I5KWbrbBL8dbPc0xxQ-j7pGBulVaZJMVcPao2c5Q3EJSSc-n2OctGOgGpP8j4ARdzZ0BUxyHu1kdLZi5Er83KkzBKIwHRiQi55z65iJjAT0M1nHtq0BcVRpnxfWp4jdwhaX3ZSB1xa_WvO1aG-Qo9CjfW39EkS4oHmFMD_dUEmZHL33kfnFN14DWrAWAuy_5nmOOEyV8zB-ad8bp5i2VGpbAZjNODuVEFyzE-ZRp0uqDYjYFymWcFYWZqosY21N48iRcH5xVSijPuol3V0qMNdoCmUyd-RSCPsLRUcCRn_IpJk4fvWars4wnhNA
+

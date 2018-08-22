@@ -1,0 +1,205 @@
+执行日期：2018-06-08-16:24:45
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:24:45
+银联跳转
+
+执行日期：2018-06-08-16:24:45
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 1,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140193',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:27:30
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:27:30
+银联跳转
+
+执行日期：2018-06-08-16:27:30
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 1,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140111',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:28:03
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:28:03
+银联跳转
+
+执行日期：2018-06-08-16:28:03
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 1,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140308',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:29:04
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:29:04
+银联跳转
+
+执行日期：2018-06-08-16:29:04
+array (
+  'action' => 'goAndPay',
+  'txnamt' => '0.01',
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140793',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:38:50
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:38:50
+银联跳转
+
+执行日期：2018-06-08-16:38:50
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 100,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140540',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:39:01
+leanwork签名认证:成功
+
+执行日期：2018-06-08-16:39:01
+银联跳转
+
+执行日期：2018-06-08-16:39:01
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 10,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140980',
+  'backurl' => 'http://127.0.0.1/gitee/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+
+执行日期：2018-06-08-16:47:30
+支付通知验证-参数:
+eyJyZXN1bHRjb2RlIjoiMDAwMCIsInJlc3VsdG1zZyI6InN1Y2Nlc3MiLCJtZXJpZCI6Ijg5OTE0MzkxIiwicXVlcnlpZCI6IjEyMzQ1Njc4OSIsInR4bmFtdCI6IjEwMCIsIm9yZGVyaWQiOiI0NTY3ODkxMjMiLCJwYXl0aW1lIjoiMTU1NDU0NSJ9
+sign:
+1bc6f126b16a26431518b394f4a00c9d
+
+执行日期：2018-06-08-16:47:30
+支付通知验证-参数:
+stdClass::__set_state(array(
+   'resultcode' => '0000',
+   'resultmsg' => 'success',
+   'merid' => '89914391',
+   'queryid' => '123456789',
+   'txnamt' => '100',
+   'orderid' => '456789123',
+   'paytime' => '1554545',
+))
+
+执行日期：2018-06-08-16:47:30
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-08-16:47:53
+支付通知验证-参数:
+eyJyZXN1bHRjb2RlIjoiMDAwMCIsInJlc3VsdG1zZyI6InN1Y2Nlc3MiLCJtZXJpZCI6Ijg5OTE0MzkxIiwicXVlcnlpZCI6IjEyMzQ1Njc4OSIsInR4bmFtdCI6IjEwMCIsIm9yZGVyaWQiOiI0NTY3ODkxMjMiLCJwYXl0aW1lIjoiMTU1NDU0NSJ9
+sign:
+1bc6f126b16a26431518b394f4a00c9d
+
+执行日期：2018-06-08-16:47:53
+支付通知验证-参数:
+array (
+  'resultcode' => '0000',
+  'resultmsg' => 'success',
+  'merid' => '89914391',
+  'queryid' => '123456789',
+  'txnamt' => '100',
+  'orderid' => '456789123',
+  'paytime' => '1554545',
+)
+
+执行日期：2018-06-08-16:47:53
+支付通知验证-结果:
+ok
+
+执行日期：2018-06-08-16:47:53
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-06-08-16:47:53
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '456789123',
+  'orderAmount' => 1,
+  'orderCurrency' => 'CNY',
+  'transactionId' => '123456789',
+  'status' => 'success',
+  'sign' => 'a1ae9a50f29dd3033d4692d819054dde',
+)
+
+执行日期：2018-06-08-16:47:54
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-06-08-16:47:56
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '456789123',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '123456789',
+  'status' => 'success',
+  'sign' => 'a1ae9a50f29dd3033d4692d819054dde',
+)
+
+执行日期：2018-06-08-16:47:56
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-06-08-17:01:24
+leanwork签名认证:成功
+
+执行日期：2018-06-08-17:01:24
+银联跳转
+
+执行日期：2018-06-08-17:01:24
+array (
+  'action' => 'goAndPay',
+  'txnamt' => 100,
+  'merid' => '89914391',
+  'orderid' => '180322000449TW001375000001140124',
+  'backurl' => 'http://localhost/payment/unionpay/notify.php',
+  'fronturl' => 'http://localhost/pay/success',
+)
+

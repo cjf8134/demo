@@ -1,0 +1,138 @@
+执行日期：2018-08-17-13:30:44
+leanwork签名认证:成功
+
+执行日期：2018-08-17-13:30:45
+参数:
+array (
+  'head' => 
+  array (
+    'version' => '1.0',
+    'method' => 'sandpay.trade.pay',
+    'productId' => '00000008',
+    'accessType' => '1',
+    'mid' => '13907027',
+    'channelType' => '07',
+    'reqTime' => '20180817133045',
+  ),
+  'body' => 
+  array (
+    'orderCode' => '180322000449TW001375000001140759',
+    'totalAmount' => '000000000001',
+    'subject' => '快捷h5支付',
+    'body' => '快捷h5支付',
+    'txnTimeOut' => '20181117133045',
+    'payMode' => 'sand_h5',
+    'payExtra' => '{"cardNo":"6228480059353791177"}',
+    'clientIp' => '218.106.117.210',
+    'notifyUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/notify.php',
+    'frontUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/return.php',
+    'extend' => '',
+    'clearCycle' => '0',
+  ),
+)
+
+执行日期：2018-08-17-13:30:45
+参数:
+T87jNc/DE621b/Zg7hAJKYRYZBiP35jyT8lYs4ZEngdOT8O6BMwKow6H9+h67l+1ZriptgXehQ3qCWkye0fgQ62ojMG38ol3eR+5na/iQteM3WahrTxjAUg3aNJ+r5AvVrVlWyROERNENF9ARdJo+1h1rA9mF611n9e8fCdnM/gFo7RqR/zlgSMR5fKYqTQk6WldzU4wAnwe3w1SCmkLnKMIeSCbeq6eJHY31wbvCgGQXak49DzrnVzD7W3yp/aexcxP5tb6jOZuviuUygvOQ7y1gWbnNfI3uaWQFiOIQCVwh/aiCOa0d2Gw+oQK/ZTUcm+AOH27CrpLvi1kIPZBIg==
+
+执行日期：2018-08-17-13:30:45
+表单提交-参数:
+array (
+  'charset' => 'utf-8',
+  'signType' => '01',
+  'data' => '{"head":{"version":"1.0","method":"sandpay.trade.pay","productId":"00000008","accessType":"1","mid":"13907027","channelType":"07","reqTime":"20180817133045"},"body":{"orderCode":"180322000449TW001375000001140759","totalAmount":"000000000001","subject":"\\u5feb\\u6377h5\\u652f\\u4ed8","body":"\\u5feb\\u6377h5\\u652f\\u4ed8","txnTimeOut":"20181117133045","payMode":"sand_h5","payExtra":"{\\"cardNo\\":\\"6228480059353791177\\"}","clientIp":"218.106.117.210","notifyUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/notify.php","frontUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/return.php","extend":"","clearCycle":"0"}}',
+  'sign' => 'T87jNc%2FDE621b%2FZg7hAJKYRYZBiP35jyT8lYs4ZEngdOT8O6BMwKow6H9%2Bh67l%2B1ZriptgXehQ3qCWkye0fgQ62ojMG38ol3eR%2B5na%2FiQteM3WahrTxjAUg3aNJ%2Br5AvVrVlWyROERNENF9ARdJo%2B1h1rA9mF611n9e8fCdnM%2FgFo7RqR%2FzlgSMR5fKYqTQk6WldzU4wAnwe3w1SCmkLnKMIeSCbeq6eJHY31wbvCgGQXak49DzrnVzD7W3yp%2FaexcxP5tb6jOZuviuUygvOQ7y1gWbnNfI3uaWQFiOIQCVwh%2FaiCOa0d2Gw%2BoQK%2FZTUcm%2BAOH27CrpLvi1kIPZBIg%3D%3D',
+)
+
+执行日期：2018-08-17-13:31:21
+leanwork签名认证:成功
+
+执行日期：2018-08-17-13:31:21
+参数:
+array (
+  'head' => 
+  array (
+    'version' => '1.0',
+    'method' => 'sandpay.trade.pay',
+    'productId' => '00000008',
+    'accessType' => '1',
+    'mid' => '13907027',
+    'channelType' => '07',
+    'reqTime' => '20180817133121',
+  ),
+  'body' => 
+  array (
+    'orderCode' => '180322000449TW001375000001140391',
+    'totalAmount' => '000000000001',
+    'subject' => '快捷h5支付',
+    'body' => '快捷h5支付',
+    'txnTimeOut' => '20181117133121',
+    'payMode' => 'sand_h5',
+    'payExtra' => '',
+    'clientIp' => '218.106.117.210',
+    'notifyUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/notify.php',
+    'frontUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/return.php',
+    'extend' => '',
+    'clearCycle' => '0',
+  ),
+)
+
+执行日期：2018-08-17-13:31:21
+参数:
+N2/aJxWLL5AyG0OwMv6rn2nbw849Ik5olASPtUYMOo85yyyDdUtnygQTuKz6ktUjeKdGVPZAkiys+rFli9KODAdxO1x7MPxDFrQAiGrczsLUJiQ6V3xbFF94LXovWGVccTxM7mYpfkTLE10OqVpsFQza0dXiaa07BwyEQ3fAFcHFUrU7HA14jLjF6jHt7ifZZhVPaSkzY7I15hoEJ9IxukuWtgRfDJJhWQU/M1ErTli9YychXMa9xRs1a9O/W8n627l+5scVMJ6d8yank5ehLBR4i5dW3lteW7LP9CrokthGiaY7AQJ7HQgSaEqFGxIcy955ECv101zMW2Dl/Ujnkw==
+
+执行日期：2018-08-17-13:31:21
+表单提交-参数:
+array (
+  'charset' => 'utf-8',
+  'signType' => '01',
+  'data' => '{"head":{"version":"1.0","method":"sandpay.trade.pay","productId":"00000008","accessType":"1","mid":"13907027","channelType":"07","reqTime":"20180817133121"},"body":{"orderCode":"180322000449TW001375000001140391","totalAmount":"000000000001","subject":"\\u5feb\\u6377h5\\u652f\\u4ed8","body":"\\u5feb\\u6377h5\\u652f\\u4ed8","txnTimeOut":"20181117133121","payMode":"sand_h5","payExtra":"","clientIp":"218.106.117.210","notifyUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/notify.php","frontUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/return.php","extend":"","clearCycle":"0"}}',
+  'sign' => 'N2%2FaJxWLL5AyG0OwMv6rn2nbw849Ik5olASPtUYMOo85yyyDdUtnygQTuKz6ktUjeKdGVPZAkiys%2BrFli9KODAdxO1x7MPxDFrQAiGrczsLUJiQ6V3xbFF94LXovWGVccTxM7mYpfkTLE10OqVpsFQza0dXiaa07BwyEQ3fAFcHFUrU7HA14jLjF6jHt7ifZZhVPaSkzY7I15hoEJ9IxukuWtgRfDJJhWQU%2FM1ErTli9YychXMa9xRs1a9O%2FW8n627l%2B5scVMJ6d8yank5ehLBR4i5dW3lteW7LP9CrokthGiaY7AQJ7HQgSaEqFGxIcy955ECv101zMW2Dl%2FUjnkw%3D%3D',
+)
+
+执行日期：2018-08-17-13:33:36
+leanwork签名认证:成功
+
+执行日期：2018-08-17-13:33:36
+参数:
+array (
+  'head' => 
+  array (
+    'version' => '1.0',
+    'method' => 'sandpay.trade.pay',
+    'productId' => '00000008',
+    'accessType' => '1',
+    'mid' => '13907027',
+    'channelType' => '07',
+    'reqTime' => '20180817133336',
+  ),
+  'body' => 
+  array (
+    'orderCode' => '180322000449TW001375000001140685',
+    'totalAmount' => '000000000001',
+    'subject' => '快捷h5支付',
+    'body' => '快捷h5支付',
+    'txnTimeOut' => '20181117133336',
+    'payMode' => 'sand_h5',
+    'payExtra' => '',
+    'clientIp' => '218.106.117.210',
+    'notifyUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/notify.php',
+    'frontUrl' => 'http://zh.cynjs.com/zhifupay/sand4h5pay/return.php',
+    'extend' => '',
+    'clearCycle' => '0',
+  ),
+)
+
+执行日期：2018-08-17-13:33:36
+参数:
+drI96v39IU3mCbn9p3Z2jy7MiTOmA7JOYJuDqBZBEmx7ZD//uVogUEOCLdvg927sxP1nXiSFinER5j9XbrQhtx2MRs3bZ5V7ErbhouachCxLKCB9TByoOSKlQNb6uzWE1+Q+8H16TuKq5GyEYK+6KbiVlJanic1ZlVmk3vKyF4GekckmJBwUSUYZdiNfrLh0MX+6SGRbvcsC5OOuFPR/+WNJvFQp7RZaCVgwpQPyxtQ/0VQuXFFjXagtYTZQMf8wV+LUBpwGz+yu2hlC/sL0HqY4bg3S2Asx09FFoCfWmcJaRSa+9hMxsoEa8HQ32lonDHuMzXvIy8t1PjeNPg7zgw==
+
+执行日期：2018-08-17-13:33:36
+表单提交-参数:
+array (
+  'charset' => 'utf-8',
+  'signType' => '01',
+  'data' => '{"head":{"version":"1.0","method":"sandpay.trade.pay","productId":"00000008","accessType":"1","mid":"13907027","channelType":"07","reqTime":"20180817133336"},"body":{"orderCode":"180322000449TW001375000001140685","totalAmount":"000000000001","subject":"\\u5feb\\u6377h5\\u652f\\u4ed8","body":"\\u5feb\\u6377h5\\u652f\\u4ed8","txnTimeOut":"20181117133336","payMode":"sand_h5","payExtra":"","clientIp":"218.106.117.210","notifyUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/notify.php","frontUrl":"http:\\/\\/zh.cynjs.com\\/zhifupay\\/sand4h5pay\\/return.php","extend":"","clearCycle":"0"}}',
+  'sign' => 'drI96v39IU3mCbn9p3Z2jy7MiTOmA7JOYJuDqBZBEmx7ZD%2F%2FuVogUEOCLdvg927sxP1nXiSFinER5j9XbrQhtx2MRs3bZ5V7ErbhouachCxLKCB9TByoOSKlQNb6uzWE1%2BQ%2B8H16TuKq5GyEYK%2B6KbiVlJanic1ZlVmk3vKyF4GekckmJBwUSUYZdiNfrLh0MX%2B6SGRbvcsC5OOuFPR%2F%2BWNJvFQp7RZaCVgwpQPyxtQ%2F0VQuXFFjXagtYTZQMf8wV%2BLUBpwGz%2Byu2hlC%2FsL0HqY4bg3S2Asx09FFoCfWmcJaRSa%2B9hMxsoEa8HQ32lonDHuMzXvIy8t1PjeNPg7zgw%3D%3D',
+)
+

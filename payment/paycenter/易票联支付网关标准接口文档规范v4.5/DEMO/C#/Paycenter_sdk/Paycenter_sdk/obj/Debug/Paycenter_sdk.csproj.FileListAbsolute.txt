@@ -1,0 +1,16 @@
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\obj\Debug\ResolveAssemblyReference.cache
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.Resource.resources
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.csproj.GenerateResource.Cache
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\bin\Paycenter_sdk.dll
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\bin\Paycenter_sdk.pdb
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\bin\BouncyCastle.Crypto.dll
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.dll
+E:\NetWorkSpace\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.pdb
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\bin\Paycenter_sdk.dll.config
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\bin\Paycenter_sdk.dll
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\bin\Paycenter_sdk.pdb
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.csprojResolveAssemblyReference.cache
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.Resource.resources
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.csproj.GenerateResource.Cache
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.dll
+F:\Epl\运维部\技术支持\技术支持交接资料\支付网关系统\易票联支付网关标准接口文档规范v4.5\DEMO\C#\Paycenter_sdk\Paycenter_sdk\obj\Debug\Paycenter_sdk.pdb

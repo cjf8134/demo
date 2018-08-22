@@ -1,0 +1,249 @@
+执行日期：2018-05-02-12:20:42
+leanwork签名认证:成功
+
+执行日期：2018-05-02-12:20:42
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140604&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140604&isshow=1&sign=44eb27e3059ba944b207e0031d5c35c8
+
+执行日期：2018-05-02-12:20:42
+表单提交
+
+执行日期：2018-05-02-12:20:42
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140604',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140604',
+  'isshow' => '1',
+  'sign' => '44eb27e3059ba944b207e0031d5c35c8',
+)
+
+执行日期：2018-05-02-12:32:41
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:32:41
+array (
+  'orderNo' => '180322000449TW001375000001140392',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:33:10
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:33:10
+array (
+  'orderNo' => '180322000449TW001375000001140885',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:33:14
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=农业银行&paymoney=1.01&ordernumber=180322000449TW001375000001140885&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140885&isshow=1&sign=caf098f223ebd92255c0ec35f26ac1eb
+
+执行日期：2018-05-02-12:33:14
+表单提交
+
+执行日期：2018-05-02-12:33:14
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => '农业银行',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140885',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140885',
+  'isshow' => '1',
+  'sign' => 'caf098f223ebd92255c0ec35f26ac1eb',
+)
+
+执行日期：2018-05-02-12:33:53
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:33:53
+array (
+  'orderNo' => '180322000449TW001375000001140753',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:33:55
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=<br />
+<b>Notice</b>:  Undefined variable: k in <b>C:\phpStudy\WWW\leanworkpay\yh\pay.php</b> on line <b>154</b><br />
+&paymoney=1.01&ordernumber=180322000449TW001375000001140753&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140753&isshow=1&sign=718866d5db1cb866b7f1447e3e51605a
+
+执行日期：2018-05-02-12:33:55
+表单提交
+
+执行日期：2018-05-02-12:33:55
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => '<br />
+<b>Notice</b>:  Undefined variable: k in <b>C:\\phpStudy\\WWW\\leanworkpay\\yh\\pay.php</b> on line <b>154</b><br />
+',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140753',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140753',
+  'isshow' => '1',
+  'sign' => '718866d5db1cb866b7f1447e3e51605a',
+)
+
+执行日期：2018-05-02-12:36:03
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:36:03
+array (
+  'orderNo' => '180322000449TW001375000001140268',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:36:11
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=BOC&paymoney=1.01&ordernumber=180322000449TW001375000001140268&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140268&isshow=1&sign=77dd1736fff284c6ef50dc9ac21b13d4
+
+执行日期：2018-05-02-12:36:11
+表单提交
+
+执行日期：2018-05-02-12:36:11
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'BOC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140268',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140268',
+  'isshow' => '1',
+  'sign' => '77dd1736fff284c6ef50dc9ac21b13d4',
+)
+
+执行日期：2018-05-02-12:36:39
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:36:39
+array (
+  'orderNo' => '180322000449TW001375000001140488',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:37:21
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ICBC&paymoney=1.01&ordernumber=180322000449TW001375000001140488&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140488&isshow=1&sign=8c40a26163512048ff8e7e1a282f2c07
+
+执行日期：2018-05-02-12:37:21
+表单提交
+
+执行日期：2018-05-02-12:37:21
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ICBC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140488',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140488',
+  'isshow' => '1',
+  'sign' => '8c40a26163512048ff8e7e1a282f2c07',
+)
+
+执行日期：2018-05-02-12:37:49
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:37:49
+array (
+  'orderNo' => '180322000449TW001375000001140584',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:37:52
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=ABC&paymoney=1.01&ordernumber=180322000449TW001375000001140584&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140584&isshow=1&sign=df3830b1c81f2ded102f04f235cffdee
+
+执行日期：2018-05-02-12:37:52
+表单提交
+
+执行日期：2018-05-02-12:37:52
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'ABC',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140584',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140584',
+  'isshow' => '1',
+  'sign' => 'df3830b1c81f2ded102f04f235cffdee',
+)
+
+执行日期：2018-05-02-12:38:06
+leanwork传进来的参数
+
+执行日期：2018-05-02-12:38:06
+array (
+  'orderNo' => '180322000449TW001375000001140572',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+
+执行日期：2018-05-02-12:38:10
+表单提交地址：http://pay.yiheshopping.com/online/gateway?version=3.0&method=Yh.online.interface&partner=17127&banktype=CCB&paymoney=1.01&ordernumber=180322000449TW001375000001140572&callbackurl=http://localhost/leanworkpay/yh/notify.php&hrefbackurl=http://localhost/pay/success&goodsname=pay&attach=180322000449TW001375000001140572&isshow=1&sign=adf2237b314c98dc1394437539425771
+
+执行日期：2018-05-02-12:38:10
+表单提交
+
+执行日期：2018-05-02-12:38:10
+array (
+  'version' => '3.0',
+  'method' => 'Yh.online.interface',
+  'partner' => '17127',
+  'banktype' => 'CCB',
+  'paymoney' => '1.01',
+  'ordernumber' => '180322000449TW001375000001140572',
+  'callbackurl' => 'http://localhost/leanworkpay/yh/notify.php',
+  'hrefbackurl' => 'http://localhost/pay/success',
+  'goodsname' => 'pay',
+  'attach' => '180322000449TW001375000001140572',
+  'isshow' => '1',
+  'sign' => 'adf2237b314c98dc1394437539425771',
+)
+
+执行日期：2018-05-02-14:32:10
+leanwork传进来的参数
+
+执行日期：2018-05-02-14:32:10
+array (
+  'orderNo' => '180322000449TW001375000001140719',
+  'pickupUrl' => 'http://localhost/pay/success',
+  'notify_url' => 'http://localhost/leanworkpay/yh/notify.php',
+  'orderAmount' => '1.01',
+)
+

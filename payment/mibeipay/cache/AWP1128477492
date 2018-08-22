@@ -1,0 +1,1 @@
+a:1:{s:10:"receiveUrl";s:21:"http://localhost/pay/";}

@@ -1,0 +1,48 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="CryptoJS/rollups/md5.js"></script>
+<script src="CryptoJS/components/enc-base64-min.js"></script>
+<script src="CryptoJS/jquery-2.1.1.min.js"></script>
+<script>
+  
+	$(document).ready(function(){		
+		
+			md5Key="508C1BB548B79922D7923EAC08230C8F";//MD5密钥串
+		
+			//组装签名串
+			signStr ="apiName="  	+getQueryString("apiName");		
+			signStr+="&tradeAmt="   +getQueryString("tradeAmt");
+			signStr+="&merchNo=" 	+getQueryString("merchNo");
+			signStr+="&orderNo="	+getQueryString("orderNo");
+			signStr+="&tradeDate="	+getQueryString("tradeDate");
+			signStr+="&accNo="		+getQueryString("accNo");
+			signStr+="&orderStatus=" +getQueryString("orderStatus");
+			signStr+=md5Key;
+			
+			//签名赋值
+			if(CryptoJS.MD5(signStr)==getQueryString("signMsg") && getQueryString("orderStatus")=="1"){
+			
+				
+				$("#result").html("支付成功！");
+				
+			}else{
+				
+				$("#result").html('支付失败！');
+				
+			}
+			
+	});
+	
+	function getQueryString(name) { 
+		var reg = new RegExp("(^|&)"+name+"=([^&]*)(&|$)","i"); 
+		var r = window.location.search.substr(1).match(reg); 
+		if (r != null) return unescape(r[2]); return null; 
+	} 
+</script>
+</head>
+<body>
+<br><br>
+<span id="result"></span>
+</body>
+</html>

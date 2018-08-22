@@ -1,0 +1,130 @@
+执行日期：2018-07-23-14:36:04
+leanwork签名认证:成功
+
+执行日期：2018-07-23-14:36:04
+未签名前的请求数据:
+array (
+  'merchantNo' => '500004871591',
+  'requestNo' => '180322000449TW001375000001140445',
+  'amount' => 100,
+  'payMethod' => '6018',
+  'pageUrl' => 'http://localhost/pay/success',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/kktpay/notify.php',
+  'payDate' => 1532327764,
+  'remark1' => 'text',
+  'remark2' => '180322000449TW001375000001140445',
+  'remark3' => '180322000449TW001375000001140445',
+)
+
+执行日期：2018-07-23-14:36:04
+生成签名请求参数:
+500004871591|180322000449TW001375000001140445|100|http://localhost/pay/success|http://zh.cynjs.com/zhifupay/kktpay/notify.php|1532327764|text|180322000449TW001375000001140445|180322000449TW001375000001140445
+
+执行日期：2018-07-23-14:36:04
+签名生成:
+eRsJaWACD2Sno2ZeGLFwCN/5wZkbeEy5/nEV6i2C7wjLWG/50Meendpuf31WFlMT6GJKAqOqXKSxtSLN3gIknay2tP208riDzS7ZKA58+Oh7C6obtI12IofOTwnw5nIKbkBzo3s+pglQLM/jIiMtQ69P0Gql3Y8co5lXWf/FS2s=
+
+执行日期：2018-07-23-14:36:04
+请求数据:
+array (
+  'merchantNo' => '500004871591',
+  'requestNo' => '180322000449TW001375000001140445',
+  'amount' => 100,
+  'payMethod' => '6018',
+  'pageUrl' => 'http://localhost/pay/success',
+  'backUrl' => 'http://zh.cynjs.com/zhifupay/kktpay/notify.php',
+  'payDate' => 1532327764,
+  'remark1' => 'text',
+  'remark2' => '180322000449TW001375000001140445',
+  'remark3' => '180322000449TW001375000001140445',
+  'signature' => 'eRsJaWACD2Sno2ZeGLFwCN/5wZkbeEy5/nEV6i2C7wjLWG/50Meendpuf31WFlMT6GJKAqOqXKSxtSLN3gIknay2tP208riDzS7ZKA58+Oh7C6obtI12IofOTwnw5nIKbkBzo3s+pglQLM/jIiMtQ69P0Gql3Y8co5lXWf/FS2s=',
+)
+
+执行日期：2018-07-23-14:37:55
+支付通知验证-参数:
+array (
+  'ret' => '{"code":"1000","msg":"SUCCESS"}',
+  'msg' => '{"money":100,"orderDate":"2018-07-23 14:37:54","no":"180322000449TW001375000001140445","merchantNo":"500004871591","payNo":"81807231436056934969","remarks":"text"}',
+  'sign' => 'nxgXV3FwiFZYeettiLzcdkHw3mla8oMExF51BDb++edc0XoRD2PtlU6D3qvDxAbIYJO1MEu4AMMqztfRmqDTJ+1gEuvwNmZ37qLt0ibiHjSoHaHFNiOfQ279OoN1pwmpjht00G348kXCVThYwYtYqGUZdsr6RPPprHtCHBuScPE=',
+)
+
+执行日期：2018-07-23-14:37:55
+支付通知验证-参数res:
+NULL
+
+执行日期：2018-07-23-14:37:55
+支付通知验证-参数msg:
+array (
+  'money' => 100,
+  'orderDate' => '2018-07-23 14:37:54',
+  'no' => '180322000449TW001375000001140445',
+  'merchantNo' => '500004871591',
+  'payNo' => '81807231436056934969',
+  'remarks' => 'text',
+)
+
+执行日期：2018-07-23-14:37:55
+支付通知验证-sign:
+nxgXV3FwiFZYeettiLzcdkHw3mla8oMExF51BDb++edc0XoRD2PtlU6D3qvDxAbIYJO1MEu4AMMqztfRmqDTJ+1gEuvwNmZ37qLt0ibiHjSoHaHFNiOfQ279OoN1pwmpjht00G348kXCVThYwYtYqGUZdsr6RPPprHtCHBuScPE=
+
+执行日期：2018-07-23-14:37:55
+参与验签的字符串-参数:
+{"code":"1000","msg":"SUCCESS"}|{"money":100,"orderDate":"2018-07-23 14:37:54","no":"180322000449TW001375000001140445","merchantNo":"500004871591","payNo":"81807231436056934969","remarks":"text"}
+
+执行日期：2018-07-23-14:37:55
+支付通知验证(字符过滤)-sign:
+nxgXV3FwiFZYeettiLzcdkHw3mla8oMExF51BDb++edc0XoRD2PtlU6D3qvDxAbIYJO1MEu4AMMqztfRmqDTJ+1gEuvwNmZ37qLt0ibiHjSoHaHFNiOfQ279OoN1pwmpjht00G348kXCVThYwYtYqGUZdsr6RPPprHtCHBuScPE=
+
+执行日期：2018-07-23-14:37:55
+支付通知验证-结果:
+ok
+
+执行日期：2018-07-23-14:37:55
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-07-23-14:37:55
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140445',
+  'orderAmount' => '10000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '81807231436056934969',
+  'status' => 'success',
+  'sign' => '67ce63b1dabdbeee42df5cfab72ef3de',
+)
+
+执行日期：2018-07-23-14:37:55
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+
+执行日期：2018-07-23-14:37:57
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140445',
+  'orderAmount' => '10000',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '81807231436056934969',
+  'status' => 'success',
+  'sign' => '67ce63b1dabdbeee42df5cfab72ef3de',
+)
+
+执行日期：2018-07-23-14:37:57
+通知leanwork-结果:
+'<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /pay/ was not found on this server.</p>
+</body></html>
+'
+

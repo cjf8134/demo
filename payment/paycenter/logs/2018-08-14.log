@@ -1,0 +1,342 @@
+执行日期：2018-08-14-20:31:19
+leanwork签名认证:成功
+
+执行日期：2018-08-14-20:31:19
+加密前组装参数res:
+array (
+  'pickupUrl' => 'http://localhost/pay/success',
+  'receiveUrl' => 'http://localhost/pay/',
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140494',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'customerId' => '1',
+  'sign' => '20974fa8a616129b320d9ccd54ea2053',
+)
+
+执行日期：2018-08-14-20:31:19
+加密前组装参数res:
+array (
+  'partner' => '130',
+  'sign_type' => 'SHA256withRSA',
+  'version' => '4.0',
+  'certId' => '335902764374016746163578510918738695929360058949',
+  'out_trade_no' => '201808142031193466',
+  'total_fee' => '1',
+  'currency_type' => 'RMB',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/paycenter/notify.php',
+  'pay_id' => 'unionquickpay',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA0OTQ=',
+)
+
+执行日期：2018-08-14-20:33:05
+leanwork签名认证:成功
+
+执行日期：2018-08-14-20:33:05
+加密前组装参数res:
+array (
+  'pickupUrl' => 'http://localhost/pay/success',
+  'receiveUrl' => 'http://localhost/pay/',
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140518',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'customerId' => '1',
+  'sign' => '57a23b7ee54b38c6cb6b1eaaeb7a752b',
+)
+
+执行日期：2018-08-14-20:33:05
+加密前组装参数res:
+array (
+  'partner' => '130',
+  'sign_type' => 'SHA256withRSA',
+  'version' => '4.0',
+  'certId' => '335902764374016746163578510918738695929360058949',
+  'out_trade_no' => '201808142033052775',
+  'total_fee' => '1',
+  'currency_type' => 'RMB',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/paycenter/notify.php',
+  'pay_id' => 'unionquickpay',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA1MTg=',
+)
+
+执行日期：2018-08-14-20:47:29
+leanwork签名认证:成功
+
+执行日期：2018-08-14-20:47:29
+加密前组装参数res:
+array (
+  'pickupUrl' => 'http://localhost/pay/success',
+  'receiveUrl' => 'http://localhost/pay/',
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140627',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'customerId' => '1',
+  'sign' => '9d8d8a7fad353c18a6d9a0a3cd92ff9e',
+)
+
+执行日期：2018-08-14-20:47:29
+加密前组装参数res:
+array (
+  'partner' => '130',
+  'sign_type' => 'SHA256withRSA',
+  'version' => '4.0',
+  'certId' => '335902764374016746163578510918738695929360058949',
+  'out_trade_no' => '201808142047298275',
+  'total_fee' => '1',
+  'currency_type' => 'RMB',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/paycenter/notify.php',
+  'pay_id' => 'unionquickpay',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA2Mjc=',
+)
+
+执行日期：2018-08-14-20:48:16
+支付通知验证-参数:
+array (
+  'amount' => '1.00',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA2Mjc=',
+  'channel_id' => '10',
+  'dec_fee' => '0.5',
+  'dec_fee_rate' => '50.0',
+  'out_trade_no' => '201808142047298275',
+  'partner' => '130',
+  'pay_no' => '998437',
+  'pay_result' => '1',
+  'pay_time' => '20180814203522',
+  'sett_date' => '',
+  'sett_time' => '',
+  'sign' => 'mf5BhAeXkjFBH7sEdBxINjHIUM0Ep8XSE4RNLSTUZ300mMI+YovoRxtBuAdwhSA9rUf8bsXeapgyiGorqfiCjISLX59DWQGb9dblIvyP8tRBgnQ9/ZNhLUkSdzSceORD4mqWDZpZORSqaUmCtPInZDx9JaYrnGe1iLj6r8katQSb7DL5pMqKbt4TDDt0fqZahWtMm1taRVfRzd0x3gaWeqUcbv4N7VrH4JHt+jMuBg+aq1nQdb5pdlCs23+XgQzLPI210TF7gEeVxCk9qVS3Uwkn51+3RDhQV7YnJa07fNmA+OiZ3zdPnmTlcn2uyT9AEKEEChc/jnbem5yDUjuYIQ==',
+  'sign_type' => 'SHA256withRSA',
+)
+
+执行日期：2018-08-14-20:48:16
+支付通知验证-参数GET:
+array (
+)
+
+执行日期：2018-08-14-20:48:16
+支付通知验证-参数POST:
+array (
+  'amount' => '1.00',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA2Mjc=',
+  'channel_id' => '10',
+  'dec_fee' => '0.5',
+  'dec_fee_rate' => '50.0',
+  'out_trade_no' => '201808142047298275',
+  'partner' => '130',
+  'pay_no' => '998437',
+  'pay_result' => '1',
+  'pay_time' => '20180814203522',
+  'sett_date' => '',
+  'sett_time' => '',
+  'sign' => 'mf5BhAeXkjFBH7sEdBxINjHIUM0Ep8XSE4RNLSTUZ300mMI+YovoRxtBuAdwhSA9rUf8bsXeapgyiGorqfiCjISLX59DWQGb9dblIvyP8tRBgnQ9/ZNhLUkSdzSceORD4mqWDZpZORSqaUmCtPInZDx9JaYrnGe1iLj6r8katQSb7DL5pMqKbt4TDDt0fqZahWtMm1taRVfRzd0x3gaWeqUcbv4N7VrH4JHt+jMuBg+aq1nQdb5pdlCs23+XgQzLPI210TF7gEeVxCk9qVS3Uwkn51+3RDhQV7YnJa07fNmA+OiZ3zdPnmTlcn2uyT9AEKEEChc/jnbem5yDUjuYIQ==',
+  'sign_type' => 'SHA256withRSA',
+)
+
+执行日期：2018-08-14-20:48:16
+通知leanwork地址:http://localhost/pay/
+
+执行日期：2018-08-14-20:48:16
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140627',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '998437',
+  'status' => 'success',
+  'sign' => 'a6fe9ccda55914592c2fae538afdc0ec',
+)
+
+执行日期：2018-08-14-20:48:16
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-14-20:48:18
+通知leanwork-请求:
+array (
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140627',
+  'orderAmount' => '1.00',
+  'orderCurrency' => 'CNY',
+  'transactionId' => '998437',
+  'status' => 'success',
+  'sign' => 'a6fe9ccda55914592c2fae538afdc0ec',
+)
+
+执行日期：2018-08-14-20:48:18
+通知leanwork-结果:
+'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>系统发生错误</title>
+<style type="text/css">
+*{ padding: 0; margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #fff; font-family: \'微软雅黑\'; color: #333; font-size: 16px; }
+img{ border: 0; }
+.error{ padding: 24px 48px; }
+.face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+h1{ font-size: 32px; line-height: 48px; }
+.error .content{ padding-top: 10px}
+.error .info{ margin-bottom: 12px; }
+.error .info .title{ margin-bottom: 3px; }
+.error .info .title h3{ color: #000; font-weight: 700; font-size: 16px; }
+.error .info .text{ line-height: 24px; }
+.copyright{ padding: 12px 48px; color: #999; }
+.copyright a{ color: #000; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="error">
+<h1>无法加载模块:Pay</h1>
+<div class="content">
+	<div class="info">
+		<div class="title">
+			<h3>错误位置</h3>
+		</div>
+		<div class="text">
+			<p>FILE: C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php &#12288;LINE: 176</p>
+		</div>
+	</div>
+	<div class="info">
+		<div class="title">
+			<h3>TRACE</h3>
+		</div>
+		<div class="text">
+			<p>#0 C:\\18725\\ThinkPHP\\Library\\Think\\Dispatcher.class.php(176): E(\'\\xE6\\x97\\xA0\\xE6\\xB3\\x95\\xE5\\x8A\\xA0\\xE8\\xBD\\xBD\\xE6\\xA8\\xA1...\')<br />
+#1 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(38): Think\\Dispatcher::dispatch()<br />
+#2 C:\\18725\\ThinkPHP\\Library\\Think\\App.class.php(193): Think\\App::init()<br />
+#3 C:\\18725\\ThinkPHP\\Library\\Think\\Think.class.php(120): Think\\App::run()<br />
+#4 C:\\18725\\ThinkPHP\\ThinkPHP.php(97): Think\\Think::start()<br />
+#5 C:\\18725\\index.php(25): require(\'C:\\\\18725\\\\ThinkP...\')<br />
+#6 {main}</p>
+		</div>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+'
+
+执行日期：2018-08-14-20:54:00
+leanwork签名认证:成功
+
+执行日期：2018-08-14-20:54:00
+加密前组装参数res:
+array (
+  'pickupUrl' => 'http://localhost/pay/success',
+  'receiveUrl' => 'http://localhost/pay/',
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140995',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'customerId' => '1',
+  'sign' => 'fa349d730b362a0861e390f7770b9621',
+)
+
+执行日期：2018-08-14-20:54:00
+加密前组装参数res:
+array (
+  'partner' => '130',
+  'sign_type' => 'SHA256withRSA',
+  'version' => '4.0',
+  'certId' => '335902764374016746163578510918738695929360058949',
+  'out_trade_no' => '201808142054007535',
+  'total_fee' => '1',
+  'currency_type' => 'RMB',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/paycenter/notify.php',
+  'pay_id' => 'unionquickpay',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA5OTU=',
+)
+
+执行日期：2018-08-14-20:57:34
+leanwork签名认证:成功
+
+执行日期：2018-08-14-20:57:34
+加密前组装参数res:
+array (
+  'pickupUrl' => 'http://localhost/pay/success',
+  'receiveUrl' => 'http://localhost/pay/',
+  'signType' => 'MD5',
+  'orderNo' => '180322000449TW001375000001140497',
+  'orderAmount' => '1',
+  'orderCurrency' => 'CNY',
+  'customerId' => '1',
+  'sign' => 'd96676c118c9ac45f0b2d01488205ab5',
+)
+
+执行日期：2018-08-14-20:57:34
+加密前组装参数res:
+array (
+  'partner' => '130',
+  'sign_type' => 'SHA256withRSA',
+  'version' => '4.0',
+  'certId' => '335902764374016746163578510918738695929360058949',
+  'out_trade_no' => '201808142057343295',
+  'total_fee' => '1',
+  'currency_type' => 'RMB',
+  'return_url' => 'http://localhost/pay/success',
+  'notify_url' => 'http://zh.cynjs.com/zhifupay/paycenter/notify.php',
+  'pay_id' => 'unionquickpay',
+  'base64_memo' => 'MTgwMzIyMDAwNDQ5VFcwMDEzNzUwMDAwMDExNDA0OTc=',
+)
+
